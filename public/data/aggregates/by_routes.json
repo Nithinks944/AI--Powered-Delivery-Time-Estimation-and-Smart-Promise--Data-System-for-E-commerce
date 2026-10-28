@@ -1,0 +1,4092 @@
+[
+  {
+    "sellerState": "SP",
+    "customerState": "SP",
+    "orders": 30735,
+    "revenue": 3523300,
+    "avgFreight": 15.21,
+    "avgDeliveryDays": 7.9,
+    "avgEstimatedDays": 17.3,
+    "lateRate": 6.2
+  },
+  {
+    "sellerState": "SP",
+    "customerState": "RJ",
+    "orders": 8158,
+    "revenue": 1065831,
+    "avgFreight": 23.51,
+    "avgDeliveryDays": 16.3,
+    "avgEstimatedDays": 26.4,
+    "lateRate": 15.5
+  },
+  {
+    "sellerState": "SP",
+    "customerState": "MG",
+    "orders": 7440,
+    "revenue": 926295,
+    "avgFreight": 23.3,
+    "avgDeliveryDays": 12.4,
+    "avgEstimatedDays": 24.3,
+    "lateRate": 6.3
+  },
+  {
+    "sellerState": "SP",
+    "customerState": "RS",
+    "orders": 3596,
+    "revenue": 440776,
+    "avgFreight": 23.71,
+    "avgDeliveryDays": 16.2,
+    "avgEstimatedDays": 29.7,
+    "lateRate": 7.6
+  },
+  {
+    "sellerState": "SP",
+    "customerState": "PR",
+    "orders": 3119,
+    "revenue": 393099,
+    "avgFreight": 23.61,
+    "avgDeliveryDays": 12.8,
+    "avgEstimatedDays": 25.1,
+    "lateRate": 5.4
+  },
+  {
+    "sellerState": "PR",
+    "customerState": "SP",
+    "orders": 2924,
+    "revenue": 458654,
+    "avgFreight": 22,
+    "avgDeliveryDays": 11.2,
+    "avgEstimatedDays": 25.6,
+    "lateRate": 3.6
+  },
+  {
+    "sellerState": "MG",
+    "customerState": "SP",
+    "orders": 2546,
+    "revenue": 311382,
+    "avgFreight": 24.36,
+    "avgDeliveryDays": 10.9,
+    "avgEstimatedDays": 23.8,
+    "lateRate": 4.3
+  },
+  {
+    "sellerState": "SP",
+    "customerState": "SC",
+    "orders": 2327,
+    "revenue": 303509,
+    "avgFreight": 24.25,
+    "avgDeliveryDays": 15.8,
+    "avgEstimatedDays": 26.1,
+    "lateRate": 11
+  },
+  {
+    "sellerState": "SP",
+    "customerState": "BA",
+    "orders": 2307,
+    "revenue": 311421,
+    "avgFreight": 27.66,
+    "avgDeliveryDays": 19.8,
+    "avgEstimatedDays": 29.9,
+    "lateRate": 15
+  },
+  {
+    "sellerState": "MG",
+    "customerState": "MG",
+    "orders": 1525,
+    "revenue": 178720,
+    "avgFreight": 18.72,
+    "avgDeliveryDays": 8.7,
+    "avgEstimatedDays": 20.5,
+    "lateRate": 3.1
+  },
+  {
+    "sellerState": "SP",
+    "customerState": "ES",
+    "orders": 1461,
+    "revenue": 184703,
+    "avgFreight": 22.8,
+    "avgDeliveryDays": 15.8,
+    "avgEstimatedDays": 24.6,
+    "lateRate": 14.2
+  },
+  {
+    "sellerState": "SP",
+    "customerState": "GO",
+    "orders": 1420,
+    "revenue": 186857,
+    "avgFreight": 23.88,
+    "avgDeliveryDays": 16,
+    "avgEstimatedDays": 26.8,
+    "lateRate": 9.2
+  },
+  {
+    "sellerState": "SP",
+    "customerState": "DF",
+    "orders": 1383,
+    "revenue": 174757,
+    "avgFreight": 22.66,
+    "avgDeliveryDays": 13.3,
+    "avgEstimatedDays": 24,
+    "lateRate": 8.2
+  },
+  {
+    "sellerState": "RJ",
+    "customerState": "SP",
+    "orders": 1320,
+    "revenue": 261461,
+    "avgFreight": 21.21,
+    "avgDeliveryDays": 11.8,
+    "avgEstimatedDays": 22.8,
+    "lateRate": 9.1
+  },
+  {
+    "sellerState": "SC",
+    "customerState": "SP",
+    "orders": 1305,
+    "revenue": 197253,
+    "avgFreight": 24.96,
+    "avgDeliveryDays": 12.1,
+    "avgEstimatedDays": 26,
+    "lateRate": 4.4
+  },
+  {
+    "sellerState": "MG",
+    "customerState": "RJ",
+    "orders": 1134,
+    "revenue": 145958,
+    "avgFreight": 27.53,
+    "avgDeliveryDays": 14.2,
+    "avgEstimatedDays": 26.8,
+    "lateRate": 9.3
+  },
+  {
+    "sellerState": "SP",
+    "customerState": "PE",
+    "orders": 1133,
+    "revenue": 158222,
+    "avgFreight": 34.06,
+    "avgDeliveryDays": 18.9,
+    "avgEstimatedDays": 31.8,
+    "lateRate": 10.8
+  },
+  {
+    "sellerState": "SP",
+    "customerState": "CE",
+    "orders": 969,
+    "revenue": 149082,
+    "avgFreight": 34.85,
+    "avgDeliveryDays": 21.3,
+    "avgEstimatedDays": 31.4,
+    "lateRate": 15.3
+  },
+  {
+    "sellerState": "PR",
+    "customerState": "RJ",
+    "orders": 963,
+    "revenue": 145210,
+    "avgFreight": 25.83,
+    "avgDeliveryDays": 17.3,
+    "avgEstimatedDays": 29.8,
+    "lateRate": 14
+  },
+  {
+    "sellerState": "RJ",
+    "customerState": "RJ",
+    "orders": 956,
+    "revenue": 183828,
+    "avgFreight": 14.23,
+    "avgDeliveryDays": 6.6,
+    "avgEstimatedDays": 19,
+    "lateRate": 6.5
+  },
+  {
+    "sellerState": "PR",
+    "customerState": "MG",
+    "orders": 817,
+    "revenue": 138370,
+    "avgFreight": 26.4,
+    "avgDeliveryDays": 13.9,
+    "avgEstimatedDays": 28.7,
+    "lateRate": 5.3
+  },
+  {
+    "sellerState": "PR",
+    "customerState": "PR",
+    "orders": 714,
+    "revenue": 103466,
+    "avgFreight": 18.01,
+    "avgDeliveryDays": 8.2,
+    "avgEstimatedDays": 20,
+    "lateRate": 4.3
+  },
+  {
+    "sellerState": "SP",
+    "customerState": "PA",
+    "orders": 681,
+    "revenue": 112195,
+    "avgFreight": 35.64,
+    "avgDeliveryDays": 23.3,
+    "avgEstimatedDays": 36.6,
+    "lateRate": 13.2
+  },
+  {
+    "sellerState": "RS",
+    "customerState": "SP",
+    "orders": 667,
+    "revenue": 115816,
+    "avgFreight": 26.47,
+    "avgDeliveryDays": 10.1,
+    "avgEstimatedDays": 28.1,
+    "lateRate": 2.2
+  },
+  {
+    "sellerState": "SP",
+    "customerState": "MT",
+    "orders": 653,
+    "revenue": 97184,
+    "avgFreight": 29.72,
+    "avgDeliveryDays": 17.7,
+    "avgEstimatedDays": 31.6,
+    "lateRate": 6.7
+  },
+  {
+    "sellerState": "PR",
+    "customerState": "RS",
+    "orders": 576,
+    "revenue": 84942,
+    "avgFreight": 24.88,
+    "avgDeliveryDays": 13.4,
+    "avgEstimatedDays": 26.2,
+    "lateRate": 5.2
+  },
+  {
+    "sellerState": "RJ",
+    "customerState": "MG",
+    "orders": 551,
+    "revenue": 106321,
+    "avgFreight": 20.54,
+    "avgDeliveryDays": 12.2,
+    "avgEstimatedDays": 24.6,
+    "lateRate": 7.3
+  },
+  {
+    "sellerState": "SP",
+    "customerState": "MA",
+    "orders": 491,
+    "revenue": 67205,
+    "avgFreight": 42.82,
+    "avgDeliveryDays": 22.1,
+    "avgEstimatedDays": 30.7,
+    "lateRate": 21.2
+  },
+  {
+    "sellerState": "SP",
+    "customerState": "MS",
+    "orders": 477,
+    "revenue": 72530,
+    "avgFreight": 25.34,
+    "avgDeliveryDays": 15.9,
+    "avgEstimatedDays": 25.4,
+    "lateRate": 14.7
+  },
+  {
+    "sellerState": "SC",
+    "customerState": "RJ",
+    "orders": 470,
+    "revenue": 78240,
+    "avgFreight": 29.21,
+    "avgDeliveryDays": 16.4,
+    "avgEstimatedDays": 29.1,
+    "lateRate": 10.2
+  },
+  {
+    "sellerState": "SC",
+    "customerState": "MG",
+    "orders": 428,
+    "revenue": 80147,
+    "avgFreight": 31.76,
+    "avgDeliveryDays": 14.7,
+    "avgEstimatedDays": 29.8,
+    "lateRate": 5.1
+  },
+  {
+    "sellerState": "PR",
+    "customerState": "SC",
+    "orders": 390,
+    "revenue": 59457,
+    "avgFreight": 23.27,
+    "avgDeliveryDays": 13.4,
+    "avgEstimatedDays": 25.1,
+    "lateRate": 6.7
+  },
+  {
+    "sellerState": "MG",
+    "customerState": "BA",
+    "orders": 366,
+    "revenue": 44832,
+    "avgFreight": 29.87,
+    "avgDeliveryDays": 18.4,
+    "avgEstimatedDays": 28.4,
+    "lateRate": 10.7
+  },
+  {
+    "sellerState": "MG",
+    "customerState": "PR",
+    "orders": 363,
+    "revenue": 47081,
+    "avgFreight": 28.69,
+    "avgDeliveryDays": 12.8,
+    "avgEstimatedDays": 28,
+    "lateRate": 1.9
+  },
+  {
+    "sellerState": "SP",
+    "customerState": "PB",
+    "orders": 336,
+    "revenue": 66003,
+    "avgFreight": 49.86,
+    "avgDeliveryDays": 20.7,
+    "avgEstimatedDays": 33,
+    "lateRate": 11
+  },
+  {
+    "sellerState": "SP",
+    "customerState": "RN",
+    "orders": 332,
+    "revenue": 54803,
+    "avgFreight": 41.21,
+    "avgDeliveryDays": 20.5,
+    "avgEstimatedDays": 32.7,
+    "lateRate": 12
+  },
+  {
+    "sellerState": "SP",
+    "customerState": "PI",
+    "orders": 329,
+    "revenue": 49794,
+    "avgFreight": 41.41,
+    "avgDeliveryDays": 20.3,
+    "avgEstimatedDays": 30.2,
+    "lateRate": 18.2
+  },
+  {
+    "sellerState": "DF",
+    "customerState": "SP",
+    "orders": 308,
+    "revenue": 35640,
+    "avgFreight": 20.89,
+    "avgDeliveryDays": 10.8,
+    "avgEstimatedDays": 23.4,
+    "lateRate": 2.9
+  },
+  {
+    "sellerState": "SC",
+    "customerState": "RS",
+    "orders": 293,
+    "revenue": 45838,
+    "avgFreight": 25.31,
+    "avgDeliveryDays": 12.9,
+    "avgEstimatedDays": 24.8,
+    "lateRate": 6.1
+  },
+  {
+    "sellerState": "RS",
+    "customerState": "RS",
+    "orders": 288,
+    "revenue": 55780,
+    "avgFreight": 17.96,
+    "avgDeliveryDays": 7.4,
+    "avgEstimatedDays": 18.2,
+    "lateRate": 5.2
+  },
+  {
+    "sellerState": "SC",
+    "customerState": "PR",
+    "orders": 285,
+    "revenue": 42773,
+    "avgFreight": 24.87,
+    "avgDeliveryDays": 11.1,
+    "avgEstimatedDays": 24.8,
+    "lateRate": 3.2
+  },
+  {
+    "sellerState": "MG",
+    "customerState": "RS",
+    "orders": 278,
+    "revenue": 34589,
+    "avgFreight": 36.29,
+    "avgDeliveryDays": 17.2,
+    "avgEstimatedDays": 33.2,
+    "lateRate": 5
+  },
+  {
+    "sellerState": "SP",
+    "customerState": "AL",
+    "orders": 255,
+    "revenue": 41354,
+    "avgFreight": 36.63,
+    "avgDeliveryDays": 25.1,
+    "avgEstimatedDays": 32.3,
+    "lateRate": 26.3
+  },
+  {
+    "sellerState": "SC",
+    "customerState": "SC",
+    "orders": 255,
+    "revenue": 46072,
+    "avgFreight": 19.96,
+    "avgDeliveryDays": 8.6,
+    "avgEstimatedDays": 19.1,
+    "lateRate": 6.3
+  },
+  {
+    "sellerState": "MG",
+    "customerState": "SC",
+    "orders": 251,
+    "revenue": 34271,
+    "avgFreight": 32.48,
+    "avgDeliveryDays": 17.2,
+    "avgEstimatedDays": 29.7,
+    "lateRate": 8.8
+  },
+  {
+    "sellerState": "RS",
+    "customerState": "RJ",
+    "orders": 246,
+    "revenue": 49539,
+    "avgFreight": 30.5,
+    "avgDeliveryDays": 14.1,
+    "avgEstimatedDays": 28.6,
+    "lateRate": 8.5
+  },
+  {
+    "sellerState": "SP",
+    "customerState": "SE",
+    "orders": 208,
+    "revenue": 33601,
+    "avgFreight": 43.64,
+    "avgDeliveryDays": 21.3,
+    "avgEstimatedDays": 30,
+    "lateRate": 16.3
+  },
+  {
+    "sellerState": "RJ",
+    "customerState": "PR",
+    "orders": 202,
+    "revenue": 41064,
+    "avgFreight": 22.5,
+    "avgDeliveryDays": 12.9,
+    "avgEstimatedDays": 26,
+    "lateRate": 8.9
+  },
+  {
+    "sellerState": "SP",
+    "customerState": "TO",
+    "orders": 198,
+    "revenue": 35629,
+    "avgFreight": 42.95,
+    "avgDeliveryDays": 17.7,
+    "avgEstimatedDays": 28.6,
+    "lateRate": 12.6
+  },
+  {
+    "sellerState": "RJ",
+    "customerState": "RS",
+    "orders": 198,
+    "revenue": 35282,
+    "avgFreight": 24.02,
+    "avgDeliveryDays": 15.8,
+    "avgEstimatedDays": 26.5,
+    "lateRate": 9.6
+  },
+  {
+    "sellerState": "RS",
+    "customerState": "MG",
+    "orders": 187,
+    "revenue": 43160,
+    "avgFreight": 34.12,
+    "avgDeliveryDays": 11.8,
+    "avgEstimatedDays": 30.3,
+    "lateRate": 2.7
+  },
+  {
+    "sellerState": "MG",
+    "customerState": "DF",
+    "orders": 186,
+    "revenue": 31478,
+    "avgFreight": 25.19,
+    "avgDeliveryDays": 11.9,
+    "avgEstimatedDays": 23.8,
+    "lateRate": 3.2
+  },
+  {
+    "sellerState": "MG",
+    "customerState": "ES",
+    "orders": 171,
+    "revenue": 20182,
+    "avgFreight": 28.9,
+    "avgDeliveryDays": 16.3,
+    "avgEstimatedDays": 28,
+    "lateRate": 4.7
+  },
+  {
+    "sellerState": "SP",
+    "customerState": "RO",
+    "orders": 169,
+    "revenue": 26380,
+    "avgFreight": 46.79,
+    "avgDeliveryDays": 19.4,
+    "avgEstimatedDays": 38.7,
+    "lateRate": 3
+  },
+  {
+    "sellerState": "MG",
+    "customerState": "GO",
+    "orders": 150,
+    "revenue": 19335,
+    "avgFreight": 32.8,
+    "avgDeliveryDays": 14.2,
+    "avgEstimatedDays": 26.7,
+    "lateRate": 2.7
+  },
+  {
+    "sellerState": "PR",
+    "customerState": "DF",
+    "orders": 150,
+    "revenue": 27252,
+    "avgFreight": 33.5,
+    "avgDeliveryDays": 13.4,
+    "avgEstimatedDays": 27.4,
+    "lateRate": 4
+  },
+  {
+    "sellerState": "PR",
+    "customerState": "BA",
+    "orders": 143,
+    "revenue": 33869,
+    "avgFreight": 51.08,
+    "avgDeliveryDays": 21.9,
+    "avgEstimatedDays": 31.5,
+    "lateRate": 16.8
+  },
+  {
+    "sellerState": "RS",
+    "customerState": "PR",
+    "orders": 138,
+    "revenue": 18366,
+    "avgFreight": 21.91,
+    "avgDeliveryDays": 10.4,
+    "avgEstimatedDays": 23.1,
+    "lateRate": 5.1
+  },
+  {
+    "sellerState": "BA",
+    "customerState": "SP",
+    "orders": 137,
+    "revenue": 72835,
+    "avgFreight": 37.63,
+    "avgDeliveryDays": 11.4,
+    "avgEstimatedDays": 23.7,
+    "lateRate": 5.1
+  },
+  {
+    "sellerState": "RJ",
+    "customerState": "BA",
+    "orders": 135,
+    "revenue": 26340,
+    "avgFreight": 30.7,
+    "avgDeliveryDays": 16.9,
+    "avgEstimatedDays": 27,
+    "lateRate": 11.1
+  },
+  {
+    "sellerState": "GO",
+    "customerState": "SP",
+    "orders": 126,
+    "revenue": 21509,
+    "avgFreight": 28.61,
+    "avgDeliveryDays": 10.8,
+    "avgEstimatedDays": 24.2,
+    "lateRate": 4
+  },
+  {
+    "sellerState": "MA",
+    "customerState": "SP",
+    "orders": 123,
+    "revenue": 11479,
+    "avgFreight": 33.87,
+    "avgDeliveryDays": 16.2,
+    "avgEstimatedDays": 25.3,
+    "lateRate": 25.2
+  },
+  {
+    "sellerState": "RS",
+    "customerState": "SC",
+    "orders": 116,
+    "revenue": 20114,
+    "avgFreight": 22.77,
+    "avgDeliveryDays": 9.4,
+    "avgEstimatedDays": 23.9,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "RJ",
+    "customerState": "SC",
+    "orders": 113,
+    "revenue": 22307,
+    "avgFreight": 26.8,
+    "avgDeliveryDays": 15.1,
+    "avgEstimatedDays": 26.9,
+    "lateRate": 10.6
+  },
+  {
+    "sellerState": "MG",
+    "customerState": "PE",
+    "orders": 110,
+    "revenue": 12278,
+    "avgFreight": 37.61,
+    "avgDeliveryDays": 16.6,
+    "avgEstimatedDays": 31.1,
+    "lateRate": 8.2
+  },
+  {
+    "sellerState": "PR",
+    "customerState": "ES",
+    "orders": 110,
+    "revenue": 22962,
+    "avgFreight": 34.91,
+    "avgDeliveryDays": 17.7,
+    "avgEstimatedDays": 30,
+    "lateRate": 9.1
+  },
+  {
+    "sellerState": "RJ",
+    "customerState": "GO",
+    "orders": 109,
+    "revenue": 19294,
+    "avgFreight": 24.17,
+    "avgDeliveryDays": 15.1,
+    "avgEstimatedDays": 29.1,
+    "lateRate": 7.3
+  },
+  {
+    "sellerState": "PE",
+    "customerState": "SP",
+    "orders": 104,
+    "revenue": 23153,
+    "avgFreight": 31.33,
+    "avgDeliveryDays": 11.9,
+    "avgEstimatedDays": 24.3,
+    "lateRate": 2.9
+  },
+  {
+    "sellerState": "DF",
+    "customerState": "MG",
+    "orders": 102,
+    "revenue": 12220,
+    "avgFreight": 19.37,
+    "avgDeliveryDays": 9.4,
+    "avgEstimatedDays": 26.9,
+    "lateRate": 1
+  },
+  {
+    "sellerState": "ES",
+    "customerState": "SP",
+    "orders": 100,
+    "revenue": 15586,
+    "avgFreight": 34.25,
+    "avgDeliveryDays": 12.1,
+    "avgEstimatedDays": 23.6,
+    "lateRate": 10
+  },
+  {
+    "sellerState": "SP",
+    "customerState": "AM",
+    "orders": 99,
+    "revenue": 13010,
+    "avgFreight": 34.04,
+    "avgDeliveryDays": 25.8,
+    "avgEstimatedDays": 44.5,
+    "lateRate": 4
+  },
+  {
+    "sellerState": "RJ",
+    "customerState": "ES",
+    "orders": 99,
+    "revenue": 16163,
+    "avgFreight": 21.21,
+    "avgDeliveryDays": 12.6,
+    "avgEstimatedDays": 25.8,
+    "lateRate": 2
+  },
+  {
+    "sellerState": "RJ",
+    "customerState": "DF",
+    "orders": 96,
+    "revenue": 17323,
+    "avgFreight": 19.74,
+    "avgDeliveryDays": 14.4,
+    "avgEstimatedDays": 25.3,
+    "lateRate": 8.3
+  },
+  {
+    "sellerState": "DF",
+    "customerState": "RJ",
+    "orders": 96,
+    "revenue": 10995,
+    "avgFreight": 21.79,
+    "avgDeliveryDays": 14,
+    "avgEstimatedDays": 28.9,
+    "lateRate": 7.3
+  },
+  {
+    "sellerState": "RJ",
+    "customerState": "PE",
+    "orders": 91,
+    "revenue": 22050,
+    "avgFreight": 44.2,
+    "avgDeliveryDays": 17,
+    "avgEstimatedDays": 27.2,
+    "lateRate": 13.2
+  },
+  {
+    "sellerState": "PR",
+    "customerState": "GO",
+    "orders": 87,
+    "revenue": 17624,
+    "avgFreight": 38.49,
+    "avgDeliveryDays": 15.9,
+    "avgEstimatedDays": 30.1,
+    "lateRate": 4.6
+  },
+  {
+    "sellerState": "PR",
+    "customerState": "PE",
+    "orders": 86,
+    "revenue": 22158,
+    "avgFreight": 50.29,
+    "avgDeliveryDays": 19.4,
+    "avgEstimatedDays": 31.1,
+    "lateRate": 12.8
+  },
+  {
+    "sellerState": "MG",
+    "customerState": "PA",
+    "orders": 83,
+    "revenue": 12803,
+    "avgFreight": 48.67,
+    "avgDeliveryDays": 27.3,
+    "avgEstimatedDays": 37.7,
+    "lateRate": 13.3
+  },
+  {
+    "sellerState": "BA",
+    "customerState": "RJ",
+    "orders": 83,
+    "revenue": 35560,
+    "avgFreight": 35.37,
+    "avgDeliveryDays": 13.4,
+    "avgEstimatedDays": 26.4,
+    "lateRate": 6
+  },
+  {
+    "sellerState": "GO",
+    "customerState": "MG",
+    "orders": 83,
+    "revenue": 13418,
+    "avgFreight": 23.68,
+    "avgDeliveryDays": 10.4,
+    "avgEstimatedDays": 25.8,
+    "lateRate": 1.2
+  },
+  {
+    "sellerState": "SC",
+    "customerState": "BA",
+    "orders": 77,
+    "revenue": 18619,
+    "avgFreight": 47.72,
+    "avgDeliveryDays": 20.7,
+    "avgEstimatedDays": 31,
+    "lateRate": 13
+  },
+  {
+    "sellerState": "MG",
+    "customerState": "CE",
+    "orders": 73,
+    "revenue": 9908,
+    "avgFreight": 41.98,
+    "avgDeliveryDays": 20.8,
+    "avgEstimatedDays": 32.3,
+    "lateRate": 12.3
+  },
+  {
+    "sellerState": "SC",
+    "customerState": "DF",
+    "orders": 69,
+    "revenue": 9961,
+    "avgFreight": 33.76,
+    "avgDeliveryDays": 13.3,
+    "avgEstimatedDays": 26.9,
+    "lateRate": 1.4
+  },
+  {
+    "sellerState": "BA",
+    "customerState": "BA",
+    "orders": 66,
+    "revenue": 27728,
+    "avgFreight": 19.05,
+    "avgDeliveryDays": 10.5,
+    "avgEstimatedDays": 19.2,
+    "lateRate": 9.1
+  },
+  {
+    "sellerState": "PR",
+    "customerState": "CE",
+    "orders": 64,
+    "revenue": 14792,
+    "avgFreight": 47.11,
+    "avgDeliveryDays": 25.1,
+    "avgEstimatedDays": 34,
+    "lateRate": 14.1
+  },
+  {
+    "sellerState": "PE",
+    "customerState": "MG",
+    "orders": 62,
+    "revenue": 10787,
+    "avgFreight": 33.83,
+    "avgDeliveryDays": 11.7,
+    "avgEstimatedDays": 29.8,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "MG",
+    "customerState": "MS",
+    "orders": 62,
+    "revenue": 11027,
+    "avgFreight": 31.51,
+    "avgDeliveryDays": 16.2,
+    "avgEstimatedDays": 26.8,
+    "lateRate": 6.5
+  },
+  {
+    "sellerState": "MG",
+    "customerState": "MA",
+    "orders": 61,
+    "revenue": 8242,
+    "avgFreight": 53.05,
+    "avgDeliveryDays": 20.2,
+    "avgEstimatedDays": 30.5,
+    "lateRate": 16.4
+  },
+  {
+    "sellerState": "PR",
+    "customerState": "MT",
+    "orders": 60,
+    "revenue": 16375,
+    "avgFreight": 42.86,
+    "avgDeliveryDays": 18,
+    "avgEstimatedDays": 32.2,
+    "lateRate": 5
+  },
+  {
+    "sellerState": "ES",
+    "customerState": "RJ",
+    "orders": 59,
+    "revenue": 9683,
+    "avgFreight": 31.76,
+    "avgDeliveryDays": 12.7,
+    "avgEstimatedDays": 23.5,
+    "lateRate": 8.5
+  },
+  {
+    "sellerState": "SP",
+    "customerState": "AC",
+    "orders": 57,
+    "revenue": 10389,
+    "avgFreight": 45.28,
+    "avgDeliveryDays": 20.8,
+    "avgEstimatedDays": 40.7,
+    "lateRate": 3.5
+  },
+  {
+    "sellerState": "GO",
+    "customerState": "RJ",
+    "orders": 56,
+    "revenue": 5610,
+    "avgFreight": 26.66,
+    "avgDeliveryDays": 14.7,
+    "avgEstimatedDays": 29.6,
+    "lateRate": 5.4
+  },
+  {
+    "sellerState": "SC",
+    "customerState": "GO",
+    "orders": 55,
+    "revenue": 16586,
+    "avgFreight": 49.83,
+    "avgDeliveryDays": 17.8,
+    "avgEstimatedDays": 31.9,
+    "lateRate": 9.1
+  },
+  {
+    "sellerState": "PR",
+    "customerState": "MS",
+    "orders": 55,
+    "revenue": 11574,
+    "avgFreight": 28.21,
+    "avgDeliveryDays": 13.1,
+    "avgEstimatedDays": 27,
+    "lateRate": 3.6
+  },
+  {
+    "sellerState": "PR",
+    "customerState": "PA",
+    "orders": 54,
+    "revenue": 16981,
+    "avgFreight": 57.51,
+    "avgDeliveryDays": 25.4,
+    "avgEstimatedDays": 39.7,
+    "lateRate": 13
+  },
+  {
+    "sellerState": "RJ",
+    "customerState": "CE",
+    "orders": 54,
+    "revenue": 12270,
+    "avgFreight": 35.6,
+    "avgDeliveryDays": 24.9,
+    "avgEstimatedDays": 30.7,
+    "lateRate": 22.2
+  },
+  {
+    "sellerState": "BA",
+    "customerState": "MG",
+    "orders": 51,
+    "revenue": 29608,
+    "avgFreight": 36.31,
+    "avgDeliveryDays": 10.6,
+    "avgEstimatedDays": 25.9,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "MG",
+    "customerState": "MT",
+    "orders": 50,
+    "revenue": 9529,
+    "avgFreight": 45.78,
+    "avgDeliveryDays": 21.4,
+    "avgEstimatedDays": 33.7,
+    "lateRate": 8
+  },
+  {
+    "sellerState": "SC",
+    "customerState": "ES",
+    "orders": 50,
+    "revenue": 8773,
+    "avgFreight": 35.15,
+    "avgDeliveryDays": 14.9,
+    "avgEstimatedDays": 29.8,
+    "lateRate": 4
+  },
+  {
+    "sellerState": "DF",
+    "customerState": "DF",
+    "orders": 49,
+    "revenue": 4377,
+    "avgFreight": 10.82,
+    "avgDeliveryDays": 5.1,
+    "avgEstimatedDays": 12.7,
+    "lateRate": 6.1
+  },
+  {
+    "sellerState": "SP",
+    "customerState": "AP",
+    "orders": 49,
+    "revenue": 7980,
+    "avgFreight": 39.99,
+    "avgDeliveryDays": 28.1,
+    "avgEstimatedDays": 45.9,
+    "lateRate": 6.1
+  },
+  {
+    "sellerState": "MG",
+    "customerState": "PB",
+    "orders": 48,
+    "revenue": 8932,
+    "avgFreight": 50.46,
+    "avgDeliveryDays": 19.5,
+    "avgEstimatedDays": 33.8,
+    "lateRate": 12.5
+  },
+  {
+    "sellerState": "RS",
+    "customerState": "DF",
+    "orders": 47,
+    "revenue": 9594,
+    "avgFreight": 31.67,
+    "avgDeliveryDays": 13.5,
+    "avgEstimatedDays": 29.1,
+    "lateRate": 2.1
+  },
+  {
+    "sellerState": "ES",
+    "customerState": "MG",
+    "orders": 43,
+    "revenue": 4679,
+    "avgFreight": 36.96,
+    "avgDeliveryDays": 10.7,
+    "avgEstimatedDays": 24.2,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "RS",
+    "customerState": "BA",
+    "orders": 42,
+    "revenue": 9803,
+    "avgFreight": 59.49,
+    "avgDeliveryDays": 21,
+    "avgEstimatedDays": 29.9,
+    "lateRate": 16.7
+  },
+  {
+    "sellerState": "PR",
+    "customerState": "MA",
+    "orders": 42,
+    "revenue": 9950,
+    "avgFreight": 46.2,
+    "avgDeliveryDays": 22.2,
+    "avgEstimatedDays": 31.5,
+    "lateRate": 19
+  },
+  {
+    "sellerState": "PE",
+    "customerState": "RJ",
+    "orders": 42,
+    "revenue": 9789,
+    "avgFreight": 32.75,
+    "avgDeliveryDays": 14.2,
+    "avgEstimatedDays": 33.9,
+    "lateRate": 7.1
+  },
+  {
+    "sellerState": "MA",
+    "customerState": "RJ",
+    "orders": 41,
+    "revenue": 3400,
+    "avgFreight": 30.47,
+    "avgDeliveryDays": 16.7,
+    "avgEstimatedDays": 35.2,
+    "lateRate": 4.9
+  },
+  {
+    "sellerState": "PR",
+    "customerState": "PB",
+    "orders": 40,
+    "revenue": 10080,
+    "avgFreight": 48.26,
+    "avgDeliveryDays": 22.3,
+    "avgEstimatedDays": 35.4,
+    "lateRate": 15
+  },
+  {
+    "sellerState": "SC",
+    "customerState": "PE",
+    "orders": 38,
+    "revenue": 9089,
+    "avgFreight": 52.48,
+    "avgDeliveryDays": 19.7,
+    "avgEstimatedDays": 31.9,
+    "lateRate": 5.3
+  },
+  {
+    "sellerState": "RJ",
+    "customerState": "PA",
+    "orders": 37,
+    "revenue": 7900,
+    "avgFreight": 40.89,
+    "avgDeliveryDays": 21.6,
+    "avgEstimatedDays": 36.3,
+    "lateRate": 5.4
+  },
+  {
+    "sellerState": "MG",
+    "customerState": "SE",
+    "orders": 36,
+    "revenue": 5204,
+    "avgFreight": 48.55,
+    "avgDeliveryDays": 25.3,
+    "avgEstimatedDays": 33.8,
+    "lateRate": 11.1
+  },
+  {
+    "sellerState": "PR",
+    "customerState": "AL",
+    "orders": 36,
+    "revenue": 12682,
+    "avgFreight": 48.99,
+    "avgDeliveryDays": 29.2,
+    "avgEstimatedDays": 34.7,
+    "lateRate": 38.9
+  },
+  {
+    "sellerState": "MG",
+    "customerState": "AL",
+    "orders": 35,
+    "revenue": 10115,
+    "avgFreight": 57.06,
+    "avgDeliveryDays": 22,
+    "avgEstimatedDays": 33,
+    "lateRate": 17.1
+  },
+  {
+    "sellerState": "DF",
+    "customerState": "BA",
+    "orders": 35,
+    "revenue": 5272,
+    "avgFreight": 27.34,
+    "avgDeliveryDays": 18.2,
+    "avgEstimatedDays": 28.9,
+    "lateRate": 5.7
+  },
+  {
+    "sellerState": "SP",
+    "customerState": "RR",
+    "orders": 33,
+    "revenue": 5778,
+    "avgFreight": 47.07,
+    "avgDeliveryDays": 31.6,
+    "avgEstimatedDays": 45.4,
+    "lateRate": 15.2
+  },
+  {
+    "sellerState": "BA",
+    "customerState": "PE",
+    "orders": 32,
+    "revenue": 13174,
+    "avgFreight": 28.56,
+    "avgDeliveryDays": 16.9,
+    "avgEstimatedDays": 26.7,
+    "lateRate": 6.3
+  },
+  {
+    "sellerState": "MG",
+    "customerState": "PI",
+    "orders": 32,
+    "revenue": 4066,
+    "avgFreight": 42.36,
+    "avgDeliveryDays": 16,
+    "avgEstimatedDays": 29.8,
+    "lateRate": 3.1
+  },
+  {
+    "sellerState": "RJ",
+    "customerState": "MS",
+    "orders": 32,
+    "revenue": 7156,
+    "avgFreight": 32.4,
+    "avgDeliveryDays": 16.8,
+    "avgEstimatedDays": 25.7,
+    "lateRate": 12.5
+  },
+  {
+    "sellerState": "GO",
+    "customerState": "GO",
+    "orders": 31,
+    "revenue": 3389,
+    "avgFreight": 14.91,
+    "avgDeliveryDays": 5.2,
+    "avgEstimatedDays": 14,
+    "lateRate": 3.2
+  },
+  {
+    "sellerState": "SC",
+    "customerState": "MS",
+    "orders": 31,
+    "revenue": 7752,
+    "avgFreight": 32.66,
+    "avgDeliveryDays": 15,
+    "avgEstimatedDays": 29,
+    "lateRate": 3.2
+  },
+  {
+    "sellerState": "MA",
+    "customerState": "MG",
+    "orders": 31,
+    "revenue": 3072,
+    "avgFreight": 35.27,
+    "avgDeliveryDays": 17.5,
+    "avgEstimatedDays": 30.1,
+    "lateRate": 16.1
+  },
+  {
+    "sellerState": "DF",
+    "customerState": "GO",
+    "orders": 30,
+    "revenue": 3161,
+    "avgFreight": 19.34,
+    "avgDeliveryDays": 9.2,
+    "avgEstimatedDays": 19.8,
+    "lateRate": 3.3
+  },
+  {
+    "sellerState": "MT",
+    "customerState": "SP",
+    "orders": 30,
+    "revenue": 4039,
+    "avgFreight": 37.94,
+    "avgDeliveryDays": 12.9,
+    "avgEstimatedDays": 28.4,
+    "lateRate": 3.3
+  },
+  {
+    "sellerState": "MG",
+    "customerState": "RN",
+    "orders": 29,
+    "revenue": 4709,
+    "avgFreight": 43.26,
+    "avgDeliveryDays": 16,
+    "avgEstimatedDays": 34.1,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "RJ",
+    "customerState": "MT",
+    "orders": 29,
+    "revenue": 4429,
+    "avgFreight": 29.34,
+    "avgDeliveryDays": 21.6,
+    "avgEstimatedDays": 34.1,
+    "lateRate": 10.3
+  },
+  {
+    "sellerState": "GO",
+    "customerState": "DF",
+    "orders": 28,
+    "revenue": 2782,
+    "avgFreight": 15.87,
+    "avgDeliveryDays": 9.3,
+    "avgEstimatedDays": 22.5,
+    "lateRate": 7.1
+  },
+  {
+    "sellerState": "RJ",
+    "customerState": "MA",
+    "orders": 28,
+    "revenue": 6060,
+    "avgFreight": 37.76,
+    "avgDeliveryDays": 20.5,
+    "avgEstimatedDays": 30.1,
+    "lateRate": 10.7
+  },
+  {
+    "sellerState": "MA",
+    "customerState": "DF",
+    "orders": 27,
+    "revenue": 2390,
+    "avgFreight": 24.48,
+    "avgDeliveryDays": 16.2,
+    "avgEstimatedDays": 27.3,
+    "lateRate": 18.5
+  },
+  {
+    "sellerState": "DF",
+    "customerState": "PR",
+    "orders": 27,
+    "revenue": 4494,
+    "avgFreight": 29.56,
+    "avgDeliveryDays": 12.4,
+    "avgEstimatedDays": 24.6,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "SC",
+    "customerState": "MT",
+    "orders": 26,
+    "revenue": 5626,
+    "avgFreight": 50.87,
+    "avgDeliveryDays": 21.1,
+    "avgEstimatedDays": 33.1,
+    "lateRate": 11.5
+  },
+  {
+    "sellerState": "PE",
+    "customerState": "BA",
+    "orders": 26,
+    "revenue": 6157,
+    "avgFreight": 26.89,
+    "avgDeliveryDays": 11.7,
+    "avgEstimatedDays": 30,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "PR",
+    "customerState": "PI",
+    "orders": 25,
+    "revenue": 8764,
+    "avgFreight": 71.15,
+    "avgDeliveryDays": 17.8,
+    "avgEstimatedDays": 31.3,
+    "lateRate": 8
+  },
+  {
+    "sellerState": "RJ",
+    "customerState": "PB",
+    "orders": 24,
+    "revenue": 4889,
+    "avgFreight": 37.53,
+    "avgDeliveryDays": 14.8,
+    "avgEstimatedDays": 30.1,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "RS",
+    "customerState": "ES",
+    "orders": 24,
+    "revenue": 3240,
+    "avgFreight": 36.27,
+    "avgDeliveryDays": 12.5,
+    "avgEstimatedDays": 28.7,
+    "lateRate": 4.2
+  },
+  {
+    "sellerState": "ES",
+    "customerState": "BA",
+    "orders": 23,
+    "revenue": 2935,
+    "avgFreight": 47.82,
+    "avgDeliveryDays": 13.1,
+    "avgEstimatedDays": 27.7,
+    "lateRate": 4.3
+  },
+  {
+    "sellerState": "RS",
+    "customerState": "GO",
+    "orders": 23,
+    "revenue": 4945,
+    "avgFreight": 37.76,
+    "avgDeliveryDays": 16.3,
+    "avgEstimatedDays": 35.3,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "PE",
+    "customerState": "PE",
+    "orders": 23,
+    "revenue": 2955,
+    "avgFreight": 13.09,
+    "avgDeliveryDays": 6.8,
+    "avgEstimatedDays": 17,
+    "lateRate": 4.3
+  },
+  {
+    "sellerState": "CE",
+    "customerState": "SP",
+    "orders": 23,
+    "revenue": 5001,
+    "avgFreight": 55.51,
+    "avgDeliveryDays": 14.9,
+    "avgEstimatedDays": 29.4,
+    "lateRate": 4.3
+  },
+  {
+    "sellerState": "RS",
+    "customerState": "MT",
+    "orders": 22,
+    "revenue": 9321,
+    "avgFreight": 52.84,
+    "avgDeliveryDays": 16.1,
+    "avgEstimatedDays": 32.4,
+    "lateRate": 4.5
+  },
+  {
+    "sellerState": "SC",
+    "customerState": "CE",
+    "orders": 22,
+    "revenue": 7510,
+    "avgFreight": 68.48,
+    "avgDeliveryDays": 27.8,
+    "avgEstimatedDays": 35.1,
+    "lateRate": 27.3
+  },
+  {
+    "sellerState": "RJ",
+    "customerState": "PI",
+    "orders": 22,
+    "revenue": 6166,
+    "avgFreight": 43.55,
+    "avgDeliveryDays": 17.3,
+    "avgEstimatedDays": 29.1,
+    "lateRate": 13.6
+  },
+  {
+    "sellerState": "RJ",
+    "customerState": "RN",
+    "orders": 22,
+    "revenue": 5997,
+    "avgFreight": 37.64,
+    "avgDeliveryDays": 18,
+    "avgEstimatedDays": 30.2,
+    "lateRate": 13.6
+  },
+  {
+    "sellerState": "DF",
+    "customerState": "RS",
+    "orders": 22,
+    "revenue": 3631,
+    "avgFreight": 33.85,
+    "avgDeliveryDays": 17.7,
+    "avgEstimatedDays": 33.1,
+    "lateRate": 13.6
+  },
+  {
+    "sellerState": "BA",
+    "customerState": "RS",
+    "orders": 22,
+    "revenue": 13588,
+    "avgFreight": 67.91,
+    "avgDeliveryDays": 18.3,
+    "avgEstimatedDays": 29.3,
+    "lateRate": 4.5
+  },
+  {
+    "sellerState": "RS",
+    "customerState": "PA",
+    "orders": 21,
+    "revenue": 4945,
+    "avgFreight": 47.5,
+    "avgDeliveryDays": 24.6,
+    "avgEstimatedDays": 41.1,
+    "lateRate": 4.8
+  },
+  {
+    "sellerState": "MA",
+    "customerState": "PE",
+    "orders": 21,
+    "revenue": 1896,
+    "avgFreight": 24.27,
+    "avgDeliveryDays": 15.7,
+    "avgEstimatedDays": 26.7,
+    "lateRate": 14.3
+  },
+  {
+    "sellerState": "PR",
+    "customerState": "SE",
+    "orders": 21,
+    "revenue": 4299,
+    "avgFreight": 37.8,
+    "avgDeliveryDays": 23.2,
+    "avgEstimatedDays": 34.3,
+    "lateRate": 19
+  },
+  {
+    "sellerState": "DF",
+    "customerState": "SC",
+    "orders": 21,
+    "revenue": 2071,
+    "avgFreight": 29.42,
+    "avgDeliveryDays": 18,
+    "avgEstimatedDays": 28,
+    "lateRate": 19
+  },
+  {
+    "sellerState": "RN",
+    "customerState": "RN",
+    "orders": 21,
+    "revenue": 867,
+    "avgFreight": 9.52,
+    "avgDeliveryDays": 4.8,
+    "avgEstimatedDays": 19.5,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "PR",
+    "customerState": "RN",
+    "orders": 20,
+    "revenue": 3896,
+    "avgFreight": 38.32,
+    "avgDeliveryDays": 24.7,
+    "avgEstimatedDays": 35.1,
+    "lateRate": 15
+  },
+  {
+    "sellerState": "MT",
+    "customerState": "MG",
+    "orders": 20,
+    "revenue": 2252,
+    "avgFreight": 33.41,
+    "avgDeliveryDays": 13.2,
+    "avgEstimatedDays": 29.2,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "MA",
+    "customerState": "SC",
+    "orders": 19,
+    "revenue": 1971,
+    "avgFreight": 39.57,
+    "avgDeliveryDays": 16.9,
+    "avgEstimatedDays": 29.5,
+    "lateRate": 21.1
+  },
+  {
+    "sellerState": "SC",
+    "customerState": "PI",
+    "orders": 19,
+    "revenue": 4925,
+    "avgFreight": 54.93,
+    "avgDeliveryDays": 22.1,
+    "avgEstimatedDays": 32.3,
+    "lateRate": 15.8
+  },
+  {
+    "sellerState": "SC",
+    "customerState": "PA",
+    "orders": 19,
+    "revenue": 6421,
+    "avgFreight": 68.68,
+    "avgDeliveryDays": 25.3,
+    "avgEstimatedDays": 42.1,
+    "lateRate": 10.5
+  },
+  {
+    "sellerState": "SC",
+    "customerState": "MA",
+    "orders": 19,
+    "revenue": 4837,
+    "avgFreight": 53.83,
+    "avgDeliveryDays": 24.3,
+    "avgEstimatedDays": 34.3,
+    "lateRate": 21.1
+  },
+  {
+    "sellerState": "DF",
+    "customerState": "ES",
+    "orders": 19,
+    "revenue": 2143,
+    "avgFreight": 25.48,
+    "avgDeliveryDays": 18.6,
+    "avgEstimatedDays": 25.6,
+    "lateRate": 26.3
+  },
+  {
+    "sellerState": "ES",
+    "customerState": "RS",
+    "orders": 18,
+    "revenue": 2518,
+    "avgFreight": 42.5,
+    "avgDeliveryDays": 17.9,
+    "avgEstimatedDays": 29.2,
+    "lateRate": 11.1
+  },
+  {
+    "sellerState": "RJ",
+    "customerState": "SE",
+    "orders": 18,
+    "revenue": 2141,
+    "avgFreight": 25.82,
+    "avgDeliveryDays": 18.1,
+    "avgEstimatedDays": 28.5,
+    "lateRate": 16.7
+  },
+  {
+    "sellerState": "SC",
+    "customerState": "PB",
+    "orders": 18,
+    "revenue": 6358,
+    "avgFreight": 78.43,
+    "avgDeliveryDays": 26.8,
+    "avgEstimatedDays": 35.2,
+    "lateRate": 16.7
+  },
+  {
+    "sellerState": "MS",
+    "customerState": "SP",
+    "orders": 18,
+    "revenue": 2977,
+    "avgFreight": 23.71,
+    "avgDeliveryDays": 9.6,
+    "avgEstimatedDays": 31.1,
+    "lateRate": 5.6
+  },
+  {
+    "sellerState": "PR",
+    "customerState": "RO",
+    "orders": 18,
+    "revenue": 4128,
+    "avgFreight": 44.93,
+    "avgDeliveryDays": 17.7,
+    "avgEstimatedDays": 38.4,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "PE",
+    "customerState": "CE",
+    "orders": 17,
+    "revenue": 4030,
+    "avgFreight": 24.45,
+    "avgDeliveryDays": 10.9,
+    "avgEstimatedDays": 27.3,
+    "lateRate": 5.9
+  },
+  {
+    "sellerState": "PE",
+    "customerState": "ES",
+    "orders": 17,
+    "revenue": 4054,
+    "avgFreight": 22.66,
+    "avgDeliveryDays": 13.5,
+    "avgEstimatedDays": 31.2,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "MA",
+    "customerState": "RS",
+    "orders": 17,
+    "revenue": 1924,
+    "avgFreight": 54.44,
+    "avgDeliveryDays": 19,
+    "avgEstimatedDays": 35.4,
+    "lateRate": 11.8
+  },
+  {
+    "sellerState": "RS",
+    "customerState": "PE",
+    "orders": 17,
+    "revenue": 4425,
+    "avgFreight": 62.68,
+    "avgDeliveryDays": 22.3,
+    "avgEstimatedDays": 33.7,
+    "lateRate": 17.6
+  },
+  {
+    "sellerState": "BA",
+    "customerState": "DF",
+    "orders": 16,
+    "revenue": 9865,
+    "avgFreight": 28.35,
+    "avgDeliveryDays": 11.4,
+    "avgEstimatedDays": 23.5,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "RS",
+    "customerState": "MS",
+    "orders": 16,
+    "revenue": 2307,
+    "avgFreight": 27.92,
+    "avgDeliveryDays": 14,
+    "avgEstimatedDays": 27.9,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "MG",
+    "customerState": "TO",
+    "orders": 16,
+    "revenue": 2042,
+    "avgFreight": 40.07,
+    "avgDeliveryDays": 16.4,
+    "avgEstimatedDays": 30.7,
+    "lateRate": 12.5
+  },
+  {
+    "sellerState": "BA",
+    "customerState": "MA",
+    "orders": 16,
+    "revenue": 9741,
+    "avgFreight": 32.66,
+    "avgDeliveryDays": 25.4,
+    "avgEstimatedDays": 27.4,
+    "lateRate": 6.3
+  },
+  {
+    "sellerState": "MA",
+    "customerState": "GO",
+    "orders": 16,
+    "revenue": 1766,
+    "avgFreight": 31.74,
+    "avgDeliveryDays": 21.5,
+    "avgEstimatedDays": 28.9,
+    "lateRate": 37.5
+  },
+  {
+    "sellerState": "PR",
+    "customerState": "TO",
+    "orders": 15,
+    "revenue": 2313,
+    "avgFreight": 38.64,
+    "avgDeliveryDays": 22.8,
+    "avgEstimatedDays": 34.1,
+    "lateRate": 20
+  },
+  {
+    "sellerState": "SC",
+    "customerState": "SE",
+    "orders": 15,
+    "revenue": 2145,
+    "avgFreight": 38.25,
+    "avgDeliveryDays": 22.6,
+    "avgEstimatedDays": 32.7,
+    "lateRate": 6.7
+  },
+  {
+    "sellerState": "ES",
+    "customerState": "PR",
+    "orders": 15,
+    "revenue": 2052,
+    "avgFreight": 41.51,
+    "avgDeliveryDays": 11.5,
+    "avgEstimatedDays": 27.9,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "PE",
+    "customerState": "DF",
+    "orders": 15,
+    "revenue": 4716,
+    "avgFreight": 25.55,
+    "avgDeliveryDays": 11.6,
+    "avgEstimatedDays": 24.6,
+    "lateRate": 6.7
+  },
+  {
+    "sellerState": "SC",
+    "customerState": "RN",
+    "orders": 14,
+    "revenue": 4453,
+    "avgFreight": 54.17,
+    "avgDeliveryDays": 19.3,
+    "avgEstimatedDays": 36.8,
+    "lateRate": 7.1
+  },
+  {
+    "sellerState": "MA",
+    "customerState": "MA",
+    "orders": 14,
+    "revenue": 1192,
+    "avgFreight": 12,
+    "avgDeliveryDays": 9.8,
+    "avgEstimatedDays": 15.8,
+    "lateRate": 42.9
+  },
+  {
+    "sellerState": "RS",
+    "customerState": "MA",
+    "orders": 14,
+    "revenue": 1932,
+    "avgFreight": 48.39,
+    "avgDeliveryDays": 24.6,
+    "avgEstimatedDays": 35.8,
+    "lateRate": 28.6
+  },
+  {
+    "sellerState": "BA",
+    "customerState": "CE",
+    "orders": 14,
+    "revenue": 8731,
+    "avgFreight": 31.47,
+    "avgDeliveryDays": 15.4,
+    "avgEstimatedDays": 25.3,
+    "lateRate": 14.3
+  },
+  {
+    "sellerState": "MG",
+    "customerState": "RO",
+    "orders": 14,
+    "revenue": 1401,
+    "avgFreight": 44.7,
+    "avgDeliveryDays": 17.5,
+    "avgEstimatedDays": 37.5,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "RJ",
+    "customerState": "RO",
+    "orders": 13,
+    "revenue": 5605,
+    "avgFreight": 42.04,
+    "avgDeliveryDays": 27.8,
+    "avgEstimatedDays": 37.5,
+    "lateRate": 15.4
+  },
+  {
+    "sellerState": "RJ",
+    "customerState": "TO",
+    "orders": 13,
+    "revenue": 2491,
+    "avgFreight": 39.63,
+    "avgDeliveryDays": 15.5,
+    "avgEstimatedDays": 28.8,
+    "lateRate": 7.7
+  },
+  {
+    "sellerState": "MA",
+    "customerState": "ES",
+    "orders": 13,
+    "revenue": 1136,
+    "avgFreight": 28.5,
+    "avgDeliveryDays": 28.5,
+    "avgEstimatedDays": 30.2,
+    "lateRate": 53.8
+  },
+  {
+    "sellerState": "BA",
+    "customerState": "SC",
+    "orders": 13,
+    "revenue": 8066,
+    "avgFreight": 44.27,
+    "avgDeliveryDays": 16.6,
+    "avgEstimatedDays": 27.6,
+    "lateRate": 7.7
+  },
+  {
+    "sellerState": "MT",
+    "customerState": "RJ",
+    "orders": 13,
+    "revenue": 1961,
+    "avgFreight": 36.39,
+    "avgDeliveryDays": 14,
+    "avgEstimatedDays": 29.6,
+    "lateRate": 7.7
+  },
+  {
+    "sellerState": "PE",
+    "customerState": "RS",
+    "orders": 13,
+    "revenue": 6018,
+    "avgFreight": 57.96,
+    "avgDeliveryDays": 19.6,
+    "avgEstimatedDays": 32.3,
+    "lateRate": 15.4
+  },
+  {
+    "sellerState": "RJ",
+    "customerState": "AL",
+    "orders": 13,
+    "revenue": 1611,
+    "avgFreight": 29.31,
+    "avgDeliveryDays": 24.1,
+    "avgEstimatedDays": 32.9,
+    "lateRate": 15.4
+  },
+  {
+    "sellerState": "DF",
+    "customerState": "CE",
+    "orders": 13,
+    "revenue": 1488,
+    "avgFreight": 29.35,
+    "avgDeliveryDays": 24.3,
+    "avgEstimatedDays": 26.8,
+    "lateRate": 30.8
+  },
+  {
+    "sellerState": "MG",
+    "customerState": "AM",
+    "orders": 13,
+    "revenue": 1944,
+    "avgFreight": 41.49,
+    "avgDeliveryDays": 27,
+    "avgEstimatedDays": 48,
+    "lateRate": 7.7
+  },
+  {
+    "sellerState": "PE",
+    "customerState": "GO",
+    "orders": 12,
+    "revenue": 2928,
+    "avgFreight": 39.81,
+    "avgDeliveryDays": 14,
+    "avgEstimatedDays": 28.2,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "ES",
+    "customerState": "SC",
+    "orders": 12,
+    "revenue": 2495,
+    "avgFreight": 49.55,
+    "avgDeliveryDays": 18.1,
+    "avgEstimatedDays": 29.4,
+    "lateRate": 8.3
+  },
+  {
+    "sellerState": "GO",
+    "customerState": "CE",
+    "orders": 12,
+    "revenue": 2013,
+    "avgFreight": 46.53,
+    "avgDeliveryDays": 18.5,
+    "avgEstimatedDays": 29.2,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "RS",
+    "customerState": "CE",
+    "orders": 12,
+    "revenue": 3839,
+    "avgFreight": 49.71,
+    "avgDeliveryDays": 17.1,
+    "avgEstimatedDays": 34,
+    "lateRate": 16.7
+  },
+  {
+    "sellerState": "BA",
+    "customerState": "ES",
+    "orders": 11,
+    "revenue": 2432,
+    "avgFreight": 25.71,
+    "avgDeliveryDays": 13.8,
+    "avgEstimatedDays": 26.9,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "DF",
+    "customerState": "PA",
+    "orders": 11,
+    "revenue": 1507,
+    "avgFreight": 26.77,
+    "avgDeliveryDays": 20.1,
+    "avgEstimatedDays": 36,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "RS",
+    "customerState": "PI",
+    "orders": 11,
+    "revenue": 3049,
+    "avgFreight": 52.11,
+    "avgDeliveryDays": 15.8,
+    "avgEstimatedDays": 36.6,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "PR",
+    "customerState": "AM",
+    "orders": 11,
+    "revenue": 1785,
+    "avgFreight": 50.57,
+    "avgDeliveryDays": 24.8,
+    "avgEstimatedDays": 45.9,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "SC",
+    "customerState": "AL",
+    "orders": 11,
+    "revenue": 1834,
+    "avgFreight": 38.94,
+    "avgDeliveryDays": 22.6,
+    "avgEstimatedDays": 36.7,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "GO",
+    "customerState": "RS",
+    "orders": 11,
+    "revenue": 1089,
+    "avgFreight": 31.33,
+    "avgDeliveryDays": 17.8,
+    "avgEstimatedDays": 32,
+    "lateRate": 9.1
+  },
+  {
+    "sellerState": "SC",
+    "customerState": "TO",
+    "orders": 11,
+    "revenue": 2403,
+    "avgFreight": 42.6,
+    "avgDeliveryDays": 19.1,
+    "avgEstimatedDays": 33.1,
+    "lateRate": 9.1
+  },
+  {
+    "sellerState": "BA",
+    "customerState": "PR",
+    "orders": 10,
+    "revenue": 4830,
+    "avgFreight": 44.36,
+    "avgDeliveryDays": 16.4,
+    "avgEstimatedDays": 31.6,
+    "lateRate": 10
+  },
+  {
+    "sellerState": "MA",
+    "customerState": "BA",
+    "orders": 10,
+    "revenue": 862,
+    "avgFreight": 22.73,
+    "avgDeliveryDays": 21.9,
+    "avgEstimatedDays": 24.3,
+    "lateRate": 40
+  },
+  {
+    "sellerState": "MT",
+    "customerState": "GO",
+    "orders": 10,
+    "revenue": 1111,
+    "avgFreight": 27.07,
+    "avgDeliveryDays": 12.1,
+    "avgEstimatedDays": 28,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "GO",
+    "customerState": "PE",
+    "orders": 10,
+    "revenue": 1040,
+    "avgFreight": 27.88,
+    "avgDeliveryDays": 20.4,
+    "avgEstimatedDays": 29.3,
+    "lateRate": 20
+  },
+  {
+    "sellerState": "MG",
+    "customerState": "AC",
+    "orders": 10,
+    "revenue": 2097,
+    "avgFreight": 48.24,
+    "avgDeliveryDays": 22.5,
+    "avgEstimatedDays": 42.4,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "DF",
+    "customerState": "MT",
+    "orders": 10,
+    "revenue": 1142,
+    "avgFreight": 18.57,
+    "avgDeliveryDays": 14.9,
+    "avgEstimatedDays": 26.6,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "BA",
+    "customerState": "PB",
+    "orders": 10,
+    "revenue": 9675,
+    "avgFreight": 37.21,
+    "avgDeliveryDays": 18.8,
+    "avgEstimatedDays": 30.3,
+    "lateRate": 10
+  },
+  {
+    "sellerState": "GO",
+    "customerState": "PA",
+    "orders": 10,
+    "revenue": 1898,
+    "avgFreight": 36.14,
+    "avgDeliveryDays": 21.6,
+    "avgEstimatedDays": 36.7,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "DF",
+    "customerState": "PE",
+    "orders": 10,
+    "revenue": 1178,
+    "avgFreight": 28.38,
+    "avgDeliveryDays": 14.4,
+    "avgEstimatedDays": 31.6,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "RS",
+    "customerState": "RO",
+    "orders": 10,
+    "revenue": 1851,
+    "avgFreight": 50.93,
+    "avgDeliveryDays": 15.6,
+    "avgEstimatedDays": 37.9,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "CE",
+    "customerState": "RJ",
+    "orders": 10,
+    "revenue": 3917,
+    "avgFreight": 59.75,
+    "avgDeliveryDays": 17.4,
+    "avgEstimatedDays": 34.9,
+    "lateRate": 10
+  },
+  {
+    "sellerState": "RS",
+    "customerState": "AL",
+    "orders": 10,
+    "revenue": 1996,
+    "avgFreight": 42.87,
+    "avgDeliveryDays": 19.9,
+    "avgEstimatedDays": 34.8,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "GO",
+    "customerState": "SC",
+    "orders": 10,
+    "revenue": 1140,
+    "avgFreight": 30.09,
+    "avgDeliveryDays": 18.3,
+    "avgEstimatedDays": 24.8,
+    "lateRate": 10
+  },
+  {
+    "sellerState": "PB",
+    "customerState": "RJ",
+    "orders": 9,
+    "revenue": 5575,
+    "avgFreight": 58.5,
+    "avgDeliveryDays": 14.5,
+    "avgEstimatedDays": 31.4,
+    "lateRate": 11.1
+  },
+  {
+    "sellerState": "CE",
+    "customerState": "CE",
+    "orders": 9,
+    "revenue": 2218,
+    "avgFreight": 42.85,
+    "avgDeliveryDays": 6.3,
+    "avgEstimatedDays": 22.1,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "SC",
+    "customerState": "RO",
+    "orders": 9,
+    "revenue": 2411,
+    "avgFreight": 40.96,
+    "avgDeliveryDays": 16.9,
+    "avgEstimatedDays": 39.7,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "PE",
+    "customerState": "PR",
+    "orders": 9,
+    "revenue": 1145,
+    "avgFreight": 39.96,
+    "avgDeliveryDays": 14.9,
+    "avgEstimatedDays": 29.2,
+    "lateRate": 11.1
+  },
+  {
+    "sellerState": "BA",
+    "customerState": "SE",
+    "orders": 9,
+    "revenue": 2916,
+    "avgFreight": 18.33,
+    "avgDeliveryDays": 17.2,
+    "avgEstimatedDays": 30.9,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "GO",
+    "customerState": "PR",
+    "orders": 9,
+    "revenue": 1275,
+    "avgFreight": 58.93,
+    "avgDeliveryDays": 18.4,
+    "avgEstimatedDays": 27.6,
+    "lateRate": 11.1
+  },
+  {
+    "sellerState": "BA",
+    "customerState": "AL",
+    "orders": 9,
+    "revenue": 3821,
+    "avgFreight": 21.8,
+    "avgDeliveryDays": 16.2,
+    "avgEstimatedDays": 32.2,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "BA",
+    "customerState": "RN",
+    "orders": 9,
+    "revenue": 1892,
+    "avgFreight": 26.51,
+    "avgDeliveryDays": 18.5,
+    "avgEstimatedDays": 28,
+    "lateRate": 22.2
+  },
+  {
+    "sellerState": "GO",
+    "customerState": "MA",
+    "orders": 9,
+    "revenue": 4025,
+    "avgFreight": 41.55,
+    "avgDeliveryDays": 19,
+    "avgEstimatedDays": 33.4,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "MS",
+    "customerState": "RJ",
+    "orders": 9,
+    "revenue": 1828,
+    "avgFreight": 22,
+    "avgDeliveryDays": 11.5,
+    "avgEstimatedDays": 26.2,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "MA",
+    "customerState": "PR",
+    "orders": 9,
+    "revenue": 745,
+    "avgFreight": 31.67,
+    "avgDeliveryDays": 19.2,
+    "avgEstimatedDays": 29.1,
+    "lateRate": 33.3
+  },
+  {
+    "sellerState": "PE",
+    "customerState": "AL",
+    "orders": 9,
+    "revenue": 1281,
+    "avgFreight": 14.56,
+    "avgDeliveryDays": 17,
+    "avgEstimatedDays": 25.4,
+    "lateRate": 11.1
+  },
+  {
+    "sellerState": "GO",
+    "customerState": "MT",
+    "orders": 9,
+    "revenue": 950,
+    "avgFreight": 20.94,
+    "avgDeliveryDays": 14.6,
+    "avgEstimatedDays": 26.3,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "BA",
+    "customerState": "PI",
+    "orders": 9,
+    "revenue": 3024,
+    "avgFreight": 39.22,
+    "avgDeliveryDays": 10.7,
+    "avgEstimatedDays": 23.2,
+    "lateRate": 11.1
+  },
+  {
+    "sellerState": "PE",
+    "customerState": "SC",
+    "orders": 9,
+    "revenue": 3626,
+    "avgFreight": 52.66,
+    "avgDeliveryDays": 18.9,
+    "avgEstimatedDays": 29.2,
+    "lateRate": 33.3
+  },
+  {
+    "sellerState": "MA",
+    "customerState": "CE",
+    "orders": 9,
+    "revenue": 818,
+    "avgFreight": 16.84,
+    "avgDeliveryDays": 13.2,
+    "avgEstimatedDays": 28.1,
+    "lateRate": 11.1
+  },
+  {
+    "sellerState": "RS",
+    "customerState": "SE",
+    "orders": 8,
+    "revenue": 3499,
+    "avgFreight": 57.26,
+    "avgDeliveryDays": 20.4,
+    "avgEstimatedDays": 29.6,
+    "lateRate": 12.5
+  },
+  {
+    "sellerState": "PE",
+    "customerState": "PB",
+    "orders": 8,
+    "revenue": 1064,
+    "avgFreight": 16.18,
+    "avgDeliveryDays": 11.1,
+    "avgEstimatedDays": 30.2,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "DF",
+    "customerState": "PI",
+    "orders": 8,
+    "revenue": 678,
+    "avgFreight": 26.29,
+    "avgDeliveryDays": 20.1,
+    "avgEstimatedDays": 24.6,
+    "lateRate": 25
+  },
+  {
+    "sellerState": "DF",
+    "customerState": "PB",
+    "orders": 8,
+    "revenue": 434,
+    "avgFreight": 36.35,
+    "avgDeliveryDays": 20.6,
+    "avgEstimatedDays": 32.3,
+    "lateRate": 25
+  },
+  {
+    "sellerState": "DF",
+    "customerState": "MA",
+    "orders": 8,
+    "revenue": 899,
+    "avgFreight": 35.81,
+    "avgDeliveryDays": 16.8,
+    "avgEstimatedDays": 26.4,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "RS",
+    "customerState": "PB",
+    "orders": 8,
+    "revenue": 2331,
+    "avgFreight": 55.76,
+    "avgDeliveryDays": 14.9,
+    "avgEstimatedDays": 34.2,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "RJ",
+    "customerState": "AM",
+    "orders": 8,
+    "revenue": 2115,
+    "avgFreight": 38.53,
+    "avgDeliveryDays": 22.3,
+    "avgEstimatedDays": 47.8,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "PE",
+    "customerState": "PI",
+    "orders": 8,
+    "revenue": 2767,
+    "avgFreight": 21.53,
+    "avgDeliveryDays": 18.4,
+    "avgEstimatedDays": 26.9,
+    "lateRate": 25
+  },
+  {
+    "sellerState": "MT",
+    "customerState": "PR",
+    "orders": 8,
+    "revenue": 955,
+    "avgFreight": 33.12,
+    "avgDeliveryDays": 13.7,
+    "avgEstimatedDays": 31.1,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "BA",
+    "customerState": "GO",
+    "orders": 8,
+    "revenue": 3234,
+    "avgFreight": 36.61,
+    "avgDeliveryDays": 16.9,
+    "avgEstimatedDays": 33.3,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "GO",
+    "customerState": "MS",
+    "orders": 8,
+    "revenue": 617,
+    "avgFreight": 22.74,
+    "avgDeliveryDays": 13.4,
+    "avgEstimatedDays": 27.7,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "GO",
+    "customerState": "BA",
+    "orders": 8,
+    "revenue": 1165,
+    "avgFreight": 31.45,
+    "avgDeliveryDays": 14.3,
+    "avgEstimatedDays": 30.7,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "BA",
+    "customerState": "PA",
+    "orders": 8,
+    "revenue": 5152,
+    "avgFreight": 62.12,
+    "avgDeliveryDays": 23.2,
+    "avgEstimatedDays": 39.7,
+    "lateRate": 12.5
+  },
+  {
+    "sellerState": "RS",
+    "customerState": "RN",
+    "orders": 8,
+    "revenue": 1563,
+    "avgFreight": 38.95,
+    "avgDeliveryDays": 13.7,
+    "avgEstimatedDays": 34.5,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "DF",
+    "customerState": "MS",
+    "orders": 7,
+    "revenue": 441,
+    "avgFreight": 22.3,
+    "avgDeliveryDays": 14.1,
+    "avgEstimatedDays": 22.2,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "CE",
+    "customerState": "PE",
+    "orders": 7,
+    "revenue": 1095,
+    "avgFreight": 19.07,
+    "avgDeliveryDays": 16.7,
+    "avgEstimatedDays": 25.2,
+    "lateRate": 28.6
+  },
+  {
+    "sellerState": "PE",
+    "customerState": "SE",
+    "orders": 7,
+    "revenue": 1427,
+    "avgFreight": 20.04,
+    "avgDeliveryDays": 11.4,
+    "avgEstimatedDays": 31.3,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "ES",
+    "customerState": "ES",
+    "orders": 7,
+    "revenue": 1134,
+    "avgFreight": 27.04,
+    "avgDeliveryDays": 8.5,
+    "avgEstimatedDays": 19.6,
+    "lateRate": 28.6
+  },
+  {
+    "sellerState": "PB",
+    "customerState": "SP",
+    "orders": 7,
+    "revenue": 2492,
+    "avgFreight": 55.75,
+    "avgDeliveryDays": 11.2,
+    "avgEstimatedDays": 31.5,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "GO",
+    "customerState": "PB",
+    "orders": 7,
+    "revenue": 772,
+    "avgFreight": 40.4,
+    "avgDeliveryDays": 24.8,
+    "avgEstimatedDays": 33.6,
+    "lateRate": 14.3
+  },
+  {
+    "sellerState": "MT",
+    "customerState": "DF",
+    "orders": 6,
+    "revenue": 618,
+    "avgFreight": 25.83,
+    "avgDeliveryDays": 11.2,
+    "avgEstimatedDays": 26.7,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "ES",
+    "customerState": "MT",
+    "orders": 6,
+    "revenue": 687,
+    "avgFreight": 40.85,
+    "avgDeliveryDays": 16.1,
+    "avgEstimatedDays": 33.6,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "PA",
+    "customerState": "SP",
+    "orders": 6,
+    "revenue": 1000,
+    "avgFreight": 16.8,
+    "avgDeliveryDays": 15,
+    "avgEstimatedDays": 25.4,
+    "lateRate": 16.7
+  },
+  {
+    "sellerState": "MT",
+    "customerState": "PE",
+    "orders": 6,
+    "revenue": 783,
+    "avgFreight": 31.22,
+    "avgDeliveryDays": 26.1,
+    "avgEstimatedDays": 31.6,
+    "lateRate": 50
+  },
+  {
+    "sellerState": "GO",
+    "customerState": "AL",
+    "orders": 6,
+    "revenue": 673,
+    "avgFreight": 37.1,
+    "avgDeliveryDays": 21,
+    "avgEstimatedDays": 30.5,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "DF",
+    "customerState": "RN",
+    "orders": 6,
+    "revenue": 683,
+    "avgFreight": 29.03,
+    "avgDeliveryDays": 25.5,
+    "avgEstimatedDays": 30.7,
+    "lateRate": 33.3
+  },
+  {
+    "sellerState": "RO",
+    "customerState": "SP",
+    "orders": 6,
+    "revenue": 2025,
+    "avgFreight": 52.71,
+    "avgDeliveryDays": 16.7,
+    "avgEstimatedDays": 42,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "MT",
+    "customerState": "RS",
+    "orders": 6,
+    "revenue": 912,
+    "avgFreight": 40.09,
+    "avgDeliveryDays": 14.9,
+    "avgEstimatedDays": 34.4,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "MT",
+    "customerState": "MT",
+    "orders": 6,
+    "revenue": 654,
+    "avgFreight": 19.22,
+    "avgDeliveryDays": 11.5,
+    "avgEstimatedDays": 18.5,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "ES",
+    "customerState": "PE",
+    "orders": 6,
+    "revenue": 504,
+    "avgFreight": 46.48,
+    "avgDeliveryDays": 16,
+    "avgEstimatedDays": 32.1,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "PR",
+    "customerState": "RR",
+    "orders": 5,
+    "revenue": 872,
+    "avgFreight": 56.51,
+    "avgDeliveryDays": 23.5,
+    "avgEstimatedDays": 53,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "GO",
+    "customerState": "ES",
+    "orders": 5,
+    "revenue": 903,
+    "avgFreight": 36.9,
+    "avgDeliveryDays": 15,
+    "avgEstimatedDays": 29.2,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "MT",
+    "customerState": "MS",
+    "orders": 5,
+    "revenue": 458,
+    "avgFreight": 23.72,
+    "avgDeliveryDays": 13.3,
+    "avgEstimatedDays": 30.6,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "BA",
+    "customerState": "MT",
+    "orders": 5,
+    "revenue": 4105,
+    "avgFreight": 57.94,
+    "avgDeliveryDays": 18.2,
+    "avgEstimatedDays": 35.6,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "MA",
+    "customerState": "PA",
+    "orders": 5,
+    "revenue": 539,
+    "avgFreight": 18.13,
+    "avgDeliveryDays": 27.8,
+    "avgEstimatedDays": 43.9,
+    "lateRate": 20
+  },
+  {
+    "sellerState": "RN",
+    "customerState": "SP",
+    "orders": 5,
+    "revenue": 495,
+    "avgFreight": 41.66,
+    "avgDeliveryDays": 14.6,
+    "avgEstimatedDays": 29.7,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "MA",
+    "customerState": "PI",
+    "orders": 5,
+    "revenue": 491,
+    "avgFreight": 17.38,
+    "avgDeliveryDays": 14.3,
+    "avgEstimatedDays": 30,
+    "lateRate": 20
+  },
+  {
+    "sellerState": "GO",
+    "customerState": "TO",
+    "orders": 5,
+    "revenue": 253,
+    "avgFreight": 17.03,
+    "avgDeliveryDays": 11.7,
+    "avgEstimatedDays": 27.3,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "RS",
+    "customerState": "AM",
+    "orders": 5,
+    "revenue": 774,
+    "avgFreight": 53.37,
+    "avgDeliveryDays": 21.7,
+    "avgEstimatedDays": 44.2,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "PE",
+    "customerState": "MA",
+    "orders": 5,
+    "revenue": 703,
+    "avgFreight": 24.19,
+    "avgDeliveryDays": 12.7,
+    "avgEstimatedDays": 24.9,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "MA",
+    "customerState": "SE",
+    "orders": 5,
+    "revenue": 443,
+    "avgFreight": 20.4,
+    "avgDeliveryDays": 29.4,
+    "avgEstimatedDays": 27.8,
+    "lateRate": 60
+  },
+  {
+    "sellerState": "RN",
+    "customerState": "BA",
+    "orders": 5,
+    "revenue": 1845,
+    "avgFreight": 36.39,
+    "avgDeliveryDays": 16.4,
+    "avgEstimatedDays": 31.7,
+    "lateRate": 20
+  },
+  {
+    "sellerState": "PE",
+    "customerState": "PA",
+    "orders": 5,
+    "revenue": 1133,
+    "avgFreight": 54.58,
+    "avgDeliveryDays": 20.4,
+    "avgEstimatedDays": 33.3,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "MT",
+    "customerState": "SC",
+    "orders": 5,
+    "revenue": 560,
+    "avgFreight": 37.51,
+    "avgDeliveryDays": 17.3,
+    "avgEstimatedDays": 30.7,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "DF",
+    "customerState": "TO",
+    "orders": 5,
+    "revenue": 536,
+    "avgFreight": 33.89,
+    "avgDeliveryDays": 12.6,
+    "avgEstimatedDays": 20.6,
+    "lateRate": 40
+  },
+  {
+    "sellerState": "MA",
+    "customerState": "PB",
+    "orders": 4,
+    "revenue": 300,
+    "avgFreight": 21.26,
+    "avgDeliveryDays": 28.7,
+    "avgEstimatedDays": 28.9,
+    "lateRate": 25
+  },
+  {
+    "sellerState": "MA",
+    "customerState": "AL",
+    "orders": 4,
+    "revenue": 261,
+    "avgFreight": 23.76,
+    "avgDeliveryDays": 30.2,
+    "avgEstimatedDays": 28.6,
+    "lateRate": 75
+  },
+  {
+    "sellerState": "RN",
+    "customerState": "RS",
+    "orders": 4,
+    "revenue": 1552,
+    "avgFreight": 49.62,
+    "avgDeliveryDays": 21.9,
+    "avgEstimatedDays": 32.1,
+    "lateRate": 50
+  },
+  {
+    "sellerState": "RN",
+    "customerState": "PR",
+    "orders": 4,
+    "revenue": 2423,
+    "avgFreight": 48.79,
+    "avgDeliveryDays": 21.8,
+    "avgEstimatedDays": 27.8,
+    "lateRate": 25
+  },
+  {
+    "sellerState": "DF",
+    "customerState": "AL",
+    "orders": 4,
+    "revenue": 1050,
+    "avgFreight": 54.28,
+    "avgDeliveryDays": 13.7,
+    "avgEstimatedDays": 32.1,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "SC",
+    "customerState": "AC",
+    "orders": 4,
+    "revenue": 1094,
+    "avgFreight": 59.06,
+    "avgDeliveryDays": 16,
+    "avgEstimatedDays": 48.8,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "PE",
+    "customerState": "RN",
+    "orders": 4,
+    "revenue": 2278,
+    "avgFreight": 20.9,
+    "avgDeliveryDays": 8.5,
+    "avgEstimatedDays": 24.5,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "MT",
+    "customerState": "BA",
+    "orders": 4,
+    "revenue": 589,
+    "avgFreight": 44.64,
+    "avgDeliveryDays": 14.1,
+    "avgEstimatedDays": 32.7,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "MS",
+    "customerState": "DF",
+    "orders": 4,
+    "revenue": 599,
+    "avgFreight": 24.43,
+    "avgDeliveryDays": 10.2,
+    "avgEstimatedDays": 25.5,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "CE",
+    "customerState": "PR",
+    "orders": 4,
+    "revenue": 580,
+    "avgFreight": 76.9,
+    "avgDeliveryDays": 15.7,
+    "avgEstimatedDays": 34.1,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "SC",
+    "customerState": "AP",
+    "orders": 4,
+    "revenue": 551,
+    "avgFreight": 58.04,
+    "avgDeliveryDays": 30.4,
+    "avgEstimatedDays": 50,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "MS",
+    "customerState": "MG",
+    "orders": 4,
+    "revenue": 822,
+    "avgFreight": 24.85,
+    "avgDeliveryDays": 15.7,
+    "avgEstimatedDays": 36,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "RS",
+    "customerState": "TO",
+    "orders": 4,
+    "revenue": 530,
+    "avgFreight": 51.1,
+    "avgDeliveryDays": 14.5,
+    "avgEstimatedDays": 37.1,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "MA",
+    "customerState": "MT",
+    "orders": 4,
+    "revenue": 348,
+    "avgFreight": 30.63,
+    "avgDeliveryDays": 23.2,
+    "avgEstimatedDays": 33.2,
+    "lateRate": 25
+  },
+  {
+    "sellerState": "SC",
+    "customerState": "AM",
+    "orders": 4,
+    "revenue": 736,
+    "avgFreight": 56.93,
+    "avgDeliveryDays": 27.6,
+    "avgEstimatedDays": 46.1,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "ES",
+    "customerState": "GO",
+    "orders": 3,
+    "revenue": 1588,
+    "avgFreight": 51.88,
+    "avgDeliveryDays": 13,
+    "avgEstimatedDays": 31.2,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "CE",
+    "customerState": "MG",
+    "orders": 3,
+    "revenue": 339,
+    "avgFreight": 32.77,
+    "avgDeliveryDays": 15.1,
+    "avgEstimatedDays": 34.3,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "CE",
+    "customerState": "SE",
+    "orders": 3,
+    "revenue": 424,
+    "avgFreight": 20.59,
+    "avgDeliveryDays": 14.3,
+    "avgEstimatedDays": 31.8,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "MT",
+    "customerState": "PA",
+    "orders": 3,
+    "revenue": 446,
+    "avgFreight": 35.88,
+    "avgDeliveryDays": 25.2,
+    "avgEstimatedDays": 40.2,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "ES",
+    "customerState": "CE",
+    "orders": 3,
+    "revenue": 327,
+    "avgFreight": 68.56,
+    "avgDeliveryDays": 13.2,
+    "avgEstimatedDays": 27.4,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "ES",
+    "customerState": "PA",
+    "orders": 3,
+    "revenue": 1258,
+    "avgFreight": 91.75,
+    "avgDeliveryDays": 36.6,
+    "avgEstimatedDays": 34.3,
+    "lateRate": 33.3
+  },
+  {
+    "sellerState": "MG",
+    "customerState": "AP",
+    "orders": 3,
+    "revenue": 408,
+    "avgFreight": 44.01,
+    "avgDeliveryDays": 25.4,
+    "avgEstimatedDays": 39.4,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "PE",
+    "customerState": "RO",
+    "orders": 3,
+    "revenue": 490,
+    "avgFreight": 67.9,
+    "avgDeliveryDays": 20.4,
+    "avgEstimatedDays": 54.1,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "RN",
+    "customerState": "CE",
+    "orders": 3,
+    "revenue": 882,
+    "avgFreight": 24.98,
+    "avgDeliveryDays": 28.8,
+    "avgEstimatedDays": 30.8,
+    "lateRate": 33.3
+  },
+  {
+    "sellerState": "MA",
+    "customerState": "RN",
+    "orders": 3,
+    "revenue": 190,
+    "avgFreight": 25.21,
+    "avgDeliveryDays": 21.9,
+    "avgEstimatedDays": 26.9,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "MS",
+    "customerState": "BA",
+    "orders": 3,
+    "revenue": 510,
+    "avgFreight": 42.49,
+    "avgDeliveryDays": 31,
+    "avgEstimatedDays": 31.6,
+    "lateRate": 66.7
+  },
+  {
+    "sellerState": "CE",
+    "customerState": "PI",
+    "orders": 3,
+    "revenue": 270,
+    "avgFreight": 17.69,
+    "avgDeliveryDays": 27.8,
+    "avgEstimatedDays": 26.8,
+    "lateRate": 33.3
+  },
+  {
+    "sellerState": "CE",
+    "customerState": "PA",
+    "orders": 3,
+    "revenue": 857,
+    "avgFreight": 117.08,
+    "avgDeliveryDays": 30,
+    "avgEstimatedDays": 36.8,
+    "lateRate": 33.3
+  },
+  {
+    "sellerState": "MS",
+    "customerState": "PR",
+    "orders": 3,
+    "revenue": 556,
+    "avgFreight": 22.07,
+    "avgDeliveryDays": 10.1,
+    "avgEstimatedDays": 25.8,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "CE",
+    "customerState": "BA",
+    "orders": 3,
+    "revenue": 327,
+    "avgFreight": 24.67,
+    "avgDeliveryDays": 19.6,
+    "avgEstimatedDays": 29.3,
+    "lateRate": 33.3
+  },
+  {
+    "sellerState": "RS",
+    "customerState": "AP",
+    "orders": 3,
+    "revenue": 495,
+    "avgFreight": 37.76,
+    "avgDeliveryDays": 16.5,
+    "avgEstimatedDays": 44.1,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "MA",
+    "customerState": "MS",
+    "orders": 3,
+    "revenue": 310,
+    "avgFreight": 40.17,
+    "avgDeliveryDays": 13.7,
+    "avgEstimatedDays": 28.1,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "MT",
+    "customerState": "MA",
+    "orders": 3,
+    "revenue": 416,
+    "avgFreight": 38.52,
+    "avgDeliveryDays": 19.9,
+    "avgEstimatedDays": 34.3,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "CE",
+    "customerState": "ES",
+    "orders": 3,
+    "revenue": 320,
+    "avgFreight": 23.31,
+    "avgDeliveryDays": 18.8,
+    "avgEstimatedDays": 32.7,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "DF",
+    "customerState": "SE",
+    "orders": 3,
+    "revenue": 393,
+    "avgFreight": 18.1,
+    "avgDeliveryDays": 25.7,
+    "avgEstimatedDays": 32.9,
+    "lateRate": 33.3
+  },
+  {
+    "sellerState": "BA",
+    "customerState": "AP",
+    "orders": 2,
+    "revenue": 1627,
+    "avgFreight": 35.89,
+    "avgDeliveryDays": 21,
+    "avgEstimatedDays": 50.2,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "PI",
+    "customerState": "SP",
+    "orders": 2,
+    "revenue": 109,
+    "avgFreight": 51.47,
+    "avgDeliveryDays": 13.4,
+    "avgEstimatedDays": 28.2,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "ES",
+    "customerState": "MA",
+    "orders": 2,
+    "revenue": 342,
+    "avgFreight": 25.94,
+    "avgDeliveryDays": 16.1,
+    "avgEstimatedDays": 26.4,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "CE",
+    "customerState": "MA",
+    "orders": 2,
+    "revenue": 998,
+    "avgFreight": 61.56,
+    "avgDeliveryDays": 21.3,
+    "avgEstimatedDays": 29.9,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "MG",
+    "customerState": "RR",
+    "orders": 2,
+    "revenue": 59,
+    "avgFreight": 29.99,
+    "avgDeliveryDays": 16.5,
+    "avgEstimatedDays": 44.7,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "RO",
+    "customerState": "RJ",
+    "orders": 2,
+    "revenue": 1800,
+    "avgFreight": 53.5,
+    "avgDeliveryDays": 19.2,
+    "avgEstimatedDays": 34.3,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "PI",
+    "customerState": "MG",
+    "orders": 2,
+    "revenue": 443,
+    "avgFreight": 39.66,
+    "avgDeliveryDays": 14.9,
+    "avgEstimatedDays": 32.9,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "RN",
+    "customerState": "PB",
+    "orders": 2,
+    "revenue": 1186,
+    "avgFreight": 56.81,
+    "avgDeliveryDays": 11.7,
+    "avgEstimatedDays": 23.2,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "MT",
+    "customerState": "CE",
+    "orders": 2,
+    "revenue": 210,
+    "avgFreight": 38.62,
+    "avgDeliveryDays": 24.2,
+    "avgEstimatedDays": 27.9,
+    "lateRate": 50
+  },
+  {
+    "sellerState": "MT",
+    "customerState": "ES",
+    "orders": 2,
+    "revenue": 273,
+    "avgFreight": 38.5,
+    "avgDeliveryDays": 22.1,
+    "avgEstimatedDays": 27.2,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "CE",
+    "customerState": "AL",
+    "orders": 2,
+    "revenue": 284,
+    "avgFreight": 20.43,
+    "avgDeliveryDays": 19.4,
+    "avgEstimatedDays": 30.1,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "GO",
+    "customerState": "PI",
+    "orders": 2,
+    "revenue": 246,
+    "avgFreight": 43.94,
+    "avgDeliveryDays": 21.3,
+    "avgEstimatedDays": 34.3,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "PB",
+    "customerState": "PE",
+    "orders": 2,
+    "revenue": 747,
+    "avgFreight": 16.24,
+    "avgDeliveryDays": 6.7,
+    "avgEstimatedDays": 25.4,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "BA",
+    "customerState": "MS",
+    "orders": 2,
+    "revenue": 834,
+    "avgFreight": 57.07,
+    "avgDeliveryDays": 18.4,
+    "avgEstimatedDays": 28.3,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "MA",
+    "customerState": "TO",
+    "orders": 2,
+    "revenue": 188,
+    "avgFreight": 61.93,
+    "avgDeliveryDays": 23.6,
+    "avgEstimatedDays": 25.8,
+    "lateRate": 50
+  },
+  {
+    "sellerState": "BA",
+    "customerState": "TO",
+    "orders": 2,
+    "revenue": 1449,
+    "avgFreight": 45.14,
+    "avgDeliveryDays": 15.7,
+    "avgEstimatedDays": 22,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "PB",
+    "customerState": "CE",
+    "orders": 2,
+    "revenue": 1344,
+    "avgFreight": 43.33,
+    "avgDeliveryDays": 7.4,
+    "avgEstimatedDays": 33.1,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "RS",
+    "customerState": "AC",
+    "orders": 2,
+    "revenue": 219,
+    "avgFreight": 37.46,
+    "avgDeliveryDays": 17.6,
+    "avgEstimatedDays": 39.1,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "PB",
+    "customerState": "MG",
+    "orders": 2,
+    "revenue": 1549,
+    "avgFreight": 34.44,
+    "avgDeliveryDays": 9.6,
+    "avgEstimatedDays": 32.9,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "RN",
+    "customerState": "RJ",
+    "orders": 2,
+    "revenue": 839,
+    "avgFreight": 35.01,
+    "avgDeliveryDays": 27.8,
+    "avgEstimatedDays": 38.1,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "MT",
+    "customerState": "RO",
+    "orders": 2,
+    "revenue": 194,
+    "avgFreight": 28.79,
+    "avgDeliveryDays": 14,
+    "avgEstimatedDays": 40.5,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "ES",
+    "customerState": "TO",
+    "orders": 2,
+    "revenue": 420,
+    "avgFreight": 93.05,
+    "avgDeliveryDays": 17.5,
+    "avgEstimatedDays": 30.9,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "ES",
+    "customerState": "PI",
+    "orders": 2,
+    "revenue": 187,
+    "avgFreight": 69.97,
+    "avgDeliveryDays": 18,
+    "avgEstimatedDays": 28.2,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "GO",
+    "customerState": "AM",
+    "orders": 2,
+    "revenue": 179,
+    "avgFreight": 26.57,
+    "avgDeliveryDays": 32.2,
+    "avgEstimatedDays": 50.8,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "PE",
+    "customerState": "MS",
+    "orders": 2,
+    "revenue": 285,
+    "avgFreight": 36.35,
+    "avgDeliveryDays": 14.3,
+    "avgEstimatedDays": 31.9,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "BA",
+    "customerState": "RO",
+    "orders": 2,
+    "revenue": 2500,
+    "avgFreight": 52.61,
+    "avgDeliveryDays": 28.3,
+    "avgEstimatedDays": 41,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "MS",
+    "customerState": "MT",
+    "orders": 2,
+    "revenue": 144,
+    "avgFreight": 32.74,
+    "avgDeliveryDays": 12.3,
+    "avgEstimatedDays": 21.5,
+    "lateRate": 50
+  },
+  {
+    "sellerState": "PB",
+    "customerState": "BA",
+    "orders": 2,
+    "revenue": 1029,
+    "avgFreight": 25.86,
+    "avgDeliveryDays": 14.3,
+    "avgEstimatedDays": 20.6,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "SE",
+    "customerState": "SP",
+    "orders": 2,
+    "revenue": 358,
+    "avgFreight": 26.36,
+    "avgDeliveryDays": 11.1,
+    "avgEstimatedDays": 25.2,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "CE",
+    "customerState": "SC",
+    "orders": 2,
+    "revenue": 634,
+    "avgFreight": 37.43,
+    "avgDeliveryDays": 21,
+    "avgEstimatedDays": 41.1,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "ES",
+    "customerState": "RN",
+    "orders": 2,
+    "revenue": 180,
+    "avgFreight": 22.87,
+    "avgDeliveryDays": 19.1,
+    "avgEstimatedDays": 41.9,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "PR",
+    "customerState": "AP",
+    "orders": 2,
+    "revenue": 1708,
+    "avgFreight": 75,
+    "avgDeliveryDays": 21.4,
+    "avgEstimatedDays": 55.9,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "CE",
+    "customerState": "MT",
+    "orders": 2,
+    "revenue": 450,
+    "avgFreight": 67.43,
+    "avgDeliveryDays": 23.3,
+    "avgEstimatedDays": 31.8,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "MT",
+    "customerState": "PB",
+    "orders": 2,
+    "revenue": 313,
+    "avgFreight": 40.43,
+    "avgDeliveryDays": 27.6,
+    "avgEstimatedDays": 33.4,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "DF",
+    "customerState": "AC",
+    "orders": 1,
+    "revenue": 199,
+    "avgFreight": 26.42,
+    "avgDeliveryDays": 11.4,
+    "avgEstimatedDays": 33.6,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "RJ",
+    "customerState": "AC",
+    "orders": 1,
+    "revenue": 17,
+    "avgFreight": 33.24,
+    "avgDeliveryDays": 20.1,
+    "avgEstimatedDays": 36.4,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "PB",
+    "customerState": "RN",
+    "orders": 1,
+    "revenue": 50,
+    "avgFreight": 19.32,
+    "avgDeliveryDays": 11.1,
+    "avgEstimatedDays": 48.5,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "CE",
+    "customerState": "RO",
+    "orders": 1,
+    "revenue": 599,
+    "avgFreight": 38.81,
+    "avgDeliveryDays": 25.8,
+    "avgEstimatedDays": 37.3,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "CE",
+    "customerState": "RN",
+    "orders": 1,
+    "revenue": 399,
+    "avgFreight": 97.44,
+    "avgDeliveryDays": 13.3,
+    "avgEstimatedDays": 41.3,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "ES",
+    "customerState": "RO",
+    "orders": 1,
+    "revenue": 99,
+    "avgFreight": 89.82,
+    "avgDeliveryDays": 9,
+    "avgEstimatedDays": 38.1,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "PB",
+    "customerState": "PB",
+    "orders": 1,
+    "revenue": 180,
+    "avgFreight": 9.63,
+    "avgDeliveryDays": 8.1,
+    "avgEstimatedDays": 25.4,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "PB",
+    "customerState": "PA",
+    "orders": 1,
+    "revenue": 68,
+    "avgFreight": 20.93,
+    "avgDeliveryDays": 19.3,
+    "avgEstimatedDays": 41,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "GO",
+    "customerState": "AC",
+    "orders": 1,
+    "revenue": 99,
+    "avgFreight": 48.6,
+    "avgDeliveryDays": 18.2,
+    "avgEstimatedDays": 47.5,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "MA",
+    "customerState": "AM",
+    "orders": 1,
+    "revenue": 123,
+    "avgFreight": 25.21,
+    "avgDeliveryDays": 15.9,
+    "avgEstimatedDays": 54.3,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "PI",
+    "customerState": "CE",
+    "orders": 1,
+    "revenue": 295,
+    "avgFreight": 28.15,
+    "avgDeliveryDays": 13,
+    "avgEstimatedDays": 29.1,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "AM",
+    "customerState": "MG",
+    "orders": 1,
+    "revenue": 114,
+    "avgFreight": 25.29,
+    "avgDeliveryDays": 23,
+    "avgEstimatedDays": 33.4,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "SE",
+    "customerState": "PR",
+    "orders": 1,
+    "revenue": 378,
+    "avgFreight": 43.36,
+    "avgDeliveryDays": 13.8,
+    "avgEstimatedDays": 28,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "PE",
+    "customerState": "MT",
+    "orders": 1,
+    "revenue": 150,
+    "avgFreight": 30.08,
+    "avgDeliveryDays": 21,
+    "avgEstimatedDays": 34.3,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "CE",
+    "customerState": "GO",
+    "orders": 1,
+    "revenue": 399,
+    "avgFreight": 144.29,
+    "avgDeliveryDays": 13.5,
+    "avgEstimatedDays": 41.7,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "SE",
+    "customerState": "GO",
+    "orders": 1,
+    "revenue": 361,
+    "avgFreight": 36.33,
+    "avgDeliveryDays": 15.3,
+    "avgEstimatedDays": 25.3,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "CE",
+    "customerState": "DF",
+    "orders": 1,
+    "revenue": 152,
+    "avgFreight": 27.84,
+    "avgDeliveryDays": 10,
+    "avgEstimatedDays": 24.3,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "MA",
+    "customerState": "AP",
+    "orders": 1,
+    "revenue": 123,
+    "avgFreight": 21.13,
+    "avgDeliveryDays": 28.3,
+    "avgEstimatedDays": 42.4,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "MT",
+    "customerState": "RN",
+    "orders": 1,
+    "revenue": 130,
+    "avgFreight": 47.44,
+    "avgDeliveryDays": 15.2,
+    "avgEstimatedDays": 39.4,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "RO",
+    "customerState": "ES",
+    "orders": 1,
+    "revenue": 107,
+    "avgFreight": 58.54,
+    "avgDeliveryDays": 19.5,
+    "avgEstimatedDays": 47.4,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "RN",
+    "customerState": "AL",
+    "orders": 1,
+    "revenue": 95,
+    "avgFreight": 15.42,
+    "avgDeliveryDays": 9.6,
+    "avgEstimatedDays": 31.2,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "SE",
+    "customerState": "PA",
+    "orders": 1,
+    "revenue": 120,
+    "avgFreight": 26,
+    "avgDeliveryDays": 15.6,
+    "avgEstimatedDays": 42,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "ES",
+    "customerState": "DF",
+    "orders": 1,
+    "revenue": 112,
+    "avgFreight": 42.01,
+    "avgDeliveryDays": 18.3,
+    "avgEstimatedDays": 29.6,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "BA",
+    "customerState": "RR",
+    "orders": 1,
+    "revenue": 349,
+    "avgFreight": 86.21,
+    "avgDeliveryDays": 10.9,
+    "avgEstimatedDays": 31.1,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "PA",
+    "customerState": "MG",
+    "orders": 1,
+    "revenue": 139,
+    "avgFreight": 18.54,
+    "avgDeliveryDays": 14,
+    "avgEstimatedDays": 22.2,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "RN",
+    "customerState": "MG",
+    "orders": 1,
+    "revenue": 26,
+    "avgFreight": 18.28,
+    "avgDeliveryDays": 3.6,
+    "avgEstimatedDays": 15.6,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "RO",
+    "customerState": "SE",
+    "orders": 1,
+    "revenue": 42,
+    "avgFreight": 54.02,
+    "avgDeliveryDays": 36.1,
+    "avgEstimatedDays": 41.3,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "RO",
+    "customerState": "BA",
+    "orders": 1,
+    "revenue": 280,
+    "avgFreight": 75.12,
+    "avgDeliveryDays": 15.6,
+    "avgEstimatedDays": 44.4,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "SE",
+    "customerState": "RJ",
+    "orders": 1,
+    "revenue": 90,
+    "avgFreight": 38.18,
+    "avgDeliveryDays": 8.1,
+    "avgEstimatedDays": 32.5,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "MS",
+    "customerState": "AC",
+    "orders": 1,
+    "revenue": 370,
+    "avgFreight": 42.82,
+    "avgDeliveryDays": 20,
+    "avgEstimatedDays": 30.4,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "PB",
+    "customerState": "MT",
+    "orders": 1,
+    "revenue": 1099,
+    "avgFreight": 51.54,
+    "avgDeliveryDays": 17,
+    "avgEstimatedDays": 33.4,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "MA",
+    "customerState": "AC",
+    "orders": 1,
+    "revenue": 67,
+    "avgFreight": 27.75,
+    "avgDeliveryDays": 15.1,
+    "avgEstimatedDays": 47.4,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "RO",
+    "customerState": "RS",
+    "orders": 1,
+    "revenue": 150,
+    "avgFreight": 43.08,
+    "avgDeliveryDays": 21.8,
+    "avgEstimatedDays": 34,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "SE",
+    "customerState": "ES",
+    "orders": 1,
+    "revenue": 90,
+    "avgFreight": 42.91,
+    "avgDeliveryDays": 15.1,
+    "avgEstimatedDays": 32.3,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "PB",
+    "customerState": "ES",
+    "orders": 1,
+    "revenue": 28,
+    "avgFreight": 52.48,
+    "avgDeliveryDays": 23.2,
+    "avgEstimatedDays": 32.5,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "PR",
+    "customerState": "AC",
+    "orders": 1,
+    "revenue": 180,
+    "avgFreight": 39.05,
+    "avgDeliveryDays": 23.9,
+    "avgEstimatedDays": 34.2,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "PI",
+    "customerState": "MA",
+    "orders": 1,
+    "revenue": 285,
+    "avgFreight": 35.76,
+    "avgDeliveryDays": 5.8,
+    "avgEstimatedDays": 19.1,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "GO",
+    "customerState": "RO",
+    "orders": 1,
+    "revenue": 25,
+    "avgFreight": 21.15,
+    "avgDeliveryDays": 18.8,
+    "avgEstimatedDays": 38.9,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "PE",
+    "customerState": "AP",
+    "orders": 1,
+    "revenue": 300,
+    "avgFreight": 31.88,
+    "avgDeliveryDays": 30,
+    "avgEstimatedDays": 43.2,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "MS",
+    "customerState": "GO",
+    "orders": 1,
+    "revenue": 259,
+    "avgFreight": 20.4,
+    "avgDeliveryDays": 11.1,
+    "avgEstimatedDays": 23.5,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "RN",
+    "customerState": "SC",
+    "orders": 1,
+    "revenue": 249,
+    "avgFreight": 48.27,
+    "avgDeliveryDays": 21.9,
+    "avgEstimatedDays": 34.3,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "RN",
+    "customerState": "PA",
+    "orders": 1,
+    "revenue": 249,
+    "avgFreight": 26.29,
+    "avgDeliveryDays": 26.4,
+    "avgEstimatedDays": 32.5,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "MS",
+    "customerState": "RS",
+    "orders": 1,
+    "revenue": 130,
+    "avgFreight": 29.31,
+    "avgDeliveryDays": 9.1,
+    "avgEstimatedDays": 30.5,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "PA",
+    "customerState": "PR",
+    "orders": 1,
+    "revenue": 99,
+    "avgFreight": 35.75,
+    "avgDeliveryDays": 3.5,
+    "avgEstimatedDays": 17.6,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "RN",
+    "customerState": "DF",
+    "orders": 1,
+    "revenue": 33,
+    "avgFreight": 22.85,
+    "avgDeliveryDays": 12.2,
+    "avgEstimatedDays": 37.4,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "BA",
+    "customerState": "AC",
+    "orders": 1,
+    "revenue": 1200,
+    "avgFreight": 51.7,
+    "avgDeliveryDays": 67,
+    "avgEstimatedDays": 42.9,
+    "lateRate": 100
+  },
+  {
+    "sellerState": "GO",
+    "customerState": "AP",
+    "orders": 1,
+    "revenue": 75,
+    "avgFreight": 27.59,
+    "avgDeliveryDays": 24.3,
+    "avgEstimatedDays": 45.3,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "GO",
+    "customerState": "RN",
+    "orders": 1,
+    "revenue": 17,
+    "avgFreight": 25.38,
+    "avgDeliveryDays": 12.4,
+    "avgEstimatedDays": 33.4,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "MS",
+    "customerState": "SC",
+    "orders": 1,
+    "revenue": 175,
+    "avgFreight": 18.79,
+    "avgDeliveryDays": 13.6,
+    "avgEstimatedDays": 21,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "PI",
+    "customerState": "PR",
+    "orders": 1,
+    "revenue": 475,
+    "avgFreight": 78.56,
+    "avgDeliveryDays": 12.5,
+    "avgEstimatedDays": 33.6,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "CE",
+    "customerState": "AM",
+    "orders": 1,
+    "revenue": 150,
+    "avgFreight": 38.01,
+    "avgDeliveryDays": 138.9,
+    "avgEstimatedDays": 34.2,
+    "lateRate": 100
+  },
+  {
+    "sellerState": "PI",
+    "customerState": "SC",
+    "orders": 1,
+    "revenue": 295,
+    "avgFreight": 54.43,
+    "avgDeliveryDays": 25.6,
+    "avgEstimatedDays": 26.1,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "PI",
+    "customerState": "PE",
+    "orders": 1,
+    "revenue": 295,
+    "avgFreight": 24.94,
+    "avgDeliveryDays": 23.6,
+    "avgEstimatedDays": 32.5,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "PI",
+    "customerState": "PB",
+    "orders": 1,
+    "revenue": 71,
+    "avgFreight": 23.65,
+    "avgDeliveryDays": 12.5,
+    "avgEstimatedDays": 30.7,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "RO",
+    "customerState": "PR",
+    "orders": 1,
+    "revenue": 208,
+    "avgFreight": 43.49,
+    "avgDeliveryDays": 8,
+    "avgEstimatedDays": 31.4,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "AM",
+    "customerState": "AL",
+    "orders": 1,
+    "revenue": 949,
+    "avgFreight": 35.26,
+    "avgDeliveryDays": 91,
+    "avgEstimatedDays": 53,
+    "lateRate": 100
+  },
+  {
+    "sellerState": "PI",
+    "customerState": "PI",
+    "orders": 1,
+    "revenue": 295,
+    "avgFreight": 20.08,
+    "avgDeliveryDays": 2,
+    "avgEstimatedDays": 16.1,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "CE",
+    "customerState": "MS",
+    "orders": 1,
+    "revenue": 139,
+    "avgFreight": 85.75,
+    "avgDeliveryDays": 12.9,
+    "avgEstimatedDays": 27.1,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "AM",
+    "customerState": "MA",
+    "orders": 1,
+    "revenue": 114,
+    "avgFreight": 21.25,
+    "avgDeliveryDays": 29.5,
+    "avgEstimatedDays": 29.1,
+    "lateRate": 100
+  },
+  {
+    "sellerState": "PB",
+    "customerState": "DF",
+    "orders": 1,
+    "revenue": 490,
+    "avgFreight": 38.75,
+    "avgDeliveryDays": 16.8,
+    "avgEstimatedDays": 28.1,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "PE",
+    "customerState": "TO",
+    "orders": 1,
+    "revenue": 150,
+    "avgFreight": 36.37,
+    "avgDeliveryDays": 15.3,
+    "avgEstimatedDays": 30.4,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "PB",
+    "customerState": "AL",
+    "orders": 1,
+    "revenue": 850,
+    "avgFreight": 24.92,
+    "avgDeliveryDays": 31.1,
+    "avgEstimatedDays": 30.3,
+    "lateRate": 100
+  },
+  {
+    "sellerState": "PB",
+    "customerState": "MA",
+    "orders": 1,
+    "revenue": 68,
+    "avgFreight": 17.48,
+    "avgDeliveryDays": 7.2,
+    "avgEstimatedDays": 38.5,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "PB",
+    "customerState": "SE",
+    "orders": 1,
+    "revenue": 40,
+    "avgFreight": 23.08,
+    "avgDeliveryDays": 11.1,
+    "avgEstimatedDays": 38.1,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "BA",
+    "customerState": "AM",
+    "orders": 1,
+    "revenue": 1340,
+    "avgFreight": 44.74,
+    "avgDeliveryDays": 33,
+    "avgEstimatedDays": 53.1,
+    "lateRate": 0
+  },
+  {
+    "sellerState": "RJ",
+    "customerState": "AP",
+    "orders": 1,
+    "revenue": 108,
+    "avgFreight": 27.61,
+    "avgDeliveryDays": 30.1,
+    "avgEstimatedDays": 56.4,
+    "lateRate": 0
+  }
+]

@@ -1,0 +1,164 @@
+{
+  "AC": {
+    "name": "Acre",
+    "lat": -9.0238,
+    "lng": -70.812,
+    "region": "North"
+  },
+  "AL": {
+    "name": "Alagoas",
+    "lat": -9.5713,
+    "lng": -36.782,
+    "region": "Northeast"
+  },
+  "AP": {
+    "name": "Amapá",
+    "lat": 1.41,
+    "lng": -51.77,
+    "region": "North"
+  },
+  "AM": {
+    "name": "Amazonas",
+    "lat": -3.47,
+    "lng": -65.1,
+    "region": "North"
+  },
+  "BA": {
+    "name": "Bahia",
+    "lat": -12.97,
+    "lng": -38.51,
+    "region": "Northeast"
+  },
+  "CE": {
+    "name": "Ceará",
+    "lat": -5.2,
+    "lng": -39.5,
+    "region": "Northeast"
+  },
+  "DF": {
+    "name": "Distrito Federal",
+    "lat": -15.78,
+    "lng": -47.93,
+    "region": "Central-West"
+  },
+  "ES": {
+    "name": "Espírito Santo",
+    "lat": -19.19,
+    "lng": -40.34,
+    "region": "Southeast"
+  },
+  "GO": {
+    "name": "Goiás",
+    "lat": -15.98,
+    "lng": -49.86,
+    "region": "Central-West"
+  },
+  "MA": {
+    "name": "Maranhão",
+    "lat": -5.42,
+    "lng": -45.44,
+    "region": "Northeast"
+  },
+  "MT": {
+    "name": "Mato Grosso",
+    "lat": -12.64,
+    "lng": -55.42,
+    "region": "Central-West"
+  },
+  "MS": {
+    "name": "Mato Grosso do Sul",
+    "lat": -20.51,
+    "lng": -54.54,
+    "region": "Central-West"
+  },
+  "MG": {
+    "name": "Minas Gerais",
+    "lat": -18.1,
+    "lng": -44.38,
+    "region": "Southeast"
+  },
+  "PA": {
+    "name": "Pará",
+    "lat": -3.79,
+    "lng": -52.48,
+    "region": "North"
+  },
+  "PB": {
+    "name": "Paraíba",
+    "lat": -7.28,
+    "lng": -36.72,
+    "region": "Northeast"
+  },
+  "PR": {
+    "name": "Paraná",
+    "lat": -24.89,
+    "lng": -51.55,
+    "region": "South"
+  },
+  "PE": {
+    "name": "Pernambuco",
+    "lat": -8.38,
+    "lng": -37.86,
+    "region": "Northeast"
+  },
+  "PI": {
+    "name": "Piauí",
+    "lat": -6.6,
+    "lng": -42.28,
+    "region": "Northeast"
+  },
+  "RJ": {
+    "name": "Rio de Janeiro",
+    "lat": -22.91,
+    "lng": -43.2,
+    "region": "Southeast"
+  },
+  "RN": {
+    "name": "Rio Grande do Norte",
+    "lat": -5.81,
+    "lng": -36.59,
+    "region": "Northeast"
+  },
+  "RS": {
+    "name": "Rio Grande do Sul",
+    "lat": -30.17,
+    "lng": -53.5,
+    "region": "South"
+  },
+  "RO": {
+    "name": "Rondônia",
+    "lat": -10.9,
+    "lng": -62.8,
+    "region": "North"
+  },
+  "RR": {
+    "name": "Roraima",
+    "lat": 1.99,
+    "lng": -61.33,
+    "region": "North"
+  },
+  "SC": {
+    "name": "Santa Catarina",
+    "lat": -27.45,
+    "lng": -50.95,
+    "region": "South"
+  },
+  "SP": {
+    "name": "São Paulo",
+    "lat": -23.55,
+    "lng": -46.63,
+    "region": "Southeast"
+  },
+  "SE": {
+    "name": "Sergipe",
+    "lat": -10.57,
+    "lng": -37.45,
+    "region": "Northeast"
+  },
+  "TO": {
+    "name": "Tocantins",
+    "lat": -9.46,
+    "lng": -48.26,
+    "region": "North"
+  }
+}

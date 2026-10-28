@@ -1,0 +1,4286 @@
+[
+  {
+    "date": "2016-09-15",
+    "orders": 1,
+    "revenue": 135,
+    "avgDeliveryDays": 54.8,
+    "lateRate": 100
+  },
+  {
+    "date": "2016-10-03",
+    "orders": 7,
+    "revenue": 442,
+    "avgDeliveryDays": 25.1,
+    "lateRate": 0
+  },
+  {
+    "date": "2016-10-04",
+    "orders": 54,
+    "revenue": 8596,
+    "avgDeliveryDays": 25.8,
+    "lateRate": 3.7
+  },
+  {
+    "date": "2016-10-05",
+    "orders": 35,
+    "revenue": 6170,
+    "avgDeliveryDays": 20.3,
+    "lateRate": 0
+  },
+  {
+    "date": "2016-10-06",
+    "orders": 41,
+    "revenue": 5890,
+    "avgDeliveryDays": 20.9,
+    "lateRate": 0
+  },
+  {
+    "date": "2016-10-07",
+    "orders": 38,
+    "revenue": 6075,
+    "avgDeliveryDays": 16.1,
+    "lateRate": 0
+  },
+  {
+    "date": "2016-10-08",
+    "orders": 36,
+    "revenue": 7593,
+    "avgDeliveryDays": 14.3,
+    "lateRate": 0
+  },
+  {
+    "date": "2016-10-09",
+    "orders": 20,
+    "revenue": 2400,
+    "avgDeliveryDays": 14,
+    "lateRate": 0
+  },
+  {
+    "date": "2016-10-10",
+    "orders": 34,
+    "revenue": 3160,
+    "avgDeliveryDays": 19.2,
+    "lateRate": 2.9
+  },
+  {
+    "date": "2016-12-23",
+    "orders": 1,
+    "revenue": 11,
+    "avgDeliveryDays": 4.7,
+    "lateRate": 0
+  },
+  {
+    "date": "2017-01-05",
+    "orders": 32,
+    "revenue": 397,
+    "avgDeliveryDays": 10.9,
+    "lateRate": 0
+  },
+  {
+    "date": "2017-01-06",
+    "orders": 4,
+    "revenue": 916,
+    "avgDeliveryDays": 7.5,
+    "lateRate": 0
+  },
+  {
+    "date": "2017-01-07",
+    "orders": 4,
+    "revenue": 1352,
+    "avgDeliveryDays": 24.2,
+    "lateRate": 25
+  },
+  {
+    "date": "2017-01-08",
+    "orders": 4,
+    "revenue": 450,
+    "avgDeliveryDays": 8.1,
+    "lateRate": 0
+  },
+  {
+    "date": "2017-01-09",
+    "orders": 5,
+    "revenue": 674,
+    "avgDeliveryDays": 23.5,
+    "lateRate": 40
+  },
+  {
+    "date": "2017-01-10",
+    "orders": 6,
+    "revenue": 1435,
+    "avgDeliveryDays": 12.5,
+    "lateRate": 0
+  },
+  {
+    "date": "2017-01-11",
+    "orders": 10,
+    "revenue": 1855,
+    "avgDeliveryDays": 7.4,
+    "lateRate": 0
+  },
+  {
+    "date": "2017-01-12",
+    "orders": 12,
+    "revenue": 1479,
+    "avgDeliveryDays": 24.4,
+    "lateRate": 16.7
+  },
+  {
+    "date": "2017-01-13",
+    "orders": 10,
+    "revenue": 2451,
+    "avgDeliveryDays": 9.5,
+    "lateRate": 0
+  },
+  {
+    "date": "2017-01-14",
+    "orders": 16,
+    "revenue": 877,
+    "avgDeliveryDays": 15.3,
+    "lateRate": 6.3
+  },
+  {
+    "date": "2017-01-15",
+    "orders": 14,
+    "revenue": 2200,
+    "avgDeliveryDays": 12.8,
+    "lateRate": 0
+  },
+  {
+    "date": "2017-01-16",
+    "orders": 18,
+    "revenue": 3275,
+    "avgDeliveryDays": 12.1,
+    "lateRate": 0
+  },
+  {
+    "date": "2017-01-17",
+    "orders": 32,
+    "revenue": 3303,
+    "avgDeliveryDays": 11,
+    "lateRate": 0
+  },
+  {
+    "date": "2017-01-18",
+    "orders": 30,
+    "revenue": 3216,
+    "avgDeliveryDays": 13.2,
+    "lateRate": 3.3
+  },
+  {
+    "date": "2017-01-19",
+    "orders": 29,
+    "revenue": 3554,
+    "avgDeliveryDays": 12.4,
+    "lateRate": 3.4
+  },
+  {
+    "date": "2017-01-20",
+    "orders": 28,
+    "revenue": 4036,
+    "avgDeliveryDays": 12.1,
+    "lateRate": 0
+  },
+  {
+    "date": "2017-01-21",
+    "orders": 22,
+    "revenue": 2314,
+    "avgDeliveryDays": 12.9,
+    "lateRate": 0
+  },
+  {
+    "date": "2017-01-22",
+    "orders": 30,
+    "revenue": 3619,
+    "avgDeliveryDays": 9.3,
+    "lateRate": 0
+  },
+  {
+    "date": "2017-01-23",
+    "orders": 36,
+    "revenue": 6299,
+    "avgDeliveryDays": 13,
+    "lateRate": 5.6
+  },
+  {
+    "date": "2017-01-24",
+    "orders": 38,
+    "revenue": 5155,
+    "avgDeliveryDays": 11.6,
+    "lateRate": 0
+  },
+  {
+    "date": "2017-01-25",
+    "orders": 57,
+    "revenue": 7115,
+    "avgDeliveryDays": 12,
+    "lateRate": 1.8
+  },
+  {
+    "date": "2017-01-26",
+    "orders": 82,
+    "revenue": 12908,
+    "avgDeliveryDays": 13.6,
+    "lateRate": 4.9
+  },
+  {
+    "date": "2017-01-27",
+    "orders": 59,
+    "revenue": 11179,
+    "avgDeliveryDays": 12.9,
+    "lateRate": 0
+  },
+  {
+    "date": "2017-01-28",
+    "orders": 28,
+    "revenue": 5056,
+    "avgDeliveryDays": 12.8,
+    "lateRate": 0
+  },
+  {
+    "date": "2017-01-29",
+    "orders": 32,
+    "revenue": 5967,
+    "avgDeliveryDays": 13.8,
+    "lateRate": 6.3
+  },
+  {
+    "date": "2017-01-30",
+    "orders": 48,
+    "revenue": 10241,
+    "avgDeliveryDays": 11.1,
+    "lateRate": 0
+  },
+  {
+    "date": "2017-01-31",
+    "orders": 64,
+    "revenue": 10477,
+    "avgDeliveryDays": 13.6,
+    "lateRate": 9.4
+  },
+  {
+    "date": "2017-02-01",
+    "orders": 61,
+    "revenue": 7539,
+    "avgDeliveryDays": 11.8,
+    "lateRate": 1.6
+  },
+  {
+    "date": "2017-02-02",
+    "orders": 67,
+    "revenue": 8814,
+    "avgDeliveryDays": 12.8,
+    "lateRate": 4.5
+  },
+  {
+    "date": "2017-02-03",
+    "orders": 54,
+    "revenue": 9642,
+    "avgDeliveryDays": 15,
+    "lateRate": 3.7
+  },
+  {
+    "date": "2017-02-04",
+    "orders": 64,
+    "revenue": 13599,
+    "avgDeliveryDays": 12.9,
+    "lateRate": 3.1
+  },
+  {
+    "date": "2017-02-05",
+    "orders": 74,
+    "revenue": 8407,
+    "avgDeliveryDays": 10.9,
+    "lateRate": 1.4
+  },
+  {
+    "date": "2017-02-06",
+    "orders": 78,
+    "revenue": 9400,
+    "avgDeliveryDays": 10.9,
+    "lateRate": 3.8
+  },
+  {
+    "date": "2017-02-07",
+    "orders": 108,
+    "revenue": 13705,
+    "avgDeliveryDays": 10.7,
+    "lateRate": 1.9
+  },
+  {
+    "date": "2017-02-08",
+    "orders": 83,
+    "revenue": 11551,
+    "avgDeliveryDays": 12.2,
+    "lateRate": 1.2
+  },
+  {
+    "date": "2017-02-09",
+    "orders": 73,
+    "revenue": 8972,
+    "avgDeliveryDays": 13.7,
+    "lateRate": 5.5
+  },
+  {
+    "date": "2017-02-10",
+    "orders": 63,
+    "revenue": 13142,
+    "avgDeliveryDays": 13,
+    "lateRate": 3.2
+  },
+  {
+    "date": "2017-02-11",
+    "orders": 45,
+    "revenue": 4308,
+    "avgDeliveryDays": 14.2,
+    "lateRate": 4.4
+  },
+  {
+    "date": "2017-02-12",
+    "orders": 61,
+    "revenue": 14922,
+    "avgDeliveryDays": 12.3,
+    "lateRate": 1.6
+  },
+  {
+    "date": "2017-02-13",
+    "orders": 74,
+    "revenue": 10136,
+    "avgDeliveryDays": 12.8,
+    "lateRate": 1.4
+  },
+  {
+    "date": "2017-02-14",
+    "orders": 66,
+    "revenue": 10885,
+    "avgDeliveryDays": 13.5,
+    "lateRate": 3
+  },
+  {
+    "date": "2017-02-15",
+    "orders": 56,
+    "revenue": 6527,
+    "avgDeliveryDays": 10.9,
+    "lateRate": 0
+  },
+  {
+    "date": "2017-02-16",
+    "orders": 49,
+    "revenue": 5823,
+    "avgDeliveryDays": 13.4,
+    "lateRate": 2
+  },
+  {
+    "date": "2017-02-17",
+    "orders": 45,
+    "revenue": 6801,
+    "avgDeliveryDays": 16.1,
+    "lateRate": 4.4
+  },
+  {
+    "date": "2017-02-18",
+    "orders": 52,
+    "revenue": 7297,
+    "avgDeliveryDays": 13.8,
+    "lateRate": 1.9
+  },
+  {
+    "date": "2017-02-19",
+    "orders": 37,
+    "revenue": 3565,
+    "avgDeliveryDays": 13,
+    "lateRate": 0
+  },
+  {
+    "date": "2017-02-20",
+    "orders": 59,
+    "revenue": 7156,
+    "avgDeliveryDays": 15.1,
+    "lateRate": 8.5
+  },
+  {
+    "date": "2017-02-21",
+    "orders": 39,
+    "revenue": 8023,
+    "avgDeliveryDays": 17.5,
+    "lateRate": 2.6
+  },
+  {
+    "date": "2017-02-22",
+    "orders": 53,
+    "revenue": 5936,
+    "avgDeliveryDays": 13.5,
+    "lateRate": 3.8
+  },
+  {
+    "date": "2017-02-23",
+    "orders": 57,
+    "revenue": 6271,
+    "avgDeliveryDays": 14.3,
+    "lateRate": 3.5
+  },
+  {
+    "date": "2017-02-24",
+    "orders": 60,
+    "revenue": 6630,
+    "avgDeliveryDays": 14.7,
+    "lateRate": 5
+  },
+  {
+    "date": "2017-02-25",
+    "orders": 39,
+    "revenue": 3574,
+    "avgDeliveryDays": 14.4,
+    "lateRate": 0
+  },
+  {
+    "date": "2017-02-26",
+    "orders": 42,
+    "revenue": 5132,
+    "avgDeliveryDays": 14,
+    "lateRate": 4.8
+  },
+  {
+    "date": "2017-02-27",
+    "orders": 41,
+    "revenue": 5764,
+    "avgDeliveryDays": 12.4,
+    "lateRate": 7.3
+  },
+  {
+    "date": "2017-02-28",
+    "orders": 53,
+    "revenue": 10702,
+    "avgDeliveryDays": 15.7,
+    "lateRate": 7.5
+  },
+  {
+    "date": "2017-03-01",
+    "orders": 93,
+    "revenue": 12203,
+    "avgDeliveryDays": 11.1,
+    "lateRate": 4.3
+  },
+  {
+    "date": "2017-03-02",
+    "orders": 66,
+    "revenue": 11164,
+    "avgDeliveryDays": 12.5,
+    "lateRate": 7.6
+  },
+  {
+    "date": "2017-03-03",
+    "orders": 72,
+    "revenue": 12364,
+    "avgDeliveryDays": 13.7,
+    "lateRate": 5.6
+  },
+  {
+    "date": "2017-03-04",
+    "orders": 69,
+    "revenue": 8595,
+    "avgDeliveryDays": 12.4,
+    "lateRate": 5.8
+  },
+  {
+    "date": "2017-03-05",
+    "orders": 67,
+    "revenue": 6663,
+    "avgDeliveryDays": 12.2,
+    "lateRate": 7.5
+  },
+  {
+    "date": "2017-03-06",
+    "orders": 94,
+    "revenue": 8618,
+    "avgDeliveryDays": 11.8,
+    "lateRate": 4.3
+  },
+  {
+    "date": "2017-03-07",
+    "orders": 78,
+    "revenue": 11389,
+    "avgDeliveryDays": 12.9,
+    "lateRate": 6.4
+  },
+  {
+    "date": "2017-03-08",
+    "orders": 73,
+    "revenue": 13179,
+    "avgDeliveryDays": 16.8,
+    "lateRate": 5.5
+  },
+  {
+    "date": "2017-03-09",
+    "orders": 88,
+    "revenue": 10977,
+    "avgDeliveryDays": 13.8,
+    "lateRate": 5.7
+  },
+  {
+    "date": "2017-03-10",
+    "orders": 84,
+    "revenue": 11916,
+    "avgDeliveryDays": 12.1,
+    "lateRate": 2.4
+  },
+  {
+    "date": "2017-03-11",
+    "orders": 68,
+    "revenue": 10513,
+    "avgDeliveryDays": 12.2,
+    "lateRate": 2.9
+  },
+  {
+    "date": "2017-03-12",
+    "orders": 63,
+    "revenue": 6496,
+    "avgDeliveryDays": 10.7,
+    "lateRate": 3.2
+  },
+  {
+    "date": "2017-03-13",
+    "orders": 104,
+    "revenue": 16351,
+    "avgDeliveryDays": 14.1,
+    "lateRate": 8.7
+  },
+  {
+    "date": "2017-03-14",
+    "orders": 95,
+    "revenue": 13936,
+    "avgDeliveryDays": 12.1,
+    "lateRate": 4.2
+  },
+  {
+    "date": "2017-03-15",
+    "orders": 101,
+    "revenue": 14362,
+    "avgDeliveryDays": 15.4,
+    "lateRate": 7.9
+  },
+  {
+    "date": "2017-03-16",
+    "orders": 100,
+    "revenue": 14134,
+    "avgDeliveryDays": 14.9,
+    "lateRate": 9
+  },
+  {
+    "date": "2017-03-17",
+    "orders": 64,
+    "revenue": 11910,
+    "avgDeliveryDays": 16.1,
+    "lateRate": 6.3
+  },
+  {
+    "date": "2017-03-18",
+    "orders": 71,
+    "revenue": 16146,
+    "avgDeliveryDays": 12.3,
+    "lateRate": 2.8
+  },
+  {
+    "date": "2017-03-19",
+    "orders": 56,
+    "revenue": 6649,
+    "avgDeliveryDays": 11.3,
+    "lateRate": 1.8
+  },
+  {
+    "date": "2017-03-20",
+    "orders": 113,
+    "revenue": 16861,
+    "avgDeliveryDays": 11.9,
+    "lateRate": 7.1
+  },
+  {
+    "date": "2017-03-21",
+    "orders": 92,
+    "revenue": 11311,
+    "avgDeliveryDays": 10.8,
+    "lateRate": 3.3
+  },
+  {
+    "date": "2017-03-22",
+    "orders": 104,
+    "revenue": 14151,
+    "avgDeliveryDays": 11.6,
+    "lateRate": 4.8
+  },
+  {
+    "date": "2017-03-23",
+    "orders": 105,
+    "revenue": 16074,
+    "avgDeliveryDays": 12.2,
+    "lateRate": 3.8
+  },
+  {
+    "date": "2017-03-24",
+    "orders": 75,
+    "revenue": 10095,
+    "avgDeliveryDays": 15.1,
+    "lateRate": 6.7
+  },
+  {
+    "date": "2017-03-25",
+    "orders": 72,
+    "revenue": 9302,
+    "avgDeliveryDays": 12.8,
+    "lateRate": 6.9
+  },
+  {
+    "date": "2017-03-26",
+    "orders": 63,
+    "revenue": 6101,
+    "avgDeliveryDays": 13.1,
+    "lateRate": 11.1
+  },
+  {
+    "date": "2017-03-27",
+    "orders": 107,
+    "revenue": 16186,
+    "avgDeliveryDays": 12.2,
+    "lateRate": 4.7
+  },
+  {
+    "date": "2017-03-28",
+    "orders": 96,
+    "revenue": 11420,
+    "avgDeliveryDays": 10.7,
+    "lateRate": 5.2
+  },
+  {
+    "date": "2017-03-29",
+    "orders": 72,
+    "revenue": 8164,
+    "avgDeliveryDays": 14.5,
+    "lateRate": 5.6
+  },
+  {
+    "date": "2017-03-30",
+    "orders": 72,
+    "revenue": 9796,
+    "avgDeliveryDays": 13.7,
+    "lateRate": 4.2
+  },
+  {
+    "date": "2017-03-31",
+    "orders": 69,
+    "revenue": 12171,
+    "avgDeliveryDays": 16.5,
+    "lateRate": 7.2
+  },
+  {
+    "date": "2017-04-01",
+    "orders": 66,
+    "revenue": 17518,
+    "avgDeliveryDays": 13.8,
+    "lateRate": 4.5
+  },
+  {
+    "date": "2017-04-02",
+    "orders": 64,
+    "revenue": 9000,
+    "avgDeliveryDays": 12.7,
+    "lateRate": 1.6
+  },
+  {
+    "date": "2017-04-03",
+    "orders": 68,
+    "revenue": 8843,
+    "avgDeliveryDays": 13,
+    "lateRate": 5.9
+  },
+  {
+    "date": "2017-04-04",
+    "orders": 96,
+    "revenue": 12302,
+    "avgDeliveryDays": 16.3,
+    "lateRate": 7.3
+  },
+  {
+    "date": "2017-04-05",
+    "orders": 93,
+    "revenue": 18328,
+    "avgDeliveryDays": 11.7,
+    "lateRate": 7.5
+  },
+  {
+    "date": "2017-04-06",
+    "orders": 92,
+    "revenue": 19130,
+    "avgDeliveryDays": 13.9,
+    "lateRate": 4.3
+  },
+  {
+    "date": "2017-04-07",
+    "orders": 82,
+    "revenue": 12932,
+    "avgDeliveryDays": 14.2,
+    "lateRate": 8.5
+  },
+  {
+    "date": "2017-04-08",
+    "orders": 64,
+    "revenue": 8457,
+    "avgDeliveryDays": 14.7,
+    "lateRate": 7.8
+  },
+  {
+    "date": "2017-04-09",
+    "orders": 68,
+    "revenue": 7716,
+    "avgDeliveryDays": 13.6,
+    "lateRate": 4.4
+  },
+  {
+    "date": "2017-04-10",
+    "orders": 84,
+    "revenue": 11379,
+    "avgDeliveryDays": 12.2,
+    "lateRate": 7.1
+  },
+  {
+    "date": "2017-04-11",
+    "orders": 73,
+    "revenue": 6973,
+    "avgDeliveryDays": 14.2,
+    "lateRate": 6.8
+  },
+  {
+    "date": "2017-04-12",
+    "orders": 61,
+    "revenue": 7790,
+    "avgDeliveryDays": 15,
+    "lateRate": 11.5
+  },
+  {
+    "date": "2017-04-13",
+    "orders": 60,
+    "revenue": 9691,
+    "avgDeliveryDays": 17.1,
+    "lateRate": 8.3
+  },
+  {
+    "date": "2017-04-14",
+    "orders": 47,
+    "revenue": 6704,
+    "avgDeliveryDays": 17.2,
+    "lateRate": 10.6
+  },
+  {
+    "date": "2017-04-15",
+    "orders": 49,
+    "revenue": 8210,
+    "avgDeliveryDays": 15.4,
+    "lateRate": 12.2
+  },
+  {
+    "date": "2017-04-16",
+    "orders": 47,
+    "revenue": 5026,
+    "avgDeliveryDays": 17.1,
+    "lateRate": 10.6
+  },
+  {
+    "date": "2017-04-17",
+    "orders": 58,
+    "revenue": 7432,
+    "avgDeliveryDays": 15.4,
+    "lateRate": 10.3
+  },
+  {
+    "date": "2017-04-18",
+    "orders": 71,
+    "revenue": 21287,
+    "avgDeliveryDays": 16.8,
+    "lateRate": 8.5
+  },
+  {
+    "date": "2017-04-19",
+    "orders": 93,
+    "revenue": 11756,
+    "avgDeliveryDays": 17,
+    "lateRate": 15.1
+  },
+  {
+    "date": "2017-04-20",
+    "orders": 91,
+    "revenue": 12301,
+    "avgDeliveryDays": 16.2,
+    "lateRate": 12.1
+  },
+  {
+    "date": "2017-04-21",
+    "orders": 66,
+    "revenue": 8426,
+    "avgDeliveryDays": 16.1,
+    "lateRate": 7.6
+  },
+  {
+    "date": "2017-04-22",
+    "orders": 82,
+    "revenue": 12761,
+    "avgDeliveryDays": 14.6,
+    "lateRate": 6.1
+  },
+  {
+    "date": "2017-04-23",
+    "orders": 84,
+    "revenue": 9904,
+    "avgDeliveryDays": 14.4,
+    "lateRate": 10.7
+  },
+  {
+    "date": "2017-04-24",
+    "orders": 110,
+    "revenue": 13027,
+    "avgDeliveryDays": 15,
+    "lateRate": 10.9
+  },
+  {
+    "date": "2017-04-25",
+    "orders": 106,
+    "revenue": 13747,
+    "avgDeliveryDays": 13,
+    "lateRate": 9.4
+  },
+  {
+    "date": "2017-04-26",
+    "orders": 122,
+    "revenue": 15366,
+    "avgDeliveryDays": 15.4,
+    "lateRate": 9
+  },
+  {
+    "date": "2017-04-27",
+    "orders": 75,
+    "revenue": 9522,
+    "avgDeliveryDays": 14.3,
+    "lateRate": 0
+  },
+  {
+    "date": "2017-04-28",
+    "orders": 95,
+    "revenue": 15586,
+    "avgDeliveryDays": 17.4,
+    "lateRate": 7.4
+  },
+  {
+    "date": "2017-04-29",
+    "orders": 70,
+    "revenue": 11574,
+    "avgDeliveryDays": 15.2,
+    "lateRate": 2.9
+  },
+  {
+    "date": "2017-04-30",
+    "orders": 66,
+    "revenue": 7981,
+    "avgDeliveryDays": 16.9,
+    "lateRate": 4.5
+  },
+  {
+    "date": "2017-05-01",
+    "orders": 111,
+    "revenue": 11787,
+    "avgDeliveryDays": 14,
+    "lateRate": 4.5
+  },
+  {
+    "date": "2017-05-02",
+    "orders": 122,
+    "revenue": 17305,
+    "avgDeliveryDays": 14.6,
+    "lateRate": 4.9
+  },
+  {
+    "date": "2017-05-03",
+    "orders": 101,
+    "revenue": 10037,
+    "avgDeliveryDays": 16.1,
+    "lateRate": 7.9
+  },
+  {
+    "date": "2017-05-04",
+    "orders": 107,
+    "revenue": 13494,
+    "avgDeliveryDays": 13.4,
+    "lateRate": 1.9
+  },
+  {
+    "date": "2017-05-05",
+    "orders": 104,
+    "revenue": 13622,
+    "avgDeliveryDays": 13,
+    "lateRate": 1.9
+  },
+  {
+    "date": "2017-05-06",
+    "orders": 103,
+    "revenue": 14328,
+    "avgDeliveryDays": 12.1,
+    "lateRate": 1.9
+  },
+  {
+    "date": "2017-05-07",
+    "orders": 102,
+    "revenue": 16303,
+    "avgDeliveryDays": 11.7,
+    "lateRate": 2
+  },
+  {
+    "date": "2017-05-08",
+    "orders": 120,
+    "revenue": 15873,
+    "avgDeliveryDays": 11.6,
+    "lateRate": 4.2
+  },
+  {
+    "date": "2017-05-09",
+    "orders": 120,
+    "revenue": 20526,
+    "avgDeliveryDays": 11.7,
+    "lateRate": 5
+  },
+  {
+    "date": "2017-05-10",
+    "orders": 109,
+    "revenue": 20446,
+    "avgDeliveryDays": 10.6,
+    "lateRate": 6.4
+  },
+  {
+    "date": "2017-05-11",
+    "orders": 124,
+    "revenue": 18059,
+    "avgDeliveryDays": 10.2,
+    "lateRate": 6.5
+  },
+  {
+    "date": "2017-05-12",
+    "orders": 105,
+    "revenue": 11657,
+    "avgDeliveryDays": 11.9,
+    "lateRate": 7.6
+  },
+  {
+    "date": "2017-05-13",
+    "orders": 67,
+    "revenue": 8354,
+    "avgDeliveryDays": 10.9,
+    "lateRate": 3
+  },
+  {
+    "date": "2017-05-14",
+    "orders": 108,
+    "revenue": 14252,
+    "avgDeliveryDays": 10.5,
+    "lateRate": 6.5
+  },
+  {
+    "date": "2017-05-15",
+    "orders": 149,
+    "revenue": 17679,
+    "avgDeliveryDays": 10.5,
+    "lateRate": 2.7
+  },
+  {
+    "date": "2017-05-16",
+    "orders": 149,
+    "revenue": 21051,
+    "avgDeliveryDays": 9.7,
+    "lateRate": 2.7
+  },
+  {
+    "date": "2017-05-17",
+    "orders": 139,
+    "revenue": 18131,
+    "avgDeliveryDays": 11.6,
+    "lateRate": 2.9
+  },
+  {
+    "date": "2017-05-18",
+    "orders": 124,
+    "revenue": 18205,
+    "avgDeliveryDays": 11.2,
+    "lateRate": 3.2
+  },
+  {
+    "date": "2017-05-19",
+    "orders": 140,
+    "revenue": 17490,
+    "avgDeliveryDays": 10.7,
+    "lateRate": 2.1
+  },
+  {
+    "date": "2017-05-20",
+    "orders": 70,
+    "revenue": 10538,
+    "avgDeliveryDays": 10.5,
+    "lateRate": 2.9
+  },
+  {
+    "date": "2017-05-21",
+    "orders": 145,
+    "revenue": 17175,
+    "avgDeliveryDays": 9.6,
+    "lateRate": 2.1
+  },
+  {
+    "date": "2017-05-22",
+    "orders": 145,
+    "revenue": 23971,
+    "avgDeliveryDays": 9.6,
+    "lateRate": 2.1
+  },
+  {
+    "date": "2017-05-23",
+    "orders": 120,
+    "revenue": 17247,
+    "avgDeliveryDays": 9.8,
+    "lateRate": 4.2
+  },
+  {
+    "date": "2017-05-24",
+    "orders": 140,
+    "revenue": 23311,
+    "avgDeliveryDays": 10.6,
+    "lateRate": 5
+  },
+  {
+    "date": "2017-05-25",
+    "orders": 102,
+    "revenue": 14906,
+    "avgDeliveryDays": 11.8,
+    "lateRate": 3.9
+  },
+  {
+    "date": "2017-05-26",
+    "orders": 77,
+    "revenue": 10411,
+    "avgDeliveryDays": 11.6,
+    "lateRate": 2.6
+  },
+  {
+    "date": "2017-05-27",
+    "orders": 77,
+    "revenue": 13341,
+    "avgDeliveryDays": 10.9,
+    "lateRate": 2.6
+  },
+  {
+    "date": "2017-05-28",
+    "orders": 98,
+    "revenue": 9263,
+    "avgDeliveryDays": 9.9,
+    "lateRate": 2
+  },
+  {
+    "date": "2017-05-29",
+    "orders": 151,
+    "revenue": 17670,
+    "avgDeliveryDays": 9.9,
+    "lateRate": 2
+  },
+  {
+    "date": "2017-05-30",
+    "orders": 98,
+    "revenue": 13498,
+    "avgDeliveryDays": 11.2,
+    "lateRate": 3.1
+  },
+  {
+    "date": "2017-05-31",
+    "orders": 118,
+    "revenue": 19231,
+    "avgDeliveryDays": 12,
+    "lateRate": 2.5
+  },
+  {
+    "date": "2017-06-01",
+    "orders": 123,
+    "revenue": 19287,
+    "avgDeliveryDays": 11.2,
+    "lateRate": 2.4
+  },
+  {
+    "date": "2017-06-02",
+    "orders": 123,
+    "revenue": 18598,
+    "avgDeliveryDays": 12.1,
+    "lateRate": 4.1
+  },
+  {
+    "date": "2017-06-03",
+    "orders": 88,
+    "revenue": 10433,
+    "avgDeliveryDays": 14.3,
+    "lateRate": 4.5
+  },
+  {
+    "date": "2017-06-04",
+    "orders": 99,
+    "revenue": 13694,
+    "avgDeliveryDays": 12.1,
+    "lateRate": 3
+  },
+  {
+    "date": "2017-06-05",
+    "orders": 142,
+    "revenue": 23205,
+    "avgDeliveryDays": 11.1,
+    "lateRate": 3.5
+  },
+  {
+    "date": "2017-06-06",
+    "orders": 128,
+    "revenue": 13560,
+    "avgDeliveryDays": 11.3,
+    "lateRate": 2.3
+  },
+  {
+    "date": "2017-06-07",
+    "orders": 122,
+    "revenue": 12499,
+    "avgDeliveryDays": 13.1,
+    "lateRate": 4.9
+  },
+  {
+    "date": "2017-06-08",
+    "orders": 134,
+    "revenue": 18379,
+    "avgDeliveryDays": 12.6,
+    "lateRate": 2.2
+  },
+  {
+    "date": "2017-06-09",
+    "orders": 105,
+    "revenue": 15921,
+    "avgDeliveryDays": 12,
+    "lateRate": 1
+  },
+  {
+    "date": "2017-06-10",
+    "orders": 72,
+    "revenue": 7942,
+    "avgDeliveryDays": 12.1,
+    "lateRate": 0
+  },
+  {
+    "date": "2017-06-11",
+    "orders": 111,
+    "revenue": 14115,
+    "avgDeliveryDays": 12.6,
+    "lateRate": 4.5
+  },
+  {
+    "date": "2017-06-12",
+    "orders": 121,
+    "revenue": 14280,
+    "avgDeliveryDays": 13.3,
+    "lateRate": 8.3
+  },
+  {
+    "date": "2017-06-13",
+    "orders": 121,
+    "revenue": 13803,
+    "avgDeliveryDays": 11.9,
+    "lateRate": 2.5
+  },
+  {
+    "date": "2017-06-14",
+    "orders": 128,
+    "revenue": 20310,
+    "avgDeliveryDays": 13.5,
+    "lateRate": 7
+  },
+  {
+    "date": "2017-06-15",
+    "orders": 103,
+    "revenue": 12080,
+    "avgDeliveryDays": 14.2,
+    "lateRate": 4.9
+  },
+  {
+    "date": "2017-06-16",
+    "orders": 94,
+    "revenue": 12722,
+    "avgDeliveryDays": 13.1,
+    "lateRate": 6.4
+  },
+  {
+    "date": "2017-06-17",
+    "orders": 72,
+    "revenue": 11025,
+    "avgDeliveryDays": 11.8,
+    "lateRate": 4.2
+  },
+  {
+    "date": "2017-06-18",
+    "orders": 87,
+    "revenue": 15706,
+    "avgDeliveryDays": 11,
+    "lateRate": 1.1
+  },
+  {
+    "date": "2017-06-19",
+    "orders": 152,
+    "revenue": 22231,
+    "avgDeliveryDays": 11.4,
+    "lateRate": 5.3
+  },
+  {
+    "date": "2017-06-20",
+    "orders": 90,
+    "revenue": 10659,
+    "avgDeliveryDays": 10.2,
+    "lateRate": 3.3
+  },
+  {
+    "date": "2017-06-21",
+    "orders": 34,
+    "revenue": 6136,
+    "avgDeliveryDays": 9.5,
+    "lateRate": 5.9
+  },
+  {
+    "date": "2017-06-22",
+    "orders": 83,
+    "revenue": 8459,
+    "avgDeliveryDays": 12.1,
+    "lateRate": 6
+  },
+  {
+    "date": "2017-06-23",
+    "orders": 103,
+    "revenue": 12690,
+    "avgDeliveryDays": 11.7,
+    "lateRate": 0
+  },
+  {
+    "date": "2017-06-24",
+    "orders": 74,
+    "revenue": 8147,
+    "avgDeliveryDays": 13.5,
+    "lateRate": 8.1
+  },
+  {
+    "date": "2017-06-25",
+    "orders": 99,
+    "revenue": 17000,
+    "avgDeliveryDays": 10.3,
+    "lateRate": 2
+  },
+  {
+    "date": "2017-06-26",
+    "orders": 67,
+    "revenue": 12978,
+    "avgDeliveryDays": 11.7,
+    "lateRate": 6
+  },
+  {
+    "date": "2017-06-27",
+    "orders": 140,
+    "revenue": 16682,
+    "avgDeliveryDays": 10.3,
+    "lateRate": 2.1
+  },
+  {
+    "date": "2017-06-28",
+    "orders": 117,
+    "revenue": 14478,
+    "avgDeliveryDays": 11.7,
+    "lateRate": 4.3
+  },
+  {
+    "date": "2017-06-29",
+    "orders": 110,
+    "revenue": 12170,
+    "avgDeliveryDays": 11.4,
+    "lateRate": 3.6
+  },
+  {
+    "date": "2017-06-30",
+    "orders": 93,
+    "revenue": 12737,
+    "avgDeliveryDays": 13.1,
+    "lateRate": 4.3
+  },
+  {
+    "date": "2017-07-01",
+    "orders": 77,
+    "revenue": 11434,
+    "avgDeliveryDays": 13.1,
+    "lateRate": 1.3
+  },
+  {
+    "date": "2017-07-02",
+    "orders": 102,
+    "revenue": 11221,
+    "avgDeliveryDays": 10.7,
+    "lateRate": 2.9
+  },
+  {
+    "date": "2017-07-03",
+    "orders": 111,
+    "revenue": 15201,
+    "avgDeliveryDays": 11.5,
+    "lateRate": 2.7
+  },
+  {
+    "date": "2017-07-04",
+    "orders": 120,
+    "revenue": 15219,
+    "avgDeliveryDays": 11.5,
+    "lateRate": 8.3
+  },
+  {
+    "date": "2017-07-05",
+    "orders": 138,
+    "revenue": 20533,
+    "avgDeliveryDays": 11.9,
+    "lateRate": 3.6
+  },
+  {
+    "date": "2017-07-06",
+    "orders": 140,
+    "revenue": 20871,
+    "avgDeliveryDays": 12.5,
+    "lateRate": 2.9
+  },
+  {
+    "date": "2017-07-07",
+    "orders": 114,
+    "revenue": 13159,
+    "avgDeliveryDays": 12.3,
+    "lateRate": 1.8
+  },
+  {
+    "date": "2017-07-08",
+    "orders": 83,
+    "revenue": 10207,
+    "avgDeliveryDays": 11.5,
+    "lateRate": 0
+  },
+  {
+    "date": "2017-07-09",
+    "orders": 88,
+    "revenue": 8071,
+    "avgDeliveryDays": 11.3,
+    "lateRate": 3.4
+  },
+  {
+    "date": "2017-07-10",
+    "orders": 140,
+    "revenue": 17327,
+    "avgDeliveryDays": 12.2,
+    "lateRate": 5.7
+  },
+  {
+    "date": "2017-07-11",
+    "orders": 158,
+    "revenue": 19136,
+    "avgDeliveryDays": 11.2,
+    "lateRate": 3.2
+  },
+  {
+    "date": "2017-07-12",
+    "orders": 145,
+    "revenue": 18564,
+    "avgDeliveryDays": 12,
+    "lateRate": 4.1
+  },
+  {
+    "date": "2017-07-13",
+    "orders": 131,
+    "revenue": 14326,
+    "avgDeliveryDays": 13.1,
+    "lateRate": 3.8
+  },
+  {
+    "date": "2017-07-14",
+    "orders": 148,
+    "revenue": 18595,
+    "avgDeliveryDays": 12.6,
+    "lateRate": 0.7
+  },
+  {
+    "date": "2017-07-15",
+    "orders": 97,
+    "revenue": 10881,
+    "avgDeliveryDays": 12.7,
+    "lateRate": 3.1
+  },
+  {
+    "date": "2017-07-16",
+    "orders": 107,
+    "revenue": 12628,
+    "avgDeliveryDays": 12.6,
+    "lateRate": 6.5
+  },
+  {
+    "date": "2017-07-17",
+    "orders": 162,
+    "revenue": 21350,
+    "avgDeliveryDays": 10.7,
+    "lateRate": 4.3
+  },
+  {
+    "date": "2017-07-18",
+    "orders": 188,
+    "revenue": 27935,
+    "avgDeliveryDays": 11.4,
+    "lateRate": 5.3
+  },
+  {
+    "date": "2017-07-19",
+    "orders": 148,
+    "revenue": 16171,
+    "avgDeliveryDays": 11.2,
+    "lateRate": 2
+  },
+  {
+    "date": "2017-07-20",
+    "orders": 139,
+    "revenue": 17839,
+    "avgDeliveryDays": 11.7,
+    "lateRate": 2.9
+  },
+  {
+    "date": "2017-07-21",
+    "orders": 112,
+    "revenue": 12629,
+    "avgDeliveryDays": 12,
+    "lateRate": 3.6
+  },
+  {
+    "date": "2017-07-22",
+    "orders": 87,
+    "revenue": 11427,
+    "avgDeliveryDays": 12.6,
+    "lateRate": 2.3
+  },
+  {
+    "date": "2017-07-23",
+    "orders": 101,
+    "revenue": 11850,
+    "avgDeliveryDays": 10,
+    "lateRate": 1
+  },
+  {
+    "date": "2017-07-24",
+    "orders": 157,
+    "revenue": 18184,
+    "avgDeliveryDays": 11.2,
+    "lateRate": 5.1
+  },
+  {
+    "date": "2017-07-25",
+    "orders": 145,
+    "revenue": 16789,
+    "avgDeliveryDays": 11,
+    "lateRate": 4.1
+  },
+  {
+    "date": "2017-07-26",
+    "orders": 117,
+    "revenue": 10807,
+    "avgDeliveryDays": 10.9,
+    "lateRate": 2.6
+  },
+  {
+    "date": "2017-07-27",
+    "orders": 121,
+    "revenue": 15518,
+    "avgDeliveryDays": 12,
+    "lateRate": 3.3
+  },
+  {
+    "date": "2017-07-28",
+    "orders": 130,
+    "revenue": 19479,
+    "avgDeliveryDays": 12,
+    "lateRate": 2.3
+  },
+  {
+    "date": "2017-07-29",
+    "orders": 109,
+    "revenue": 15128,
+    "avgDeliveryDays": 11.8,
+    "lateRate": 4.6
+  },
+  {
+    "date": "2017-07-30",
+    "orders": 114,
+    "revenue": 12150,
+    "avgDeliveryDays": 9.7,
+    "lateRate": 0.9
+  },
+  {
+    "date": "2017-07-31",
+    "orders": 143,
+    "revenue": 16976,
+    "avgDeliveryDays": 9.6,
+    "lateRate": 4.2
+  },
+  {
+    "date": "2017-08-01",
+    "orders": 161,
+    "revenue": 21321,
+    "avgDeliveryDays": 11.2,
+    "lateRate": 4.3
+  },
+  {
+    "date": "2017-08-02",
+    "orders": 149,
+    "revenue": 17797,
+    "avgDeliveryDays": 9.8,
+    "lateRate": 2.7
+  },
+  {
+    "date": "2017-08-03",
+    "orders": 144,
+    "revenue": 18286,
+    "avgDeliveryDays": 10.6,
+    "lateRate": 2.8
+  },
+  {
+    "date": "2017-08-04",
+    "orders": 139,
+    "revenue": 17913,
+    "avgDeliveryDays": 12.4,
+    "lateRate": 2.9
+  },
+  {
+    "date": "2017-08-05",
+    "orders": 113,
+    "revenue": 11793,
+    "avgDeliveryDays": 12.3,
+    "lateRate": 1.8
+  },
+  {
+    "date": "2017-08-06",
+    "orders": 105,
+    "revenue": 12902,
+    "avgDeliveryDays": 12.5,
+    "lateRate": 4.8
+  },
+  {
+    "date": "2017-08-07",
+    "orders": 157,
+    "revenue": 23258,
+    "avgDeliveryDays": 10.6,
+    "lateRate": 3.8
+  },
+  {
+    "date": "2017-08-08",
+    "orders": 146,
+    "revenue": 18662,
+    "avgDeliveryDays": 10.9,
+    "lateRate": 4.8
+  },
+  {
+    "date": "2017-08-09",
+    "orders": 140,
+    "revenue": 20128,
+    "avgDeliveryDays": 10.6,
+    "lateRate": 1.4
+  },
+  {
+    "date": "2017-08-10",
+    "orders": 154,
+    "revenue": 19866,
+    "avgDeliveryDays": 12.4,
+    "lateRate": 3.9
+  },
+  {
+    "date": "2017-08-11",
+    "orders": 133,
+    "revenue": 18916,
+    "avgDeliveryDays": 11.5,
+    "lateRate": 2.3
+  },
+  {
+    "date": "2017-08-12",
+    "orders": 91,
+    "revenue": 12384,
+    "avgDeliveryDays": 11.4,
+    "lateRate": 3.3
+  },
+  {
+    "date": "2017-08-13",
+    "orders": 90,
+    "revenue": 12244,
+    "avgDeliveryDays": 10.1,
+    "lateRate": 2.2
+  },
+  {
+    "date": "2017-08-14",
+    "orders": 153,
+    "revenue": 17905,
+    "avgDeliveryDays": 9.8,
+    "lateRate": 2
+  },
+  {
+    "date": "2017-08-15",
+    "orders": 186,
+    "revenue": 22814,
+    "avgDeliveryDays": 12.2,
+    "lateRate": 2.7
+  },
+  {
+    "date": "2017-08-16",
+    "orders": 166,
+    "revenue": 20461,
+    "avgDeliveryDays": 11.3,
+    "lateRate": 5.4
+  },
+  {
+    "date": "2017-08-17",
+    "orders": 153,
+    "revenue": 17819,
+    "avgDeliveryDays": 12.1,
+    "lateRate": 4.6
+  },
+  {
+    "date": "2017-08-18",
+    "orders": 141,
+    "revenue": 16734,
+    "avgDeliveryDays": 11.4,
+    "lateRate": 2.8
+  },
+  {
+    "date": "2017-08-19",
+    "orders": 106,
+    "revenue": 12843,
+    "avgDeliveryDays": 11.3,
+    "lateRate": 1.9
+  },
+  {
+    "date": "2017-08-20",
+    "orders": 103,
+    "revenue": 12874,
+    "avgDeliveryDays": 10,
+    "lateRate": 1
+  },
+  {
+    "date": "2017-08-21",
+    "orders": 172,
+    "revenue": 21481,
+    "avgDeliveryDays": 10.2,
+    "lateRate": 2.9
+  },
+  {
+    "date": "2017-08-22",
+    "orders": 135,
+    "revenue": 16570,
+    "avgDeliveryDays": 10.5,
+    "lateRate": 2.2
+  },
+  {
+    "date": "2017-08-23",
+    "orders": 111,
+    "revenue": 15874,
+    "avgDeliveryDays": 10.6,
+    "lateRate": 2.7
+  },
+  {
+    "date": "2017-08-24",
+    "orders": 123,
+    "revenue": 13121,
+    "avgDeliveryDays": 11.8,
+    "lateRate": 3.3
+  },
+  {
+    "date": "2017-08-25",
+    "orders": 117,
+    "revenue": 14462,
+    "avgDeliveryDays": 13.4,
+    "lateRate": 6
+  },
+  {
+    "date": "2017-08-26",
+    "orders": 89,
+    "revenue": 9798,
+    "avgDeliveryDays": 10.9,
+    "lateRate": 2.2
+  },
+  {
+    "date": "2017-08-27",
+    "orders": 115,
+    "revenue": 12893,
+    "avgDeliveryDays": 10.1,
+    "lateRate": 1.7
+  },
+  {
+    "date": "2017-08-28",
+    "orders": 150,
+    "revenue": 21319,
+    "avgDeliveryDays": 9.9,
+    "lateRate": 4
+  },
+  {
+    "date": "2017-08-29",
+    "orders": 135,
+    "revenue": 33236,
+    "avgDeliveryDays": 11.7,
+    "lateRate": 6.7
+  },
+  {
+    "date": "2017-08-30",
+    "orders": 173,
+    "revenue": 29116,
+    "avgDeliveryDays": 11.1,
+    "lateRate": 2.3
+  },
+  {
+    "date": "2017-08-31",
+    "orders": 143,
+    "revenue": 19908,
+    "avgDeliveryDays": 11.1,
+    "lateRate": 5.6
+  },
+  {
+    "date": "2017-09-01",
+    "orders": 153,
+    "revenue": 27983,
+    "avgDeliveryDays": 12.7,
+    "lateRate": 5.2
+  },
+  {
+    "date": "2017-09-02",
+    "orders": 102,
+    "revenue": 17912,
+    "avgDeliveryDays": 11.4,
+    "lateRate": 1
+  },
+  {
+    "date": "2017-09-03",
+    "orders": 123,
+    "revenue": 27616,
+    "avgDeliveryDays": 10.4,
+    "lateRate": 1.6
+  },
+  {
+    "date": "2017-09-04",
+    "orders": 147,
+    "revenue": 24758,
+    "avgDeliveryDays": 12.2,
+    "lateRate": 4.8
+  },
+  {
+    "date": "2017-09-05",
+    "orders": 151,
+    "revenue": 20675,
+    "avgDeliveryDays": 11.4,
+    "lateRate": 2
+  },
+  {
+    "date": "2017-09-06",
+    "orders": 138,
+    "revenue": 25102,
+    "avgDeliveryDays": 13.7,
+    "lateRate": 8
+  },
+  {
+    "date": "2017-09-07",
+    "orders": 97,
+    "revenue": 16893,
+    "avgDeliveryDays": 11.7,
+    "lateRate": 4.1
+  },
+  {
+    "date": "2017-09-08",
+    "orders": 111,
+    "revenue": 11485,
+    "avgDeliveryDays": 12.6,
+    "lateRate": 5.4
+  },
+  {
+    "date": "2017-09-09",
+    "orders": 103,
+    "revenue": 14555,
+    "avgDeliveryDays": 11.3,
+    "lateRate": 2.9
+  },
+  {
+    "date": "2017-09-10",
+    "orders": 132,
+    "revenue": 17144,
+    "avgDeliveryDays": 10.8,
+    "lateRate": 7.6
+  },
+  {
+    "date": "2017-09-11",
+    "orders": 176,
+    "revenue": 23247,
+    "avgDeliveryDays": 10,
+    "lateRate": 5.1
+  },
+  {
+    "date": "2017-09-12",
+    "orders": 200,
+    "revenue": 26432,
+    "avgDeliveryDays": 12.3,
+    "lateRate": 9.5
+  },
+  {
+    "date": "2017-09-13",
+    "orders": 203,
+    "revenue": 27263,
+    "avgDeliveryDays": 12,
+    "lateRate": 8.9
+  },
+  {
+    "date": "2017-09-14",
+    "orders": 163,
+    "revenue": 22189,
+    "avgDeliveryDays": 12.2,
+    "lateRate": 8
+  },
+  {
+    "date": "2017-09-15",
+    "orders": 144,
+    "revenue": 17960,
+    "avgDeliveryDays": 12.7,
+    "lateRate": 6.3
+  },
+  {
+    "date": "2017-09-16",
+    "orders": 125,
+    "revenue": 18966,
+    "avgDeliveryDays": 12.9,
+    "lateRate": 9.6
+  },
+  {
+    "date": "2017-09-17",
+    "orders": 125,
+    "revenue": 19979,
+    "avgDeliveryDays": 12.3,
+    "lateRate": 7.2
+  },
+  {
+    "date": "2017-09-18",
+    "orders": 179,
+    "revenue": 27232,
+    "avgDeliveryDays": 11.6,
+    "lateRate": 11.7
+  },
+  {
+    "date": "2017-09-19",
+    "orders": 149,
+    "revenue": 19617,
+    "avgDeliveryDays": 11.9,
+    "lateRate": 9.4
+  },
+  {
+    "date": "2017-09-20",
+    "orders": 158,
+    "revenue": 21813,
+    "avgDeliveryDays": 11.4,
+    "lateRate": 4.4
+  },
+  {
+    "date": "2017-09-21",
+    "orders": 144,
+    "revenue": 18252,
+    "avgDeliveryDays": 12.7,
+    "lateRate": 2.1
+  },
+  {
+    "date": "2017-09-22",
+    "orders": 133,
+    "revenue": 15388,
+    "avgDeliveryDays": 11.8,
+    "lateRate": 2.3
+  },
+  {
+    "date": "2017-09-23",
+    "orders": 81,
+    "revenue": 9721,
+    "avgDeliveryDays": 12.3,
+    "lateRate": 0
+  },
+  {
+    "date": "2017-09-24",
+    "orders": 112,
+    "revenue": 12921,
+    "avgDeliveryDays": 11.6,
+    "lateRate": 1.8
+  },
+  {
+    "date": "2017-09-25",
+    "orders": 129,
+    "revenue": 17503,
+    "avgDeliveryDays": 10.9,
+    "lateRate": 0.8
+  },
+  {
+    "date": "2017-09-26",
+    "orders": 174,
+    "revenue": 21102,
+    "avgDeliveryDays": 11.3,
+    "lateRate": 4
+  },
+  {
+    "date": "2017-09-27",
+    "orders": 144,
+    "revenue": 20647,
+    "avgDeliveryDays": 11.7,
+    "lateRate": 2.1
+  },
+  {
+    "date": "2017-09-28",
+    "orders": 140,
+    "revenue": 22993,
+    "avgDeliveryDays": 11.5,
+    "lateRate": 2.1
+  },
+  {
+    "date": "2017-09-29",
+    "orders": 109,
+    "revenue": 28400,
+    "avgDeliveryDays": 12.9,
+    "lateRate": 4.6
+  },
+  {
+    "date": "2017-09-30",
+    "orders": 105,
+    "revenue": 11655,
+    "avgDeliveryDays": 11.6,
+    "lateRate": 2.9
+  },
+  {
+    "date": "2017-10-01",
+    "orders": 124,
+    "revenue": 18058,
+    "avgDeliveryDays": 12,
+    "lateRate": 2.4
+  },
+  {
+    "date": "2017-10-02",
+    "orders": 140,
+    "revenue": 21551,
+    "avgDeliveryDays": 11,
+    "lateRate": 1.4
+  },
+  {
+    "date": "2017-10-03",
+    "orders": 193,
+    "revenue": 25462,
+    "avgDeliveryDays": 11.3,
+    "lateRate": 3.1
+  },
+  {
+    "date": "2017-10-04",
+    "orders": 156,
+    "revenue": 20973,
+    "avgDeliveryDays": 12.1,
+    "lateRate": 0.6
+  },
+  {
+    "date": "2017-10-05",
+    "orders": 138,
+    "revenue": 24852,
+    "avgDeliveryDays": 12.8,
+    "lateRate": 5.1
+  },
+  {
+    "date": "2017-10-06",
+    "orders": 124,
+    "revenue": 16993,
+    "avgDeliveryDays": 14.5,
+    "lateRate": 8.9
+  },
+  {
+    "date": "2017-10-07",
+    "orders": 100,
+    "revenue": 14941,
+    "avgDeliveryDays": 13.7,
+    "lateRate": 6
+  },
+  {
+    "date": "2017-10-08",
+    "orders": 124,
+    "revenue": 16539,
+    "avgDeliveryDays": 10.9,
+    "lateRate": 1.6
+  },
+  {
+    "date": "2017-10-09",
+    "orders": 187,
+    "revenue": 28850,
+    "avgDeliveryDays": 12.3,
+    "lateRate": 7.5
+  },
+  {
+    "date": "2017-10-10",
+    "orders": 175,
+    "revenue": 27880,
+    "avgDeliveryDays": 12.3,
+    "lateRate": 8
+  },
+  {
+    "date": "2017-10-11",
+    "orders": 151,
+    "revenue": 18736,
+    "avgDeliveryDays": 11.6,
+    "lateRate": 4.6
+  },
+  {
+    "date": "2017-10-12",
+    "orders": 136,
+    "revenue": 18352,
+    "avgDeliveryDays": 12.9,
+    "lateRate": 3.7
+  },
+  {
+    "date": "2017-10-13",
+    "orders": 150,
+    "revenue": 22241,
+    "avgDeliveryDays": 13.1,
+    "lateRate": 7.3
+  },
+  {
+    "date": "2017-10-14",
+    "orders": 114,
+    "revenue": 13161,
+    "avgDeliveryDays": 11.3,
+    "lateRate": 4.4
+  },
+  {
+    "date": "2017-10-15",
+    "orders": 117,
+    "revenue": 18598,
+    "avgDeliveryDays": 10.3,
+    "lateRate": 4.3
+  },
+  {
+    "date": "2017-10-16",
+    "orders": 188,
+    "revenue": 30040,
+    "avgDeliveryDays": 11.5,
+    "lateRate": 6.9
+  },
+  {
+    "date": "2017-10-17",
+    "orders": 195,
+    "revenue": 29362,
+    "avgDeliveryDays": 12.1,
+    "lateRate": 9.7
+  },
+  {
+    "date": "2017-10-18",
+    "orders": 176,
+    "revenue": 27258,
+    "avgDeliveryDays": 11.1,
+    "lateRate": 3.4
+  },
+  {
+    "date": "2017-10-19",
+    "orders": 172,
+    "revenue": 23128,
+    "avgDeliveryDays": 11.7,
+    "lateRate": 4.7
+  },
+  {
+    "date": "2017-10-20",
+    "orders": 118,
+    "revenue": 18523,
+    "avgDeliveryDays": 12.2,
+    "lateRate": 4.2
+  },
+  {
+    "date": "2017-10-21",
+    "orders": 104,
+    "revenue": 14333,
+    "avgDeliveryDays": 11.1,
+    "lateRate": 2.9
+  },
+  {
+    "date": "2017-10-22",
+    "orders": 152,
+    "revenue": 19195,
+    "avgDeliveryDays": 11.2,
+    "lateRate": 5.9
+  },
+  {
+    "date": "2017-10-23",
+    "orders": 152,
+    "revenue": 21682,
+    "avgDeliveryDays": 11,
+    "lateRate": 3.9
+  },
+  {
+    "date": "2017-10-24",
+    "orders": 162,
+    "revenue": 22034,
+    "avgDeliveryDays": 10.9,
+    "lateRate": 6.2
+  },
+  {
+    "date": "2017-10-25",
+    "orders": 152,
+    "revenue": 17397,
+    "avgDeliveryDays": 11.9,
+    "lateRate": 2.6
+  },
+  {
+    "date": "2017-10-26",
+    "orders": 140,
+    "revenue": 21254,
+    "avgDeliveryDays": 11.5,
+    "lateRate": 5.7
+  },
+  {
+    "date": "2017-10-27",
+    "orders": 130,
+    "revenue": 20319,
+    "avgDeliveryDays": 13,
+    "lateRate": 7.7
+  },
+  {
+    "date": "2017-10-28",
+    "orders": 85,
+    "revenue": 16334,
+    "avgDeliveryDays": 12.8,
+    "lateRate": 2.4
+  },
+  {
+    "date": "2017-10-29",
+    "orders": 129,
+    "revenue": 17049,
+    "avgDeliveryDays": 10.9,
+    "lateRate": 4.7
+  },
+  {
+    "date": "2017-10-30",
+    "orders": 138,
+    "revenue": 19400,
+    "avgDeliveryDays": 11.3,
+    "lateRate": 12.3
+  },
+  {
+    "date": "2017-10-31",
+    "orders": 156,
+    "revenue": 23753,
+    "avgDeliveryDays": 12,
+    "lateRate": 7.7
+  },
+  {
+    "date": "2017-11-01",
+    "orders": 108,
+    "revenue": 19364,
+    "avgDeliveryDays": 12.9,
+    "lateRate": 5.6
+  },
+  {
+    "date": "2017-11-02",
+    "orders": 117,
+    "revenue": 21075,
+    "avgDeliveryDays": 12.8,
+    "lateRate": 5.1
+  },
+  {
+    "date": "2017-11-03",
+    "orders": 138,
+    "revenue": 22844,
+    "avgDeliveryDays": 12.7,
+    "lateRate": 5.1
+  },
+  {
+    "date": "2017-11-04",
+    "orders": 106,
+    "revenue": 19033,
+    "avgDeliveryDays": 12.3,
+    "lateRate": 4.7
+  },
+  {
+    "date": "2017-11-05",
+    "orders": 137,
+    "revenue": 16324,
+    "avgDeliveryDays": 11.5,
+    "lateRate": 2.9
+  },
+  {
+    "date": "2017-11-06",
+    "orders": 182,
+    "revenue": 27673,
+    "avgDeliveryDays": 13.5,
+    "lateRate": 6.6
+  },
+  {
+    "date": "2017-11-07",
+    "orders": 154,
+    "revenue": 19712,
+    "avgDeliveryDays": 11.6,
+    "lateRate": 5.2
+  },
+  {
+    "date": "2017-11-08",
+    "orders": 169,
+    "revenue": 18595,
+    "avgDeliveryDays": 12.1,
+    "lateRate": 6.5
+  },
+  {
+    "date": "2017-11-09",
+    "orders": 182,
+    "revenue": 24308,
+    "avgDeliveryDays": 12.2,
+    "lateRate": 3.8
+  },
+  {
+    "date": "2017-11-10",
+    "orders": 159,
+    "revenue": 18790,
+    "avgDeliveryDays": 13.7,
+    "lateRate": 6.9
+  },
+  {
+    "date": "2017-11-11",
+    "orders": 152,
+    "revenue": 22769,
+    "avgDeliveryDays": 14.3,
+    "lateRate": 6.6
+  },
+  {
+    "date": "2017-11-12",
+    "orders": 170,
+    "revenue": 22554,
+    "avgDeliveryDays": 13,
+    "lateRate": 6.5
+  },
+  {
+    "date": "2017-11-13",
+    "orders": 197,
+    "revenue": 23793,
+    "avgDeliveryDays": 13.5,
+    "lateRate": 9.1
+  },
+  {
+    "date": "2017-11-14",
+    "orders": 184,
+    "revenue": 26543,
+    "avgDeliveryDays": 15.6,
+    "lateRate": 11.4
+  },
+  {
+    "date": "2017-11-15",
+    "orders": 176,
+    "revenue": 22591,
+    "avgDeliveryDays": 13,
+    "lateRate": 7.4
+  },
+  {
+    "date": "2017-11-16",
+    "orders": 219,
+    "revenue": 27675,
+    "avgDeliveryDays": 13.6,
+    "lateRate": 9.1
+  },
+  {
+    "date": "2017-11-17",
+    "orders": 185,
+    "revenue": 28711,
+    "avgDeliveryDays": 13.6,
+    "lateRate": 10.3
+  },
+  {
+    "date": "2017-11-18",
+    "orders": 141,
+    "revenue": 22714,
+    "avgDeliveryDays": 14.5,
+    "lateRate": 12.1
+  },
+  {
+    "date": "2017-11-19",
+    "orders": 157,
+    "revenue": 19933,
+    "avgDeliveryDays": 12,
+    "lateRate": 10.2
+  },
+  {
+    "date": "2017-11-20",
+    "orders": 219,
+    "revenue": 43406,
+    "avgDeliveryDays": 13.5,
+    "lateRate": 14.2
+  },
+  {
+    "date": "2017-11-21",
+    "orders": 222,
+    "revenue": 33601,
+    "avgDeliveryDays": 13.9,
+    "lateRate": 19.8
+  },
+  {
+    "date": "2017-11-22",
+    "orders": 190,
+    "revenue": 23952,
+    "avgDeliveryDays": 14.4,
+    "lateRate": 14.7
+  },
+  {
+    "date": "2017-11-23",
+    "orders": 268,
+    "revenue": 43102,
+    "avgDeliveryDays": 16.1,
+    "lateRate": 15.7
+  },
+  {
+    "date": "2017-11-24",
+    "orders": 1147,
+    "revenue": 149917,
+    "avgDeliveryDays": 17.2,
+    "lateRate": 20
+  },
+  {
+    "date": "2017-11-25",
+    "orders": 487,
+    "revenue": 59929,
+    "avgDeliveryDays": 19.4,
+    "lateRate": 23.2
+  },
+  {
+    "date": "2017-11-26",
+    "orders": 382,
+    "revenue": 44000,
+    "avgDeliveryDays": 16.6,
+    "lateRate": 20.4
+  },
+  {
+    "date": "2017-11-27",
+    "orders": 395,
+    "revenue": 47237,
+    "avgDeliveryDays": 16.4,
+    "lateRate": 21.3
+  },
+  {
+    "date": "2017-11-28",
+    "orders": 371,
+    "revenue": 47577,
+    "avgDeliveryDays": 15.5,
+    "lateRate": 21
+  },
+  {
+    "date": "2017-11-29",
+    "orders": 314,
+    "revenue": 39093,
+    "avgDeliveryDays": 17.9,
+    "lateRate": 20.4
+  },
+  {
+    "date": "2017-11-30",
+    "orders": 260,
+    "revenue": 30836,
+    "avgDeliveryDays": 16,
+    "lateRate": 11.5
+  },
+  {
+    "date": "2017-12-01",
+    "orders": 267,
+    "revenue": 38967,
+    "avgDeliveryDays": 16.5,
+    "lateRate": 12.4
+  },
+  {
+    "date": "2017-12-02",
+    "orders": 212,
+    "revenue": 30769,
+    "avgDeliveryDays": 16.7,
+    "lateRate": 12.3
+  },
+  {
+    "date": "2017-12-03",
+    "orders": 227,
+    "revenue": 28825,
+    "avgDeliveryDays": 15,
+    "lateRate": 11.5
+  },
+  {
+    "date": "2017-12-04",
+    "orders": 322,
+    "revenue": 45101,
+    "avgDeliveryDays": 15.7,
+    "lateRate": 15.5
+  },
+  {
+    "date": "2017-12-05",
+    "orders": 269,
+    "revenue": 33225,
+    "avgDeliveryDays": 15.5,
+    "lateRate": 11.5
+  },
+  {
+    "date": "2017-12-06",
+    "orders": 269,
+    "revenue": 38694,
+    "avgDeliveryDays": 16.6,
+    "lateRate": 12.3
+  },
+  {
+    "date": "2017-12-07",
+    "orders": 223,
+    "revenue": 27650,
+    "avgDeliveryDays": 16.1,
+    "lateRate": 12.1
+  },
+  {
+    "date": "2017-12-08",
+    "orders": 210,
+    "revenue": 28848,
+    "avgDeliveryDays": 16.9,
+    "lateRate": 11.9
+  },
+  {
+    "date": "2017-12-09",
+    "orders": 154,
+    "revenue": 19728,
+    "avgDeliveryDays": 17.5,
+    "lateRate": 9.1
+  },
+  {
+    "date": "2017-12-10",
+    "orders": 184,
+    "revenue": 23844,
+    "avgDeliveryDays": 14.9,
+    "lateRate": 8.2
+  },
+  {
+    "date": "2017-12-11",
+    "orders": 262,
+    "revenue": 33135,
+    "avgDeliveryDays": 15.4,
+    "lateRate": 6.9
+  },
+  {
+    "date": "2017-12-12",
+    "orders": 251,
+    "revenue": 32802,
+    "avgDeliveryDays": 15.3,
+    "lateRate": 10
+  },
+  {
+    "date": "2017-12-13",
+    "orders": 215,
+    "revenue": 28973,
+    "avgDeliveryDays": 14.1,
+    "lateRate": 4.7
+  },
+  {
+    "date": "2017-12-14",
+    "orders": 195,
+    "revenue": 24980,
+    "avgDeliveryDays": 15.5,
+    "lateRate": 5.6
+  },
+  {
+    "date": "2017-12-15",
+    "orders": 185,
+    "revenue": 26583,
+    "avgDeliveryDays": 16.2,
+    "lateRate": 5.9
+  },
+  {
+    "date": "2017-12-16",
+    "orders": 129,
+    "revenue": 20125,
+    "avgDeliveryDays": 15.8,
+    "lateRate": 5.4
+  },
+  {
+    "date": "2017-12-17",
+    "orders": 130,
+    "revenue": 19026,
+    "avgDeliveryDays": 13.1,
+    "lateRate": 3.1
+  },
+  {
+    "date": "2017-12-18",
+    "orders": 205,
+    "revenue": 28791,
+    "avgDeliveryDays": 14.7,
+    "lateRate": 6.8
+  },
+  {
+    "date": "2017-12-19",
+    "orders": 173,
+    "revenue": 20357,
+    "avgDeliveryDays": 14.4,
+    "lateRate": 7.5
+  },
+  {
+    "date": "2017-12-20",
+    "orders": 168,
+    "revenue": 26643,
+    "avgDeliveryDays": 16.1,
+    "lateRate": 6.5
+  },
+  {
+    "date": "2017-12-21",
+    "orders": 140,
+    "revenue": 18209,
+    "avgDeliveryDays": 14.3,
+    "lateRate": 6.4
+  },
+  {
+    "date": "2017-12-22",
+    "orders": 108,
+    "revenue": 14197,
+    "avgDeliveryDays": 15.9,
+    "lateRate": 4.6
+  },
+  {
+    "date": "2017-12-23",
+    "orders": 101,
+    "revenue": 11624,
+    "avgDeliveryDays": 17.4,
+    "lateRate": 11.9
+  },
+  {
+    "date": "2017-12-24",
+    "orders": 57,
+    "revenue": 5600,
+    "avgDeliveryDays": 11.7,
+    "lateRate": 1.8
+  },
+  {
+    "date": "2017-12-25",
+    "orders": 86,
+    "revenue": 9859,
+    "avgDeliveryDays": 15,
+    "lateRate": 8.1
+  },
+  {
+    "date": "2017-12-26",
+    "orders": 165,
+    "revenue": 20072,
+    "avgDeliveryDays": 12.4,
+    "lateRate": 2.4
+  },
+  {
+    "date": "2017-12-27",
+    "orders": 164,
+    "revenue": 17341,
+    "avgDeliveryDays": 13.6,
+    "lateRate": 2.4
+  },
+  {
+    "date": "2017-12-28",
+    "orders": 143,
+    "revenue": 14648,
+    "avgDeliveryDays": 14.9,
+    "lateRate": 5.6
+  },
+  {
+    "date": "2017-12-29",
+    "orders": 132,
+    "revenue": 15913,
+    "avgDeliveryDays": 15.3,
+    "lateRate": 3
+  },
+  {
+    "date": "2017-12-30",
+    "orders": 96,
+    "revenue": 13043,
+    "avgDeliveryDays": 15.9,
+    "lateRate": 3.1
+  },
+  {
+    "date": "2017-12-31",
+    "orders": 71,
+    "revenue": 8463,
+    "avgDeliveryDays": 13.7,
+    "lateRate": 1.4
+  },
+  {
+    "date": "2018-01-01",
+    "orders": 72,
+    "revenue": 6818,
+    "avgDeliveryDays": 12.7,
+    "lateRate": 5.6
+  },
+  {
+    "date": "2018-01-02",
+    "orders": 200,
+    "revenue": 24912,
+    "avgDeliveryDays": 12.1,
+    "lateRate": 2
+  },
+  {
+    "date": "2018-01-03",
+    "orders": 219,
+    "revenue": 31062,
+    "avgDeliveryDays": 13.6,
+    "lateRate": 4.1
+  },
+  {
+    "date": "2018-01-04",
+    "orders": 248,
+    "revenue": 34137,
+    "avgDeliveryDays": 14,
+    "lateRate": 6
+  },
+  {
+    "date": "2018-01-05",
+    "orders": 197,
+    "revenue": 25901,
+    "avgDeliveryDays": 14.9,
+    "lateRate": 5.1
+  },
+  {
+    "date": "2018-01-06",
+    "orders": 213,
+    "revenue": 27514,
+    "avgDeliveryDays": 15.3,
+    "lateRate": 2.8
+  },
+  {
+    "date": "2018-01-07",
+    "orders": 192,
+    "revenue": 28320,
+    "avgDeliveryDays": 12.7,
+    "lateRate": 3.1
+  },
+  {
+    "date": "2018-01-08",
+    "orders": 287,
+    "revenue": 37612,
+    "avgDeliveryDays": 12.9,
+    "lateRate": 3.8
+  },
+  {
+    "date": "2018-01-09",
+    "orders": 246,
+    "revenue": 29865,
+    "avgDeliveryDays": 13.5,
+    "lateRate": 4.5
+  },
+  {
+    "date": "2018-01-10",
+    "orders": 271,
+    "revenue": 37385,
+    "avgDeliveryDays": 15.1,
+    "lateRate": 5.9
+  },
+  {
+    "date": "2018-01-11",
+    "orders": 260,
+    "revenue": 39648,
+    "avgDeliveryDays": 14.1,
+    "lateRate": 3.1
+  },
+  {
+    "date": "2018-01-12",
+    "orders": 234,
+    "revenue": 30175,
+    "avgDeliveryDays": 14.8,
+    "lateRate": 4.7
+  },
+  {
+    "date": "2018-01-13",
+    "orders": 211,
+    "revenue": 27402,
+    "avgDeliveryDays": 13.3,
+    "lateRate": 2.8
+  },
+  {
+    "date": "2018-01-14",
+    "orders": 229,
+    "revenue": 30606,
+    "avgDeliveryDays": 13.3,
+    "lateRate": 7
+  },
+  {
+    "date": "2018-01-15",
+    "orders": 300,
+    "revenue": 37766,
+    "avgDeliveryDays": 13.1,
+    "lateRate": 5.3
+  },
+  {
+    "date": "2018-01-16",
+    "orders": 296,
+    "revenue": 42307,
+    "avgDeliveryDays": 13.7,
+    "lateRate": 9.1
+  },
+  {
+    "date": "2018-01-17",
+    "orders": 277,
+    "revenue": 35284,
+    "avgDeliveryDays": 13.2,
+    "lateRate": 6.1
+  },
+  {
+    "date": "2018-01-18",
+    "orders": 236,
+    "revenue": 27685,
+    "avgDeliveryDays": 13.9,
+    "lateRate": 6.4
+  },
+  {
+    "date": "2018-01-19",
+    "orders": 225,
+    "revenue": 27146,
+    "avgDeliveryDays": 14.9,
+    "lateRate": 8.4
+  },
+  {
+    "date": "2018-01-20",
+    "orders": 182,
+    "revenue": 22153,
+    "avgDeliveryDays": 15.1,
+    "lateRate": 9.9
+  },
+  {
+    "date": "2018-01-21",
+    "orders": 188,
+    "revenue": 21728,
+    "avgDeliveryDays": 14.5,
+    "lateRate": 9.6
+  },
+  {
+    "date": "2018-01-22",
+    "orders": 305,
+    "revenue": 36788,
+    "avgDeliveryDays": 12.8,
+    "lateRate": 8.5
+  },
+  {
+    "date": "2018-01-23",
+    "orders": 256,
+    "revenue": 34047,
+    "avgDeliveryDays": 14,
+    "lateRate": 9.8
+  },
+  {
+    "date": "2018-01-24",
+    "orders": 236,
+    "revenue": 30949,
+    "avgDeliveryDays": 16.4,
+    "lateRate": 14
+  },
+  {
+    "date": "2018-01-25",
+    "orders": 226,
+    "revenue": 28822,
+    "avgDeliveryDays": 14.9,
+    "lateRate": 6.6
+  },
+  {
+    "date": "2018-01-26",
+    "orders": 223,
+    "revenue": 33598,
+    "avgDeliveryDays": 14.1,
+    "lateRate": 6.3
+  },
+  {
+    "date": "2018-01-27",
+    "orders": 150,
+    "revenue": 21545,
+    "avgDeliveryDays": 13.9,
+    "lateRate": 7.3
+  },
+  {
+    "date": "2018-01-28",
+    "orders": 149,
+    "revenue": 22615,
+    "avgDeliveryDays": 13.1,
+    "lateRate": 4
+  },
+  {
+    "date": "2018-01-29",
+    "orders": 242,
+    "revenue": 29988,
+    "avgDeliveryDays": 15.8,
+    "lateRate": 12.8
+  },
+  {
+    "date": "2018-01-30",
+    "orders": 248,
+    "revenue": 28641,
+    "avgDeliveryDays": 15.7,
+    "lateRate": 11.3
+  },
+  {
+    "date": "2018-01-31",
+    "orders": 251,
+    "revenue": 32227,
+    "avgDeliveryDays": 14.5,
+    "lateRate": 4.8
+  },
+  {
+    "date": "2018-02-01",
+    "orders": 227,
+    "revenue": 29866,
+    "avgDeliveryDays": 14.9,
+    "lateRate": 6.6
+  },
+  {
+    "date": "2018-02-02",
+    "orders": 207,
+    "revenue": 26886,
+    "avgDeliveryDays": 17.1,
+    "lateRate": 9.7
+  },
+  {
+    "date": "2018-02-03",
+    "orders": 189,
+    "revenue": 22822,
+    "avgDeliveryDays": 16.9,
+    "lateRate": 3.7
+  },
+  {
+    "date": "2018-02-04",
+    "orders": 197,
+    "revenue": 23507,
+    "avgDeliveryDays": 14.8,
+    "lateRate": 5.1
+  },
+  {
+    "date": "2018-02-05",
+    "orders": 265,
+    "revenue": 35467,
+    "avgDeliveryDays": 16.6,
+    "lateRate": 8.7
+  },
+  {
+    "date": "2018-02-06",
+    "orders": 262,
+    "revenue": 33539,
+    "avgDeliveryDays": 15.4,
+    "lateRate": 6.5
+  },
+  {
+    "date": "2018-02-07",
+    "orders": 242,
+    "revenue": 30891,
+    "avgDeliveryDays": 15.5,
+    "lateRate": 6.2
+  },
+  {
+    "date": "2018-02-08",
+    "orders": 225,
+    "revenue": 27075,
+    "avgDeliveryDays": 17.4,
+    "lateRate": 11.1
+  },
+  {
+    "date": "2018-02-09",
+    "orders": 208,
+    "revenue": 30571,
+    "avgDeliveryDays": 18.3,
+    "lateRate": 13.5
+  },
+  {
+    "date": "2018-02-10",
+    "orders": 174,
+    "revenue": 20579,
+    "avgDeliveryDays": 16.6,
+    "lateRate": 9.2
+  },
+  {
+    "date": "2018-02-11",
+    "orders": 165,
+    "revenue": 22014,
+    "avgDeliveryDays": 16.8,
+    "lateRate": 15.2
+  },
+  {
+    "date": "2018-02-12",
+    "orders": 214,
+    "revenue": 23256,
+    "avgDeliveryDays": 16.8,
+    "lateRate": 16.8
+  },
+  {
+    "date": "2018-02-13",
+    "orders": 217,
+    "revenue": 23060,
+    "avgDeliveryDays": 14.8,
+    "lateRate": 12
+  },
+  {
+    "date": "2018-02-14",
+    "orders": 287,
+    "revenue": 36580,
+    "avgDeliveryDays": 15.2,
+    "lateRate": 13.6
+  },
+  {
+    "date": "2018-02-15",
+    "orders": 270,
+    "revenue": 31291,
+    "avgDeliveryDays": 16.1,
+    "lateRate": 15.2
+  },
+  {
+    "date": "2018-02-16",
+    "orders": 210,
+    "revenue": 26668,
+    "avgDeliveryDays": 16.7,
+    "lateRate": 15.7
+  },
+  {
+    "date": "2018-02-17",
+    "orders": 198,
+    "revenue": 24662,
+    "avgDeliveryDays": 17.3,
+    "lateRate": 14.6
+  },
+  {
+    "date": "2018-02-18",
+    "orders": 199,
+    "revenue": 24142,
+    "avgDeliveryDays": 16,
+    "lateRate": 15.6
+  },
+  {
+    "date": "2018-02-19",
+    "orders": 251,
+    "revenue": 27552,
+    "avgDeliveryDays": 15.7,
+    "lateRate": 18.7
+  },
+  {
+    "date": "2018-02-20",
+    "orders": 283,
+    "revenue": 36290,
+    "avgDeliveryDays": 14.9,
+    "lateRate": 14.5
+  },
+  {
+    "date": "2018-02-21",
+    "orders": 260,
+    "revenue": 31509,
+    "avgDeliveryDays": 16.8,
+    "lateRate": 23.5
+  },
+  {
+    "date": "2018-02-22",
+    "orders": 268,
+    "revenue": 29828,
+    "avgDeliveryDays": 17.7,
+    "lateRate": 21.3
+  },
+  {
+    "date": "2018-02-23",
+    "orders": 232,
+    "revenue": 28328,
+    "avgDeliveryDays": 19.2,
+    "lateRate": 21.1
+  },
+  {
+    "date": "2018-02-24",
+    "orders": 188,
+    "revenue": 23995,
+    "avgDeliveryDays": 21.3,
+    "lateRate": 27.1
+  },
+  {
+    "date": "2018-02-25",
+    "orders": 231,
+    "revenue": 28397,
+    "avgDeliveryDays": 18.9,
+    "lateRate": 25.5
+  },
+  {
+    "date": "2018-02-26",
+    "orders": 290,
+    "revenue": 43372,
+    "avgDeliveryDays": 19.6,
+    "lateRate": 31
+  },
+  {
+    "date": "2018-02-27",
+    "orders": 293,
+    "revenue": 39902,
+    "avgDeliveryDays": 19,
+    "lateRate": 26.3
+  },
+  {
+    "date": "2018-02-28",
+    "orders": 303,
+    "revenue": 44387,
+    "avgDeliveryDays": 18.3,
+    "lateRate": 26.4
+  },
+  {
+    "date": "2018-03-01",
+    "orders": 268,
+    "revenue": 38919,
+    "avgDeliveryDays": 18.3,
+    "lateRate": 28.4
+  },
+  {
+    "date": "2018-03-02",
+    "orders": 262,
+    "revenue": 31379,
+    "avgDeliveryDays": 20.1,
+    "lateRate": 32.1
+  },
+  {
+    "date": "2018-03-03",
+    "orders": 205,
+    "revenue": 25926,
+    "avgDeliveryDays": 19.4,
+    "lateRate": 31.2
+  },
+  {
+    "date": "2018-03-04",
+    "orders": 228,
+    "revenue": 30922,
+    "avgDeliveryDays": 19,
+    "lateRate": 28.5
+  },
+  {
+    "date": "2018-03-05",
+    "orders": 252,
+    "revenue": 36823,
+    "avgDeliveryDays": 18.1,
+    "lateRate": 28.6
+  },
+  {
+    "date": "2018-03-06",
+    "orders": 268,
+    "revenue": 38218,
+    "avgDeliveryDays": 18.2,
+    "lateRate": 30.6
+  },
+  {
+    "date": "2018-03-07",
+    "orders": 254,
+    "revenue": 35399,
+    "avgDeliveryDays": 18.5,
+    "lateRate": 31.1
+  },
+  {
+    "date": "2018-03-08",
+    "orders": 227,
+    "revenue": 27522,
+    "avgDeliveryDays": 17,
+    "lateRate": 25.1
+  },
+  {
+    "date": "2018-03-09",
+    "orders": 197,
+    "revenue": 27193,
+    "avgDeliveryDays": 18.7,
+    "lateRate": 22.3
+  },
+  {
+    "date": "2018-03-10",
+    "orders": 185,
+    "revenue": 25262,
+    "avgDeliveryDays": 19.2,
+    "lateRate": 27
+  },
+  {
+    "date": "2018-03-11",
+    "orders": 215,
+    "revenue": 31079,
+    "avgDeliveryDays": 17.4,
+    "lateRate": 27
+  },
+  {
+    "date": "2018-03-12",
+    "orders": 228,
+    "revenue": 30082,
+    "avgDeliveryDays": 18.3,
+    "lateRate": 30.3
+  },
+  {
+    "date": "2018-03-13",
+    "orders": 217,
+    "revenue": 34400,
+    "avgDeliveryDays": 16.7,
+    "lateRate": 24.9
+  },
+  {
+    "date": "2018-03-14",
+    "orders": 195,
+    "revenue": 22467,
+    "avgDeliveryDays": 17.2,
+    "lateRate": 23.6
+  },
+  {
+    "date": "2018-03-15",
+    "orders": 272,
+    "revenue": 41686,
+    "avgDeliveryDays": 16.9,
+    "lateRate": 23.9
+  },
+  {
+    "date": "2018-03-16",
+    "orders": 242,
+    "revenue": 31929,
+    "avgDeliveryDays": 16.5,
+    "lateRate": 21.9
+  },
+  {
+    "date": "2018-03-17",
+    "orders": 176,
+    "revenue": 19725,
+    "avgDeliveryDays": 17.3,
+    "lateRate": 20.5
+  },
+  {
+    "date": "2018-03-18",
+    "orders": 211,
+    "revenue": 30582,
+    "avgDeliveryDays": 14.6,
+    "lateRate": 15.6
+  },
+  {
+    "date": "2018-03-19",
+    "orders": 293,
+    "revenue": 43419,
+    "avgDeliveryDays": 14.7,
+    "lateRate": 22.9
+  },
+  {
+    "date": "2018-03-20",
+    "orders": 292,
+    "revenue": 35077,
+    "avgDeliveryDays": 14,
+    "lateRate": 14.7
+  },
+  {
+    "date": "2018-03-21",
+    "orders": 277,
+    "revenue": 39134,
+    "avgDeliveryDays": 13.4,
+    "lateRate": 10.8
+  },
+  {
+    "date": "2018-03-22",
+    "orders": 249,
+    "revenue": 30401,
+    "avgDeliveryDays": 14,
+    "lateRate": 12.4
+  },
+  {
+    "date": "2018-03-23",
+    "orders": 209,
+    "revenue": 26707,
+    "avgDeliveryDays": 13.2,
+    "lateRate": 7.2
+  },
+  {
+    "date": "2018-03-24",
+    "orders": 163,
+    "revenue": 23585,
+    "avgDeliveryDays": 14,
+    "lateRate": 12.9
+  },
+  {
+    "date": "2018-03-25",
+    "orders": 188,
+    "revenue": 25336,
+    "avgDeliveryDays": 14,
+    "lateRate": 15.4
+  },
+  {
+    "date": "2018-03-26",
+    "orders": 266,
+    "revenue": 35009,
+    "avgDeliveryDays": 13.7,
+    "lateRate": 13.5
+  },
+  {
+    "date": "2018-03-27",
+    "orders": 239,
+    "revenue": 33610,
+    "avgDeliveryDays": 13.6,
+    "lateRate": 14.6
+  },
+  {
+    "date": "2018-03-28",
+    "orders": 210,
+    "revenue": 26972,
+    "avgDeliveryDays": 14.3,
+    "lateRate": 12.9
+  },
+  {
+    "date": "2018-03-29",
+    "orders": 188,
+    "revenue": 28336,
+    "avgDeliveryDays": 16.1,
+    "lateRate": 15.4
+  },
+  {
+    "date": "2018-03-30",
+    "orders": 163,
+    "revenue": 21872,
+    "avgDeliveryDays": 14.9,
+    "lateRate": 12.3
+  },
+  {
+    "date": "2018-03-31",
+    "orders": 164,
+    "revenue": 24387,
+    "avgDeliveryDays": 13.6,
+    "lateRate": 15.9
+  },
+  {
+    "date": "2018-04-01",
+    "orders": 201,
+    "revenue": 28554,
+    "avgDeliveryDays": 11.5,
+    "lateRate": 10
+  },
+  {
+    "date": "2018-04-02",
+    "orders": 274,
+    "revenue": 39041,
+    "avgDeliveryDays": 12.6,
+    "lateRate": 15
+  },
+  {
+    "date": "2018-04-03",
+    "orders": 243,
+    "revenue": 36108,
+    "avgDeliveryDays": 12.5,
+    "lateRate": 10.7
+  },
+  {
+    "date": "2018-04-04",
+    "orders": 252,
+    "revenue": 36706,
+    "avgDeliveryDays": 11.4,
+    "lateRate": 7.1
+  },
+  {
+    "date": "2018-04-05",
+    "orders": 261,
+    "revenue": 35763,
+    "avgDeliveryDays": 11.4,
+    "lateRate": 5
+  },
+  {
+    "date": "2018-04-06",
+    "orders": 181,
+    "revenue": 26528,
+    "avgDeliveryDays": 11.7,
+    "lateRate": 3.3
+  },
+  {
+    "date": "2018-04-07",
+    "orders": 161,
+    "revenue": 24874,
+    "avgDeliveryDays": 12.4,
+    "lateRate": 5.6
+  },
+  {
+    "date": "2018-04-08",
+    "orders": 183,
+    "revenue": 23213,
+    "avgDeliveryDays": 11.1,
+    "lateRate": 7.1
+  },
+  {
+    "date": "2018-04-09",
+    "orders": 250,
+    "revenue": 48923,
+    "avgDeliveryDays": 10.6,
+    "lateRate": 4.8
+  },
+  {
+    "date": "2018-04-10",
+    "orders": 196,
+    "revenue": 27416,
+    "avgDeliveryDays": 11.5,
+    "lateRate": 5.1
+  },
+  {
+    "date": "2018-04-11",
+    "orders": 262,
+    "revenue": 38318,
+    "avgDeliveryDays": 11,
+    "lateRate": 4.2
+  },
+  {
+    "date": "2018-04-12",
+    "orders": 253,
+    "revenue": 33953,
+    "avgDeliveryDays": 12.4,
+    "lateRate": 3.2
+  },
+  {
+    "date": "2018-04-13",
+    "orders": 197,
+    "revenue": 29606,
+    "avgDeliveryDays": 12.4,
+    "lateRate": 3
+  },
+  {
+    "date": "2018-04-14",
+    "orders": 145,
+    "revenue": 18777,
+    "avgDeliveryDays": 13.1,
+    "lateRate": 4.8
+  },
+  {
+    "date": "2018-04-15",
+    "orders": 219,
+    "revenue": 30171,
+    "avgDeliveryDays": 10.7,
+    "lateRate": 3.2
+  },
+  {
+    "date": "2018-04-16",
+    "orders": 276,
+    "revenue": 39973,
+    "avgDeliveryDays": 11.4,
+    "lateRate": 4.7
+  },
+  {
+    "date": "2018-04-17",
+    "orders": 258,
+    "revenue": 33777,
+    "avgDeliveryDays": 11.7,
+    "lateRate": 4.7
+  },
+  {
+    "date": "2018-04-18",
+    "orders": 271,
+    "revenue": 38232,
+    "avgDeliveryDays": 12.1,
+    "lateRate": 7.4
+  },
+  {
+    "date": "2018-04-19",
+    "orders": 287,
+    "revenue": 42749,
+    "avgDeliveryDays": 12.1,
+    "lateRate": 4.2
+  },
+  {
+    "date": "2018-04-20",
+    "orders": 192,
+    "revenue": 27176,
+    "avgDeliveryDays": 11.7,
+    "lateRate": 2.6
+  },
+  {
+    "date": "2018-04-21",
+    "orders": 154,
+    "revenue": 18839,
+    "avgDeliveryDays": 10.8,
+    "lateRate": 3.9
+  },
+  {
+    "date": "2018-04-22",
+    "orders": 199,
+    "revenue": 27171,
+    "avgDeliveryDays": 9.9,
+    "lateRate": 3
+  },
+  {
+    "date": "2018-04-23",
+    "orders": 283,
+    "revenue": 37135,
+    "avgDeliveryDays": 10.6,
+    "lateRate": 4.9
+  },
+  {
+    "date": "2018-04-24",
+    "orders": 265,
+    "revenue": 42219,
+    "avgDeliveryDays": 10.9,
+    "lateRate": 2.3
+  },
+  {
+    "date": "2018-04-25",
+    "orders": 279,
+    "revenue": 40621,
+    "avgDeliveryDays": 11.1,
+    "lateRate": 4.3
+  },
+  {
+    "date": "2018-04-26",
+    "orders": 250,
+    "revenue": 31264,
+    "avgDeliveryDays": 11.4,
+    "lateRate": 4.4
+  },
+  {
+    "date": "2018-04-27",
+    "orders": 237,
+    "revenue": 39552,
+    "avgDeliveryDays": 12.1,
+    "lateRate": 5.5
+  },
+  {
+    "date": "2018-04-28",
+    "orders": 166,
+    "revenue": 22512,
+    "avgDeliveryDays": 11.8,
+    "lateRate": 5.4
+  },
+  {
+    "date": "2018-04-29",
+    "orders": 168,
+    "revenue": 19157,
+    "avgDeliveryDays": 11.1,
+    "lateRate": 6
+  },
+  {
+    "date": "2018-04-30",
+    "orders": 235,
+    "revenue": 35204,
+    "avgDeliveryDays": 10.2,
+    "lateRate": 2.1
+  },
+  {
+    "date": "2018-05-01",
+    "orders": 252,
+    "revenue": 32695,
+    "avgDeliveryDays": 10.1,
+    "lateRate": 3.6
+  },
+  {
+    "date": "2018-05-02",
+    "orders": 287,
+    "revenue": 36452,
+    "avgDeliveryDays": 10.8,
+    "lateRate": 5.9
+  },
+  {
+    "date": "2018-05-03",
+    "orders": 300,
+    "revenue": 40916,
+    "avgDeliveryDays": 10.8,
+    "lateRate": 3.7
+  },
+  {
+    "date": "2018-05-04",
+    "orders": 262,
+    "revenue": 38991,
+    "avgDeliveryDays": 11.3,
+    "lateRate": 3.4
+  },
+  {
+    "date": "2018-05-05",
+    "orders": 192,
+    "revenue": 27825,
+    "avgDeliveryDays": 10.8,
+    "lateRate": 5.7
+  },
+  {
+    "date": "2018-05-06",
+    "orders": 206,
+    "revenue": 27801,
+    "avgDeliveryDays": 10.3,
+    "lateRate": 3.9
+  },
+  {
+    "date": "2018-05-07",
+    "orders": 363,
+    "revenue": 52726,
+    "avgDeliveryDays": 10.1,
+    "lateRate": 6.3
+  },
+  {
+    "date": "2018-05-08",
+    "orders": 323,
+    "revenue": 47146,
+    "avgDeliveryDays": 9.7,
+    "lateRate": 6.8
+  },
+  {
+    "date": "2018-05-09",
+    "orders": 335,
+    "revenue": 42308,
+    "avgDeliveryDays": 10.8,
+    "lateRate": 8.1
+  },
+  {
+    "date": "2018-05-10",
+    "orders": 273,
+    "revenue": 49690,
+    "avgDeliveryDays": 11.1,
+    "lateRate": 8.4
+  },
+  {
+    "date": "2018-05-11",
+    "orders": 244,
+    "revenue": 37785,
+    "avgDeliveryDays": 11.7,
+    "lateRate": 11.5
+  },
+  {
+    "date": "2018-05-12",
+    "orders": 200,
+    "revenue": 28736,
+    "avgDeliveryDays": 11.3,
+    "lateRate": 6.5
+  },
+  {
+    "date": "2018-05-13",
+    "orders": 205,
+    "revenue": 31204,
+    "avgDeliveryDays": 9.9,
+    "lateRate": 6.3
+  },
+  {
+    "date": "2018-05-14",
+    "orders": 355,
+    "revenue": 52633,
+    "avgDeliveryDays": 10.2,
+    "lateRate": 13.5
+  },
+  {
+    "date": "2018-05-15",
+    "orders": 348,
+    "revenue": 40880,
+    "avgDeliveryDays": 10.7,
+    "lateRate": 15.2
+  },
+  {
+    "date": "2018-05-16",
+    "orders": 351,
+    "revenue": 55562,
+    "avgDeliveryDays": 12.3,
+    "lateRate": 16.8
+  },
+  {
+    "date": "2018-05-17",
+    "orders": 224,
+    "revenue": 30877,
+    "avgDeliveryDays": 13.9,
+    "lateRate": 18.8
+  },
+  {
+    "date": "2018-05-18",
+    "orders": 232,
+    "revenue": 30942,
+    "avgDeliveryDays": 13.7,
+    "lateRate": 15.5
+  },
+  {
+    "date": "2018-05-19",
+    "orders": 137,
+    "revenue": 25052,
+    "avgDeliveryDays": 13.8,
+    "lateRate": 13.9
+  },
+  {
+    "date": "2018-05-20",
+    "orders": 158,
+    "revenue": 19164,
+    "avgDeliveryDays": 13.8,
+    "lateRate": 20.3
+  },
+  {
+    "date": "2018-05-21",
+    "orders": 199,
+    "revenue": 24546,
+    "avgDeliveryDays": 13.5,
+    "lateRate": 14.1
+  },
+  {
+    "date": "2018-05-22",
+    "orders": 195,
+    "revenue": 27229,
+    "avgDeliveryDays": 11.9,
+    "lateRate": 8.7
+  },
+  {
+    "date": "2018-05-23",
+    "orders": 132,
+    "revenue": 17501,
+    "avgDeliveryDays": 11.7,
+    "lateRate": 2.3
+  },
+  {
+    "date": "2018-05-24",
+    "orders": 113,
+    "revenue": 20023,
+    "avgDeliveryDays": 10.9,
+    "lateRate": 1.8
+  },
+  {
+    "date": "2018-05-25",
+    "orders": 103,
+    "revenue": 15889,
+    "avgDeliveryDays": 12.4,
+    "lateRate": 1
+  },
+  {
+    "date": "2018-05-26",
+    "orders": 99,
+    "revenue": 14799,
+    "avgDeliveryDays": 13.1,
+    "lateRate": 1
+  },
+  {
+    "date": "2018-05-27",
+    "orders": 100,
+    "revenue": 12523,
+    "avgDeliveryDays": 13.5,
+    "lateRate": 0
+  },
+  {
+    "date": "2018-05-28",
+    "orders": 142,
+    "revenue": 26702,
+    "avgDeliveryDays": 11.3,
+    "lateRate": 0
+  },
+  {
+    "date": "2018-05-29",
+    "orders": 149,
+    "revenue": 25572,
+    "avgDeliveryDays": 11.3,
+    "lateRate": 0
+  },
+  {
+    "date": "2018-05-30",
+    "orders": 138,
+    "revenue": 18995,
+    "avgDeliveryDays": 13.1,
+    "lateRate": 0
+  },
+  {
+    "date": "2018-05-31",
+    "orders": 132,
+    "revenue": 24381,
+    "avgDeliveryDays": 11.6,
+    "lateRate": 0.8
+  },
+  {
+    "date": "2018-06-01",
+    "orders": 184,
+    "revenue": 32299,
+    "avgDeliveryDays": 12.2,
+    "lateRate": 1.1
+  },
+  {
+    "date": "2018-06-02",
+    "orders": 141,
+    "revenue": 25217,
+    "avgDeliveryDays": 12.3,
+    "lateRate": 0.7
+  },
+  {
+    "date": "2018-06-03",
+    "orders": 189,
+    "revenue": 28097,
+    "avgDeliveryDays": 9.3,
+    "lateRate": 0
+  },
+  {
+    "date": "2018-06-04",
+    "orders": 222,
+    "revenue": 28209,
+    "avgDeliveryDays": 9.3,
+    "lateRate": 0
+  },
+  {
+    "date": "2018-06-05",
+    "orders": 196,
+    "revenue": 30524,
+    "avgDeliveryDays": 10,
+    "lateRate": 1
+  },
+  {
+    "date": "2018-06-06",
+    "orders": 227,
+    "revenue": 26134,
+    "avgDeliveryDays": 10.8,
+    "lateRate": 1.3
+  },
+  {
+    "date": "2018-06-07",
+    "orders": 223,
+    "revenue": 37020,
+    "avgDeliveryDays": 10,
+    "lateRate": 0.4
+  },
+  {
+    "date": "2018-06-08",
+    "orders": 194,
+    "revenue": 26050,
+    "avgDeliveryDays": 11.3,
+    "lateRate": 3.6
+  },
+  {
+    "date": "2018-06-09",
+    "orders": 169,
+    "revenue": 29172,
+    "avgDeliveryDays": 10.6,
+    "lateRate": 1.2
+  },
+  {
+    "date": "2018-06-10",
+    "orders": 190,
+    "revenue": 25360,
+    "avgDeliveryDays": 9.3,
+    "lateRate": 2.1
+  },
+  {
+    "date": "2018-06-11",
+    "orders": 294,
+    "revenue": 49670,
+    "avgDeliveryDays": 9.3,
+    "lateRate": 3.7
+  },
+  {
+    "date": "2018-06-12",
+    "orders": 244,
+    "revenue": 40267,
+    "avgDeliveryDays": 8.9,
+    "lateRate": 3.7
+  },
+  {
+    "date": "2018-06-13",
+    "orders": 253,
+    "revenue": 33792,
+    "avgDeliveryDays": 8.8,
+    "lateRate": 1.2
+  },
+  {
+    "date": "2018-06-14",
+    "orders": 211,
+    "revenue": 27370,
+    "avgDeliveryDays": 9.2,
+    "lateRate": 1.9
+  },
+  {
+    "date": "2018-06-15",
+    "orders": 182,
+    "revenue": 26314,
+    "avgDeliveryDays": 10.1,
+    "lateRate": 1.1
+  },
+  {
+    "date": "2018-06-16",
+    "orders": 162,
+    "revenue": 24287,
+    "avgDeliveryDays": 9.4,
+    "lateRate": 0.6
+  },
+  {
+    "date": "2018-06-17",
+    "orders": 151,
+    "revenue": 17238,
+    "avgDeliveryDays": 7.9,
+    "lateRate": 2.6
+  },
+  {
+    "date": "2018-06-18",
+    "orders": 243,
+    "revenue": 33725,
+    "avgDeliveryDays": 7.5,
+    "lateRate": 0.8
+  },
+  {
+    "date": "2018-06-19",
+    "orders": 228,
+    "revenue": 34103,
+    "avgDeliveryDays": 8.5,
+    "lateRate": 1.8
+  },
+  {
+    "date": "2018-06-20",
+    "orders": 215,
+    "revenue": 28394,
+    "avgDeliveryDays": 8.5,
+    "lateRate": 0
+  },
+  {
+    "date": "2018-06-21",
+    "orders": 232,
+    "revenue": 27596,
+    "avgDeliveryDays": 9.3,
+    "lateRate": 2.2
+  },
+  {
+    "date": "2018-06-22",
+    "orders": 177,
+    "revenue": 24567,
+    "avgDeliveryDays": 9.3,
+    "lateRate": 0.6
+  },
+  {
+    "date": "2018-06-23",
+    "orders": 149,
+    "revenue": 17397,
+    "avgDeliveryDays": 9.1,
+    "lateRate": 1.3
+  },
+  {
+    "date": "2018-06-24",
+    "orders": 198,
+    "revenue": 24304,
+    "avgDeliveryDays": 7.5,
+    "lateRate": 1.5
+  },
+  {
+    "date": "2018-06-25",
+    "orders": 238,
+    "revenue": 35347,
+    "avgDeliveryDays": 7.3,
+    "lateRate": 1.3
+  },
+  {
+    "date": "2018-06-26",
+    "orders": 238,
+    "revenue": 30421,
+    "avgDeliveryDays": 8.2,
+    "lateRate": 0
+  },
+  {
+    "date": "2018-06-27",
+    "orders": 213,
+    "revenue": 26451,
+    "avgDeliveryDays": 8.9,
+    "lateRate": 0.9
+  },
+  {
+    "date": "2018-06-28",
+    "orders": 239,
+    "revenue": 30681,
+    "avgDeliveryDays": 8.6,
+    "lateRate": 1.3
+  },
+  {
+    "date": "2018-06-29",
+    "orders": 171,
+    "revenue": 20278,
+    "avgDeliveryDays": 9.2,
+    "lateRate": 1.2
+  },
+  {
+    "date": "2018-06-30",
+    "orders": 123,
+    "revenue": 15310,
+    "avgDeliveryDays": 8.9,
+    "lateRate": 0
+  },
+  {
+    "date": "2018-07-01",
+    "orders": 156,
+    "revenue": 23418,
+    "avgDeliveryDays": 7.6,
+    "lateRate": 0
+  },
+  {
+    "date": "2018-07-02",
+    "orders": 193,
+    "revenue": 22872,
+    "avgDeliveryDays": 7.4,
+    "lateRate": 0.5
+  },
+  {
+    "date": "2018-07-03",
+    "orders": 214,
+    "revenue": 26103,
+    "avgDeliveryDays": 8.1,
+    "lateRate": 2.3
+  },
+  {
+    "date": "2018-07-04",
+    "orders": 251,
+    "revenue": 35150,
+    "avgDeliveryDays": 7.6,
+    "lateRate": 1.2
+  },
+  {
+    "date": "2018-07-05",
+    "orders": 193,
+    "revenue": 28490,
+    "avgDeliveryDays": 9.2,
+    "lateRate": 2.6
+  },
+  {
+    "date": "2018-07-06",
+    "orders": 120,
+    "revenue": 18740,
+    "avgDeliveryDays": 9.7,
+    "lateRate": 1.7
+  },
+  {
+    "date": "2018-07-07",
+    "orders": 89,
+    "revenue": 8817,
+    "avgDeliveryDays": 9.2,
+    "lateRate": 0
+  },
+  {
+    "date": "2018-07-08",
+    "orders": 118,
+    "revenue": 14065,
+    "avgDeliveryDays": 10.2,
+    "lateRate": 2.5
+  },
+  {
+    "date": "2018-07-09",
+    "orders": 146,
+    "revenue": 19361,
+    "avgDeliveryDays": 9.6,
+    "lateRate": 5.5
+  },
+  {
+    "date": "2018-07-10",
+    "orders": 129,
+    "revenue": 18128,
+    "avgDeliveryDays": 9.5,
+    "lateRate": 6.2
+  },
+  {
+    "date": "2018-07-11",
+    "orders": 123,
+    "revenue": 17719,
+    "avgDeliveryDays": 12,
+    "lateRate": 8.1
+  },
+  {
+    "date": "2018-07-12",
+    "orders": 117,
+    "revenue": 19552,
+    "avgDeliveryDays": 12.5,
+    "lateRate": 11.1
+  },
+  {
+    "date": "2018-07-13",
+    "orders": 167,
+    "revenue": 27644,
+    "avgDeliveryDays": 12.2,
+    "lateRate": 2.4
+  },
+  {
+    "date": "2018-07-14",
+    "orders": 142,
+    "revenue": 21543,
+    "avgDeliveryDays": 11.8,
+    "lateRate": 5.6
+  },
+  {
+    "date": "2018-07-15",
+    "orders": 148,
+    "revenue": 29519,
+    "avgDeliveryDays": 11.3,
+    "lateRate": 5.4
+  },
+  {
+    "date": "2018-07-16",
+    "orders": 238,
+    "revenue": 29990,
+    "avgDeliveryDays": 9.5,
+    "lateRate": 6.7
+  },
+  {
+    "date": "2018-07-17",
+    "orders": 216,
+    "revenue": 29532,
+    "avgDeliveryDays": 9.6,
+    "lateRate": 6.5
+  },
+  {
+    "date": "2018-07-18",
+    "orders": 302,
+    "revenue": 40861,
+    "avgDeliveryDays": 8.8,
+    "lateRate": 3
+  },
+  {
+    "date": "2018-07-19",
+    "orders": 249,
+    "revenue": 38427,
+    "avgDeliveryDays": 9.1,
+    "lateRate": 2
+  },
+  {
+    "date": "2018-07-20",
+    "orders": 247,
+    "revenue": 31898,
+    "avgDeliveryDays": 9.4,
+    "lateRate": 4
+  },
+  {
+    "date": "2018-07-21",
+    "orders": 184,
+    "revenue": 20846,
+    "avgDeliveryDays": 9,
+    "lateRate": 2.7
+  },
+  {
+    "date": "2018-07-22",
+    "orders": 213,
+    "revenue": 25903,
+    "avgDeliveryDays": 7.9,
+    "lateRate": 2.8
+  },
+  {
+    "date": "2018-07-23",
+    "orders": 298,
+    "revenue": 39296,
+    "avgDeliveryDays": 8.1,
+    "lateRate": 6
+  },
+  {
+    "date": "2018-07-24",
+    "orders": 264,
+    "revenue": 39903,
+    "avgDeliveryDays": 8,
+    "lateRate": 3.4
+  },
+  {
+    "date": "2018-07-25",
+    "orders": 264,
+    "revenue": 40183,
+    "avgDeliveryDays": 8.5,
+    "lateRate": 3
+  },
+  {
+    "date": "2018-07-26",
+    "orders": 244,
+    "revenue": 34744,
+    "avgDeliveryDays": 8.2,
+    "lateRate": 2.9
+  },
+  {
+    "date": "2018-07-27",
+    "orders": 186,
+    "revenue": 28105,
+    "avgDeliveryDays": 9.3,
+    "lateRate": 2.7
+  },
+  {
+    "date": "2018-07-28",
+    "orders": 172,
+    "revenue": 24813,
+    "avgDeliveryDays": 8.8,
+    "lateRate": 1.7
+  },
+  {
+    "date": "2018-07-29",
+    "orders": 182,
+    "revenue": 29454,
+    "avgDeliveryDays": 7.6,
+    "lateRate": 7.1
+  },
+  {
+    "date": "2018-07-30",
+    "orders": 278,
+    "revenue": 37607,
+    "avgDeliveryDays": 8,
+    "lateRate": 12.2
+  },
+  {
+    "date": "2018-07-31",
+    "orders": 313,
+    "revenue": 44804,
+    "avgDeliveryDays": 7.8,
+    "lateRate": 11.5
+  },
+  {
+    "date": "2018-08-01",
+    "orders": 306,
+    "revenue": 40244,
+    "avgDeliveryDays": 8.9,
+    "lateRate": 13.1
+  },
+  {
+    "date": "2018-08-02",
+    "orders": 292,
+    "revenue": 37834,
+    "avgDeliveryDays": 9.2,
+    "lateRate": 15.4
+  },
+  {
+    "date": "2018-08-03",
+    "orders": 308,
+    "revenue": 41477,
+    "avgDeliveryDays": 9.6,
+    "lateRate": 15.3
+  },
+  {
+    "date": "2018-08-04",
+    "orders": 236,
+    "revenue": 34646,
+    "avgDeliveryDays": 9,
+    "lateRate": 11
+  },
+  {
+    "date": "2018-08-05",
+    "orders": 269,
+    "revenue": 34701,
+    "avgDeliveryDays": 8,
+    "lateRate": 17.8
+  },
+  {
+    "date": "2018-08-06",
+    "orders": 363,
+    "revenue": 53475,
+    "avgDeliveryDays": 8.5,
+    "lateRate": 19.8
+  },
+  {
+    "date": "2018-08-07",
+    "orders": 353,
+    "revenue": 46744,
+    "avgDeliveryDays": 8.3,
+    "lateRate": 17.8
+  },
+  {
+    "date": "2018-08-08",
+    "orders": 310,
+    "revenue": 42449,
+    "avgDeliveryDays": 8.2,
+    "lateRate": 11.3
+  },
+  {
+    "date": "2018-08-09",
+    "orders": 280,
+    "revenue": 39659,
+    "avgDeliveryDays": 8.5,
+    "lateRate": 10.7
+  },
+  {
+    "date": "2018-08-10",
+    "orders": 249,
+    "revenue": 32842,
+    "avgDeliveryDays": 9.4,
+    "lateRate": 10.4
+  },
+  {
+    "date": "2018-08-11",
+    "orders": 185,
+    "revenue": 25916,
+    "avgDeliveryDays": 8.6,
+    "lateRate": 4.3
+  },
+  {
+    "date": "2018-08-12",
+    "orders": 191,
+    "revenue": 29151,
+    "avgDeliveryDays": 7.8,
+    "lateRate": 4.7
+  },
+  {
+    "date": "2018-08-13",
+    "orders": 284,
+    "revenue": 38245,
+    "avgDeliveryDays": 7.6,
+    "lateRate": 6.7
+  },
+  {
+    "date": "2018-08-14",
+    "orders": 311,
+    "revenue": 43901,
+    "avgDeliveryDays": 7.8,
+    "lateRate": 11.3
+  },
+  {
+    "date": "2018-08-15",
+    "orders": 282,
+    "revenue": 45376,
+    "avgDeliveryDays": 7.7,
+    "lateRate": 8.5
+  },
+  {
+    "date": "2018-08-16",
+    "orders": 316,
+    "revenue": 35167,
+    "avgDeliveryDays": 7.8,
+    "lateRate": 8.9
+  },
+  {
+    "date": "2018-08-17",
+    "orders": 249,
+    "revenue": 31124,
+    "avgDeliveryDays": 8,
+    "lateRate": 4.4
+  },
+  {
+    "date": "2018-08-18",
+    "orders": 193,
+    "revenue": 24158,
+    "avgDeliveryDays": 7.5,
+    "lateRate": 2.6
+  },
+  {
+    "date": "2018-08-19",
+    "orders": 204,
+    "revenue": 25487,
+    "avgDeliveryDays": 6.8,
+    "lateRate": 5.4
+  },
+  {
+    "date": "2018-08-20",
+    "orders": 251,
+    "revenue": 33750,
+    "avgDeliveryDays": 5.9,
+    "lateRate": 10
+  },
+  {
+    "date": "2018-08-21",
+    "orders": 238,
+    "revenue": 26274,
+    "avgDeliveryDays": 5.7,
+    "lateRate": 7.1
+  },
+  {
+    "date": "2018-08-22",
+    "orders": 185,
+    "revenue": 20247,
+    "avgDeliveryDays": 5.8,
+    "lateRate": 5.9
+  },
+  {
+    "date": "2018-08-23",
+    "orders": 142,
+    "revenue": 17031,
+    "avgDeliveryDays": 5.6,
+    "lateRate": 4.9
+  },
+  {
+    "date": "2018-08-24",
+    "orders": 96,
+    "revenue": 9441,
+    "avgDeliveryDays": 5.3,
+    "lateRate": 9.4
+  },
+  {
+    "date": "2018-08-25",
+    "orders": 69,
+    "revenue": 10599,
+    "avgDeliveryDays": 4.3,
+    "lateRate": 1.4
+  },
+  {
+    "date": "2018-08-26",
+    "orders": 73,
+    "revenue": 8071,
+    "avgDeliveryDays": 3.4,
+    "lateRate": 1.4
+  },
+  {
+    "date": "2018-08-27",
+    "orders": 66,
+    "revenue": 5346,
+    "avgDeliveryDays": 2.5,
+    "lateRate": 9.1
+  },
+  {
+    "date": "2018-08-28",
+    "orders": 39,
+    "revenue": 3674,
+    "avgDeliveryDays": 1.9,
+    "lateRate": 2.6
+  },
+  {
+    "date": "2018-08-29",
+    "orders": 11,
+    "revenue": 1546,
+    "avgDeliveryDays": 1.3,
+    "lateRate": 0
+  }
+]

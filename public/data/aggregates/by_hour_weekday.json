@@ -1,0 +1,1346 @@
+[
+  {
+    "dayIndex": 0,
+    "dayName": "Mon",
+    "hour": 0,
+    "orders": 315,
+    "revenue": 39731,
+    "avgDeliveryDays": 12.6
+  },
+  {
+    "dayIndex": 0,
+    "dayName": "Mon",
+    "hour": 1,
+    "orders": 132,
+    "revenue": 15105,
+    "avgDeliveryDays": 11.2
+  },
+  {
+    "dayIndex": 0,
+    "dayName": "Mon",
+    "hour": 2,
+    "orders": 63,
+    "revenue": 6291,
+    "avgDeliveryDays": 12.2
+  },
+  {
+    "dayIndex": 0,
+    "dayName": "Mon",
+    "hour": 3,
+    "orders": 34,
+    "revenue": 5596,
+    "avgDeliveryDays": 13
+  },
+  {
+    "dayIndex": 0,
+    "dayName": "Mon",
+    "hour": 4,
+    "orders": 21,
+    "revenue": 1801,
+    "avgDeliveryDays": 11.8
+  },
+  {
+    "dayIndex": 0,
+    "dayName": "Mon",
+    "hour": 5,
+    "orders": 22,
+    "revenue": 2478,
+    "avgDeliveryDays": 8.8
+  },
+  {
+    "dayIndex": 0,
+    "dayName": "Mon",
+    "hour": 6,
+    "orders": 64,
+    "revenue": 5805,
+    "avgDeliveryDays": 14.1
+  },
+  {
+    "dayIndex": 0,
+    "dayName": "Mon",
+    "hour": 7,
+    "orders": 157,
+    "revenue": 17983,
+    "avgDeliveryDays": 12.2
+  },
+  {
+    "dayIndex": 0,
+    "dayName": "Mon",
+    "hour": 8,
+    "orders": 471,
+    "revenue": 63334,
+    "avgDeliveryDays": 11.5
+  },
+  {
+    "dayIndex": 0,
+    "dayName": "Mon",
+    "hour": 9,
+    "orders": 752,
+    "revenue": 109649,
+    "avgDeliveryDays": 12.1
+  },
+  {
+    "dayIndex": 0,
+    "dayName": "Mon",
+    "hour": 10,
+    "orders": 999,
+    "revenue": 135594,
+    "avgDeliveryDays": 11.7
+  },
+  {
+    "dayIndex": 0,
+    "dayName": "Mon",
+    "hour": 11,
+    "orders": 1052,
+    "revenue": 144266,
+    "avgDeliveryDays": 11.5
+  },
+  {
+    "dayIndex": 0,
+    "dayName": "Mon",
+    "hour": 12,
+    "orders": 944,
+    "revenue": 132518,
+    "avgDeliveryDays": 11.6
+  },
+  {
+    "dayIndex": 0,
+    "dayName": "Mon",
+    "hour": 13,
+    "orders": 1000,
+    "revenue": 135316,
+    "avgDeliveryDays": 12
+  },
+  {
+    "dayIndex": 0,
+    "dayName": "Mon",
+    "hour": 14,
+    "orders": 1063,
+    "revenue": 151457,
+    "avgDeliveryDays": 12.1
+  },
+  {
+    "dayIndex": 0,
+    "dayName": "Mon",
+    "hour": 15,
+    "orders": 1047,
+    "revenue": 145236,
+    "avgDeliveryDays": 12.7
+  },
+  {
+    "dayIndex": 0,
+    "dayName": "Mon",
+    "hour": 16,
+    "orders": 1060,
+    "revenue": 142981,
+    "avgDeliveryDays": 12
+  },
+  {
+    "dayIndex": 0,
+    "dayName": "Mon",
+    "hour": 17,
+    "orders": 954,
+    "revenue": 127399,
+    "avgDeliveryDays": 11.8
+  },
+  {
+    "dayIndex": 0,
+    "dayName": "Mon",
+    "hour": 18,
+    "orders": 891,
+    "revenue": 119032,
+    "avgDeliveryDays": 12
+  },
+  {
+    "dayIndex": 0,
+    "dayName": "Mon",
+    "hour": 19,
+    "orders": 920,
+    "revenue": 134318,
+    "avgDeliveryDays": 11.4
+  },
+  {
+    "dayIndex": 0,
+    "dayName": "Mon",
+    "hour": 20,
+    "orders": 998,
+    "revenue": 138843,
+    "avgDeliveryDays": 12.7
+  },
+  {
+    "dayIndex": 0,
+    "dayName": "Mon",
+    "hour": 21,
+    "orders": 1083,
+    "revenue": 150683,
+    "avgDeliveryDays": 12.2
+  },
+  {
+    "dayIndex": 0,
+    "dayName": "Mon",
+    "hour": 22,
+    "orders": 962,
+    "revenue": 143613,
+    "avgDeliveryDays": 11.8
+  },
+  {
+    "dayIndex": 0,
+    "dayName": "Mon",
+    "hour": 23,
+    "orders": 697,
+    "revenue": 99877,
+    "avgDeliveryDays": 12.3
+  },
+  {
+    "dayIndex": 1,
+    "dayName": "Tue",
+    "hour": 0,
+    "orders": 300,
+    "revenue": 40210,
+    "avgDeliveryDays": 12.7
+  },
+  {
+    "dayIndex": 1,
+    "dayName": "Tue",
+    "hour": 1,
+    "orders": 151,
+    "revenue": 20091,
+    "avgDeliveryDays": 13.2
+  },
+  {
+    "dayIndex": 1,
+    "dayName": "Tue",
+    "hour": 2,
+    "orders": 79,
+    "revenue": 7793,
+    "avgDeliveryDays": 10.4
+  },
+  {
+    "dayIndex": 1,
+    "dayName": "Tue",
+    "hour": 3,
+    "orders": 28,
+    "revenue": 5063,
+    "avgDeliveryDays": 11
+  },
+  {
+    "dayIndex": 1,
+    "dayName": "Tue",
+    "hour": 4,
+    "orders": 28,
+    "revenue": 3423,
+    "avgDeliveryDays": 12
+  },
+  {
+    "dayIndex": 1,
+    "dayName": "Tue",
+    "hour": 5,
+    "orders": 24,
+    "revenue": 2003,
+    "avgDeliveryDays": 11
+  },
+  {
+    "dayIndex": 1,
+    "dayName": "Tue",
+    "hour": 6,
+    "orders": 69,
+    "revenue": 7834,
+    "avgDeliveryDays": 13.7
+  },
+  {
+    "dayIndex": 1,
+    "dayName": "Tue",
+    "hour": 7,
+    "orders": 216,
+    "revenue": 25504,
+    "avgDeliveryDays": 11.2
+  },
+  {
+    "dayIndex": 1,
+    "dayName": "Tue",
+    "hour": 8,
+    "orders": 510,
+    "revenue": 61215,
+    "avgDeliveryDays": 11.5
+  },
+  {
+    "dayIndex": 1,
+    "dayName": "Tue",
+    "hour": 9,
+    "orders": 845,
+    "revenue": 122293,
+    "avgDeliveryDays": 11.4
+  },
+  {
+    "dayIndex": 1,
+    "dayName": "Tue",
+    "hour": 10,
+    "orders": 940,
+    "revenue": 132358,
+    "avgDeliveryDays": 12.6
+  },
+  {
+    "dayIndex": 1,
+    "dayName": "Tue",
+    "hour": 11,
+    "orders": 1023,
+    "revenue": 136119,
+    "avgDeliveryDays": 11.8
+  },
+  {
+    "dayIndex": 1,
+    "dayName": "Tue",
+    "hour": 12,
+    "orders": 874,
+    "revenue": 120704,
+    "avgDeliveryDays": 12.2
+  },
+  {
+    "dayIndex": 1,
+    "dayName": "Tue",
+    "hour": 13,
+    "orders": 1011,
+    "revenue": 137867,
+    "avgDeliveryDays": 11.6
+  },
+  {
+    "dayIndex": 1,
+    "dayName": "Tue",
+    "hour": 14,
+    "orders": 1095,
+    "revenue": 155143,
+    "avgDeliveryDays": 11.9
+  },
+  {
+    "dayIndex": 1,
+    "dayName": "Tue",
+    "hour": 15,
+    "orders": 1005,
+    "revenue": 133165,
+    "avgDeliveryDays": 12.5
+  },
+  {
+    "dayIndex": 1,
+    "dayName": "Tue",
+    "hour": 16,
+    "orders": 1059,
+    "revenue": 145232,
+    "avgDeliveryDays": 12.3
+  },
+  {
+    "dayIndex": 1,
+    "dayName": "Tue",
+    "hour": 17,
+    "orders": 942,
+    "revenue": 132140,
+    "avgDeliveryDays": 11.9
+  },
+  {
+    "dayIndex": 1,
+    "dayName": "Tue",
+    "hour": 18,
+    "orders": 852,
+    "revenue": 118748,
+    "avgDeliveryDays": 12.6
+  },
+  {
+    "dayIndex": 1,
+    "dayName": "Tue",
+    "hour": 19,
+    "orders": 894,
+    "revenue": 122633,
+    "avgDeliveryDays": 12.2
+  },
+  {
+    "dayIndex": 1,
+    "dayName": "Tue",
+    "hour": 20,
+    "orders": 946,
+    "revenue": 136955,
+    "avgDeliveryDays": 11.7
+  },
+  {
+    "dayIndex": 1,
+    "dayName": "Tue",
+    "hour": 21,
+    "orders": 996,
+    "revenue": 135202,
+    "avgDeliveryDays": 12.4
+  },
+  {
+    "dayIndex": 1,
+    "dayName": "Tue",
+    "hour": 22,
+    "orders": 939,
+    "revenue": 131695,
+    "avgDeliveryDays": 12
+  },
+  {
+    "dayIndex": 1,
+    "dayName": "Tue",
+    "hour": 23,
+    "orders": 676,
+    "revenue": 88758,
+    "avgDeliveryDays": 12.6
+  },
+  {
+    "dayIndex": 2,
+    "dayName": "Wed",
+    "hour": 0,
+    "orders": 385,
+    "revenue": 53883,
+    "avgDeliveryDays": 13.5
+  },
+  {
+    "dayIndex": 2,
+    "dayName": "Wed",
+    "hour": 1,
+    "orders": 171,
+    "revenue": 21458,
+    "avgDeliveryDays": 12.2
+  },
+  {
+    "dayIndex": 2,
+    "dayName": "Wed",
+    "hour": 2,
+    "orders": 81,
+    "revenue": 8638,
+    "avgDeliveryDays": 12
+  },
+  {
+    "dayIndex": 2,
+    "dayName": "Wed",
+    "hour": 3,
+    "orders": 31,
+    "revenue": 3215,
+    "avgDeliveryDays": 13.9
+  },
+  {
+    "dayIndex": 2,
+    "dayName": "Wed",
+    "hour": 4,
+    "orders": 33,
+    "revenue": 2797,
+    "avgDeliveryDays": 10.1
+  },
+  {
+    "dayIndex": 2,
+    "dayName": "Wed",
+    "hour": 5,
+    "orders": 24,
+    "revenue": 2533,
+    "avgDeliveryDays": 13
+  },
+  {
+    "dayIndex": 2,
+    "dayName": "Wed",
+    "hour": 6,
+    "orders": 90,
+    "revenue": 9423,
+    "avgDeliveryDays": 12.1
+  },
+  {
+    "dayIndex": 2,
+    "dayName": "Wed",
+    "hour": 7,
+    "orders": 208,
+    "revenue": 26741,
+    "avgDeliveryDays": 12.5
+  },
+  {
+    "dayIndex": 2,
+    "dayName": "Wed",
+    "hour": 8,
+    "orders": 497,
+    "revenue": 67944,
+    "avgDeliveryDays": 11.6
+  },
+  {
+    "dayIndex": 2,
+    "dayName": "Wed",
+    "hour": 9,
+    "orders": 798,
+    "revenue": 116697,
+    "avgDeliveryDays": 12.1
+  },
+  {
+    "dayIndex": 2,
+    "dayName": "Wed",
+    "hour": 10,
+    "orders": 1007,
+    "revenue": 138372,
+    "avgDeliveryDays": 12.2
+  },
+  {
+    "dayIndex": 2,
+    "dayName": "Wed",
+    "hour": 11,
+    "orders": 1030,
+    "revenue": 138610,
+    "avgDeliveryDays": 12.3
+  },
+  {
+    "dayIndex": 2,
+    "dayName": "Wed",
+    "hour": 12,
+    "orders": 897,
+    "revenue": 119037,
+    "avgDeliveryDays": 12.5
+  },
+  {
+    "dayIndex": 2,
+    "dayName": "Wed",
+    "hour": 13,
+    "orders": 990,
+    "revenue": 134053,
+    "avgDeliveryDays": 12.6
+  },
+  {
+    "dayIndex": 2,
+    "dayName": "Wed",
+    "hour": 14,
+    "orders": 1027,
+    "revenue": 150342,
+    "avgDeliveryDays": 12.3
+  },
+  {
+    "dayIndex": 2,
+    "dayName": "Wed",
+    "hour": 15,
+    "orders": 952,
+    "revenue": 132205,
+    "avgDeliveryDays": 12.2
+  },
+  {
+    "dayIndex": 2,
+    "dayName": "Wed",
+    "hour": 16,
+    "orders": 1007,
+    "revenue": 147740,
+    "avgDeliveryDays": 12.4
+  },
+  {
+    "dayIndex": 2,
+    "dayName": "Wed",
+    "hour": 17,
+    "orders": 943,
+    "revenue": 132814,
+    "avgDeliveryDays": 12.3
+  },
+  {
+    "dayIndex": 2,
+    "dayName": "Wed",
+    "hour": 18,
+    "orders": 818,
+    "revenue": 131435,
+    "avgDeliveryDays": 12.7
+  },
+  {
+    "dayIndex": 2,
+    "dayName": "Wed",
+    "hour": 19,
+    "orders": 822,
+    "revenue": 107116,
+    "avgDeliveryDays": 12.9
+  },
+  {
+    "dayIndex": 2,
+    "dayName": "Wed",
+    "hour": 20,
+    "orders": 881,
+    "revenue": 111831,
+    "avgDeliveryDays": 12.7
+  },
+  {
+    "dayIndex": 2,
+    "dayName": "Wed",
+    "hour": 21,
+    "orders": 927,
+    "revenue": 114981,
+    "avgDeliveryDays": 12.5
+  },
+  {
+    "dayIndex": 2,
+    "dayName": "Wed",
+    "hour": 22,
+    "orders": 855,
+    "revenue": 109595,
+    "avgDeliveryDays": 12.9
+  },
+  {
+    "dayIndex": 2,
+    "dayName": "Wed",
+    "hour": 23,
+    "orders": 600,
+    "revenue": 69697,
+    "avgDeliveryDays": 12.5
+  },
+  {
+    "dayIndex": 3,
+    "dayName": "Thu",
+    "hour": 0,
+    "orders": 345,
+    "revenue": 48481,
+    "avgDeliveryDays": 12.8
+  },
+  {
+    "dayIndex": 3,
+    "dayName": "Thu",
+    "hour": 1,
+    "orders": 165,
+    "revenue": 18376,
+    "avgDeliveryDays": 12.6
+  },
+  {
+    "dayIndex": 3,
+    "dayName": "Thu",
+    "hour": 2,
+    "orders": 74,
+    "revenue": 8728,
+    "avgDeliveryDays": 12.6
+  },
+  {
+    "dayIndex": 3,
+    "dayName": "Thu",
+    "hour": 3,
+    "orders": 38,
+    "revenue": 4650,
+    "avgDeliveryDays": 11.7
+  },
+  {
+    "dayIndex": 3,
+    "dayName": "Thu",
+    "hour": 4,
+    "orders": 30,
+    "revenue": 3843,
+    "avgDeliveryDays": 12.2
+  },
+  {
+    "dayIndex": 3,
+    "dayName": "Thu",
+    "hour": 5,
+    "orders": 28,
+    "revenue": 2712,
+    "avgDeliveryDays": 10.6
+  },
+  {
+    "dayIndex": 3,
+    "dayName": "Thu",
+    "hour": 6,
+    "orders": 82,
+    "revenue": 7517,
+    "avgDeliveryDays": 11.8
+  },
+  {
+    "dayIndex": 3,
+    "dayName": "Thu",
+    "hour": 7,
+    "orders": 211,
+    "revenue": 24888,
+    "avgDeliveryDays": 12.3
+  },
+  {
+    "dayIndex": 3,
+    "dayName": "Thu",
+    "hour": 8,
+    "orders": 495,
+    "revenue": 68153,
+    "avgDeliveryDays": 11.9
+  },
+  {
+    "dayIndex": 3,
+    "dayName": "Thu",
+    "hour": 9,
+    "orders": 736,
+    "revenue": 98820,
+    "avgDeliveryDays": 12.4
+  },
+  {
+    "dayIndex": 3,
+    "dayName": "Thu",
+    "hour": 10,
+    "orders": 956,
+    "revenue": 125763,
+    "avgDeliveryDays": 12.7
+  },
+  {
+    "dayIndex": 3,
+    "dayName": "Thu",
+    "hour": 11,
+    "orders": 928,
+    "revenue": 127373,
+    "avgDeliveryDays": 13.1
+  },
+  {
+    "dayIndex": 3,
+    "dayName": "Thu",
+    "hour": 12,
+    "orders": 940,
+    "revenue": 134802,
+    "avgDeliveryDays": 12.4
+  },
+  {
+    "dayIndex": 3,
+    "dayName": "Thu",
+    "hour": 13,
+    "orders": 953,
+    "revenue": 123717,
+    "avgDeliveryDays": 12.3
+  },
+  {
+    "dayIndex": 3,
+    "dayName": "Thu",
+    "hour": 14,
+    "orders": 951,
+    "revenue": 128130,
+    "avgDeliveryDays": 12.8
+  },
+  {
+    "dayIndex": 3,
+    "dayName": "Thu",
+    "hour": 15,
+    "orders": 901,
+    "revenue": 127087,
+    "avgDeliveryDays": 13.3
+  },
+  {
+    "dayIndex": 3,
+    "dayName": "Thu",
+    "hour": 16,
+    "orders": 1042,
+    "revenue": 143355,
+    "avgDeliveryDays": 13
+  },
+  {
+    "dayIndex": 3,
+    "dayName": "Thu",
+    "hour": 17,
+    "orders": 881,
+    "revenue": 121305,
+    "avgDeliveryDays": 12.7
+  },
+  {
+    "dayIndex": 3,
+    "dayName": "Thu",
+    "hour": 18,
+    "orders": 759,
+    "revenue": 112396,
+    "avgDeliveryDays": 12.6
+  },
+  {
+    "dayIndex": 3,
+    "dayName": "Thu",
+    "hour": 19,
+    "orders": 798,
+    "revenue": 113826,
+    "avgDeliveryDays": 12.8
+  },
+  {
+    "dayIndex": 3,
+    "dayName": "Thu",
+    "hour": 20,
+    "orders": 816,
+    "revenue": 113870,
+    "avgDeliveryDays": 12.9
+  },
+  {
+    "dayIndex": 3,
+    "dayName": "Thu",
+    "hour": 21,
+    "orders": 826,
+    "revenue": 113044,
+    "avgDeliveryDays": 13
+  },
+  {
+    "dayIndex": 3,
+    "dayName": "Thu",
+    "hour": 22,
+    "orders": 835,
+    "revenue": 117076,
+    "avgDeliveryDays": 13.1
+  },
+  {
+    "dayIndex": 3,
+    "dayName": "Thu",
+    "hour": 23,
+    "orders": 532,
+    "revenue": 70511,
+    "avgDeliveryDays": 13
+  },
+  {
+    "dayIndex": 4,
+    "dayName": "Fri",
+    "hour": 0,
+    "orders": 412,
+    "revenue": 55404,
+    "avgDeliveryDays": 13.3
+  },
+  {
+    "dayIndex": 4,
+    "dayName": "Fri",
+    "hour": 1,
+    "orders": 210,
+    "revenue": 35526,
+    "avgDeliveryDays": 13.6
+  },
+  {
+    "dayIndex": 4,
+    "dayName": "Fri",
+    "hour": 2,
+    "orders": 66,
+    "revenue": 5064,
+    "avgDeliveryDays": 13.2
+  },
+  {
+    "dayIndex": 4,
+    "dayName": "Fri",
+    "hour": 3,
+    "orders": 46,
+    "revenue": 4678,
+    "avgDeliveryDays": 12.3
+  },
+  {
+    "dayIndex": 4,
+    "dayName": "Fri",
+    "hour": 4,
+    "orders": 39,
+    "revenue": 4329,
+    "avgDeliveryDays": 13.9
+  },
+  {
+    "dayIndex": 4,
+    "dayName": "Fri",
+    "hour": 5,
+    "orders": 35,
+    "revenue": 6600,
+    "avgDeliveryDays": 13.2
+  },
+  {
+    "dayIndex": 4,
+    "dayName": "Fri",
+    "hour": 6,
+    "orders": 91,
+    "revenue": 11562,
+    "avgDeliveryDays": 11.5
+  },
+  {
+    "dayIndex": 4,
+    "dayName": "Fri",
+    "hour": 7,
+    "orders": 203,
+    "revenue": 22688,
+    "avgDeliveryDays": 11.7
+  },
+  {
+    "dayIndex": 4,
+    "dayName": "Fri",
+    "hour": 8,
+    "orders": 487,
+    "revenue": 64073,
+    "avgDeliveryDays": 13.2
+  },
+  {
+    "dayIndex": 4,
+    "dayName": "Fri",
+    "hour": 9,
+    "orders": 754,
+    "revenue": 105552,
+    "avgDeliveryDays": 13.1
+  },
+  {
+    "dayIndex": 4,
+    "dayName": "Fri",
+    "hour": 10,
+    "orders": 928,
+    "revenue": 128030,
+    "avgDeliveryDays": 13
+  },
+  {
+    "dayIndex": 4,
+    "dayName": "Fri",
+    "hour": 11,
+    "orders": 960,
+    "revenue": 134302,
+    "avgDeliveryDays": 13
+  },
+  {
+    "dayIndex": 4,
+    "dayName": "Fri",
+    "hour": 12,
+    "orders": 827,
+    "revenue": 114801,
+    "avgDeliveryDays": 13.8
+  },
+  {
+    "dayIndex": 4,
+    "dayName": "Fri",
+    "hour": 13,
+    "orders": 968,
+    "revenue": 134566,
+    "avgDeliveryDays": 13.6
+  },
+  {
+    "dayIndex": 4,
+    "dayName": "Fri",
+    "hour": 14,
+    "orders": 937,
+    "revenue": 138702,
+    "avgDeliveryDays": 13.6
+  },
+  {
+    "dayIndex": 4,
+    "dayName": "Fri",
+    "hour": 15,
+    "orders": 948,
+    "revenue": 140086,
+    "avgDeliveryDays": 13.2
+  },
+  {
+    "dayIndex": 4,
+    "dayName": "Fri",
+    "hour": 16,
+    "orders": 943,
+    "revenue": 150935,
+    "avgDeliveryDays": 13.7
+  },
+  {
+    "dayIndex": 4,
+    "dayName": "Fri",
+    "hour": 17,
+    "orders": 791,
+    "revenue": 104429,
+    "avgDeliveryDays": 14.1
+  },
+  {
+    "dayIndex": 4,
+    "dayName": "Fri",
+    "hour": 18,
+    "orders": 697,
+    "revenue": 104691,
+    "avgDeliveryDays": 13.7
+  },
+  {
+    "dayIndex": 4,
+    "dayName": "Fri",
+    "hour": 19,
+    "orders": 757,
+    "revenue": 102778,
+    "avgDeliveryDays": 14.2
+  },
+  {
+    "dayIndex": 4,
+    "dayName": "Fri",
+    "hour": 20,
+    "orders": 714,
+    "revenue": 91366,
+    "avgDeliveryDays": 13.8
+  },
+  {
+    "dayIndex": 4,
+    "dayName": "Fri",
+    "hour": 21,
+    "orders": 700,
+    "revenue": 95514,
+    "avgDeliveryDays": 14.2
+  },
+  {
+    "dayIndex": 4,
+    "dayName": "Fri",
+    "hour": 22,
+    "orders": 675,
+    "revenue": 89603,
+    "avgDeliveryDays": 14.5
+  },
+  {
+    "dayIndex": 4,
+    "dayName": "Fri",
+    "hour": 23,
+    "orders": 496,
+    "revenue": 65106,
+    "avgDeliveryDays": 13.9
+  },
+  {
+    "dayIndex": 5,
+    "dayName": "Sat",
+    "hour": 0,
+    "orders": 308,
+    "revenue": 36489,
+    "avgDeliveryDays": 14.6
+  },
+  {
+    "dayIndex": 5,
+    "dayName": "Sat",
+    "hour": 1,
+    "orders": 167,
+    "revenue": 19620,
+    "avgDeliveryDays": 14.6
+  },
+  {
+    "dayIndex": 5,
+    "dayName": "Sat",
+    "hour": 2,
+    "orders": 65,
+    "revenue": 7008,
+    "avgDeliveryDays": 14.9
+  },
+  {
+    "dayIndex": 5,
+    "dayName": "Sat",
+    "hour": 3,
+    "orders": 41,
+    "revenue": 3362,
+    "avgDeliveryDays": 12.9
+  },
+  {
+    "dayIndex": 5,
+    "dayName": "Sat",
+    "hour": 4,
+    "orders": 25,
+    "revenue": 4592,
+    "avgDeliveryDays": 11.6
+  },
+  {
+    "dayIndex": 5,
+    "dayName": "Sat",
+    "hour": 5,
+    "orders": 23,
+    "revenue": 2662,
+    "avgDeliveryDays": 11.3
+  },
+  {
+    "dayIndex": 5,
+    "dayName": "Sat",
+    "hour": 6,
+    "orders": 51,
+    "revenue": 8290,
+    "avgDeliveryDays": 13.7
+  },
+  {
+    "dayIndex": 5,
+    "dayName": "Sat",
+    "hour": 7,
+    "orders": 102,
+    "revenue": 14633,
+    "avgDeliveryDays": 14
+  },
+  {
+    "dayIndex": 5,
+    "dayName": "Sat",
+    "hour": 8,
+    "orders": 245,
+    "revenue": 32248,
+    "avgDeliveryDays": 13.6
+  },
+  {
+    "dayIndex": 5,
+    "dayName": "Sat",
+    "hour": 9,
+    "orders": 421,
+    "revenue": 59822,
+    "avgDeliveryDays": 14.3
+  },
+  {
+    "dayIndex": 5,
+    "dayName": "Sat",
+    "hour": 10,
+    "orders": 635,
+    "revenue": 89485,
+    "avgDeliveryDays": 13.9
+  },
+  {
+    "dayIndex": 5,
+    "dayName": "Sat",
+    "hour": 11,
+    "orders": 687,
+    "revenue": 87289,
+    "avgDeliveryDays": 13
+  },
+  {
+    "dayIndex": 5,
+    "dayName": "Sat",
+    "hour": 12,
+    "orders": 667,
+    "revenue": 103462,
+    "avgDeliveryDays": 13.2
+  },
+  {
+    "dayIndex": 5,
+    "dayName": "Sat",
+    "hour": 13,
+    "orders": 686,
+    "revenue": 93308,
+    "avgDeliveryDays": 13.1
+  },
+  {
+    "dayIndex": 5,
+    "dayName": "Sat",
+    "hour": 14,
+    "orders": 650,
+    "revenue": 106565,
+    "avgDeliveryDays": 13.4
+  },
+  {
+    "dayIndex": 5,
+    "dayName": "Sat",
+    "hour": 15,
+    "orders": 700,
+    "revenue": 105357,
+    "avgDeliveryDays": 13.3
+  },
+  {
+    "dayIndex": 5,
+    "dayName": "Sat",
+    "hour": 16,
+    "orders": 676,
+    "revenue": 90493,
+    "avgDeliveryDays": 13.4
+  },
+  {
+    "dayIndex": 5,
+    "dayName": "Sat",
+    "hour": 17,
+    "orders": 674,
+    "revenue": 91237,
+    "avgDeliveryDays": 13
+  },
+  {
+    "dayIndex": 5,
+    "dayName": "Sat",
+    "hour": 18,
+    "orders": 693,
+    "revenue": 97027,
+    "avgDeliveryDays": 12.9
+  },
+  {
+    "dayIndex": 5,
+    "dayName": "Sat",
+    "hour": 19,
+    "orders": 729,
+    "revenue": 98851,
+    "avgDeliveryDays": 13.4
+  },
+  {
+    "dayIndex": 5,
+    "dayName": "Sat",
+    "hour": 20,
+    "orders": 708,
+    "revenue": 107938,
+    "avgDeliveryDays": 13.3
+  },
+  {
+    "dayIndex": 5,
+    "dayName": "Sat",
+    "hour": 21,
+    "orders": 645,
+    "revenue": 86436,
+    "avgDeliveryDays": 12.8
+  },
+  {
+    "dayIndex": 5,
+    "dayName": "Sat",
+    "hour": 22,
+    "orders": 535,
+    "revenue": 67853,
+    "avgDeliveryDays": 12.8
+  },
+  {
+    "dayIndex": 5,
+    "dayName": "Sat",
+    "hour": 23,
+    "orders": 422,
+    "revenue": 50020,
+    "avgDeliveryDays": 14.1
+  },
+  {
+    "dayIndex": 6,
+    "dayName": "Sun",
+    "hour": 0,
+    "orders": 256,
+    "revenue": 32969,
+    "avgDeliveryDays": 14
+  },
+  {
+    "dayIndex": 6,
+    "dayName": "Sun",
+    "hour": 1,
+    "orders": 137,
+    "revenue": 17432,
+    "avgDeliveryDays": 12.4
+  },
+  {
+    "dayIndex": 6,
+    "dayName": "Sun",
+    "hour": 2,
+    "orders": 68,
+    "revenue": 10505,
+    "avgDeliveryDays": 13.9
+  },
+  {
+    "dayIndex": 6,
+    "dayName": "Sun",
+    "hour": 3,
+    "orders": 41,
+    "revenue": 5536,
+    "avgDeliveryDays": 12.3
+  },
+  {
+    "dayIndex": 6,
+    "dayName": "Sun",
+    "hour": 4,
+    "orders": 27,
+    "revenue": 3406,
+    "avgDeliveryDays": 9.5
+  },
+  {
+    "dayIndex": 6,
+    "dayName": "Sun",
+    "hour": 5,
+    "orders": 26,
+    "revenue": 2918,
+    "avgDeliveryDays": 15.5
+  },
+  {
+    "dayIndex": 6,
+    "dayName": "Sun",
+    "hour": 6,
+    "orders": 30,
+    "revenue": 3013,
+    "avgDeliveryDays": 11.5
+  },
+  {
+    "dayIndex": 6,
+    "dayName": "Sun",
+    "hour": 7,
+    "orders": 102,
+    "revenue": 15345,
+    "avgDeliveryDays": 11
+  },
+  {
+    "dayIndex": 6,
+    "dayName": "Sun",
+    "hour": 8,
+    "orders": 202,
+    "revenue": 29388,
+    "avgDeliveryDays": 11.7
+  },
+  {
+    "dayIndex": 6,
+    "dayName": "Sun",
+    "hour": 9,
+    "orders": 341,
+    "revenue": 53749,
+    "avgDeliveryDays": 12.5
+  },
+  {
+    "dayIndex": 6,
+    "dayName": "Sun",
+    "hour": 10,
+    "orders": 513,
+    "revenue": 63890,
+    "avgDeliveryDays": 12.5
+  },
+  {
+    "dayIndex": 6,
+    "dayName": "Sun",
+    "hour": 11,
+    "orders": 705,
+    "revenue": 84462,
+    "avgDeliveryDays": 12.2
+  },
+  {
+    "dayIndex": 6,
+    "dayName": "Sun",
+    "hour": 12,
+    "orders": 653,
+    "revenue": 89548,
+    "avgDeliveryDays": 11.8
+  },
+  {
+    "dayIndex": 6,
+    "dayName": "Sun",
+    "hour": 13,
+    "orders": 701,
+    "revenue": 89881,
+    "avgDeliveryDays": 12.1
+  },
+  {
+    "dayIndex": 6,
+    "dayName": "Sun",
+    "hour": 14,
+    "orders": 660,
+    "revenue": 95629,
+    "avgDeliveryDays": 12.6
+  },
+  {
+    "dayIndex": 6,
+    "dayName": "Sun",
+    "hour": 15,
+    "orders": 696,
+    "revenue": 97112,
+    "avgDeliveryDays": 11.5
+  },
+  {
+    "dayIndex": 6,
+    "dayName": "Sun",
+    "hour": 16,
+    "orders": 688,
+    "revenue": 87110,
+    "avgDeliveryDays": 11.7
+  },
+  {
+    "dayIndex": 6,
+    "dayName": "Sun",
+    "hour": 17,
+    "orders": 776,
+    "revenue": 102849,
+    "avgDeliveryDays": 11.7
+  },
+  {
+    "dayIndex": 6,
+    "dayName": "Sun",
+    "hour": 18,
+    "orders": 875,
+    "revenue": 115249,
+    "avgDeliveryDays": 12.3
+  },
+  {
+    "dayIndex": 6,
+    "dayName": "Sun",
+    "hour": 19,
+    "orders": 881,
+    "revenue": 120580,
+    "avgDeliveryDays": 12.2
+  },
+  {
+    "dayIndex": 6,
+    "dayName": "Sun",
+    "hour": 20,
+    "orders": 944,
+    "revenue": 129196,
+    "avgDeliveryDays": 11.3
+  },
+  {
+    "dayIndex": 6,
+    "dayName": "Sun",
+    "hour": 21,
+    "orders": 862,
+    "revenue": 115681,
+    "avgDeliveryDays": 11.8
+  },
+  {
+    "dayIndex": 6,
+    "dayName": "Sun",
+    "hour": 22,
+    "orders": 857,
+    "revenue": 109088,
+    "avgDeliveryDays": 11.2
+  },
+  {
+    "dayIndex": 6,
+    "dayName": "Sun",
+    "hour": 23,
+    "orders": 591,
+    "revenue": 70646,
+    "avgDeliveryDays": 11.9
+  }
+]

@@ -1,0 +1,668 @@
+[
+  {
+    "category": "bed_bath_table",
+    "orders": 9239,
+    "revenue": 1035949,
+    "avgFreight": 22.15,
+    "avgDeliveryDays": 13,
+    "lateRate": 8.8,
+    "freightRatio": 19.8
+  },
+  {
+    "category": "health_beauty",
+    "orders": 8621,
+    "revenue": 1234793,
+    "avgFreight": 20.79,
+    "avgDeliveryDays": 12.1,
+    "lateRate": 9,
+    "freightRatio": 14.5
+  },
+  {
+    "category": "sports_leisure",
+    "orders": 7477,
+    "revenue": 952590,
+    "avgFreight": 21.77,
+    "avgDeliveryDays": 12.3,
+    "lateRate": 7.8,
+    "freightRatio": 17.1
+  },
+  {
+    "category": "computers_accessories",
+    "orders": 6519,
+    "revenue": 892153,
+    "avgFreight": 22.21,
+    "avgDeliveryDays": 13.2,
+    "lateRate": 7.7,
+    "freightRatio": 16.2
+  },
+  {
+    "category": "furniture_decor",
+    "orders": 6208,
+    "revenue": 715445,
+    "avgFreight": 27.23,
+    "avgDeliveryDays": 13.1,
+    "lateRate": 8.6,
+    "freightRatio": 23.6
+  },
+  {
+    "category": "housewares",
+    "orders": 5670,
+    "revenue": 612707,
+    "avgFreight": 25.07,
+    "avgDeliveryDays": 11.1,
+    "lateRate": 7,
+    "freightRatio": 23.2
+  },
+  {
+    "category": "watches_gifts",
+    "orders": 5453,
+    "revenue": 1159936,
+    "avgFreight": 17.9,
+    "avgDeliveryDays": 12.8,
+    "lateRate": 8.6,
+    "freightRatio": 8.4
+  },
+  {
+    "category": "telephony",
+    "orders": 4071,
+    "revenue": 308964,
+    "avgFreight": 16.98,
+    "avgDeliveryDays": 13,
+    "lateRate": 8.5,
+    "freightRatio": 22.4
+  },
+  {
+    "category": "auto",
+    "orders": 3803,
+    "revenue": 580818,
+    "avgFreight": 23.86,
+    "avgDeliveryDays": 12.3,
+    "lateRate": 8.6,
+    "freightRatio": 15.6
+  },
+  {
+    "category": "toys",
+    "orders": 3758,
+    "revenue": 467086,
+    "avgFreight": 20,
+    "avgDeliveryDays": 11.8,
+    "lateRate": 7.6,
+    "freightRatio": 16.1
+  },
+  {
+    "category": "cool_stuff",
+    "orders": 3516,
+    "revenue": 607466,
+    "avgFreight": 23.09,
+    "avgDeliveryDays": 12.4,
+    "lateRate": 6.9,
+    "freightRatio": 13.4
+  },
+  {
+    "category": "garden_tools",
+    "orders": 3411,
+    "revenue": 470175,
+    "avgFreight": 28.21,
+    "avgDeliveryDays": 13.7,
+    "lateRate": 8,
+    "freightRatio": 20.5
+  },
+  {
+    "category": "perfumery",
+    "orders": 3069,
+    "revenue": 389952,
+    "avgFreight": 17.25,
+    "avgDeliveryDays": 11.9,
+    "lateRate": 7.4,
+    "freightRatio": 13.6
+  },
+  {
+    "category": "baby",
+    "orders": 2794,
+    "revenue": 406248,
+    "avgFreight": 24.2,
+    "avgDeliveryDays": 12.7,
+    "lateRate": 9.2,
+    "freightRatio": 16.6
+  },
+  {
+    "category": "electronics",
+    "orders": 2509,
+    "revenue": 156321,
+    "avgFreight": 18.35,
+    "avgDeliveryDays": 12.9,
+    "lateRate": 9.8,
+    "freightRatio": 29.4
+  },
+  {
+    "category": "stationery",
+    "orders": 2240,
+    "revenue": 222848,
+    "avgFreight": 20.3,
+    "avgDeliveryDays": 12.8,
+    "lateRate": 7.8,
+    "freightRatio": 20.4
+  },
+  {
+    "category": "fashion_bags_accessories",
+    "orders": 1816,
+    "revenue": 149783,
+    "avgFreight": 16.93,
+    "avgDeliveryDays": 11.2,
+    "lateRate": 6.7,
+    "freightRatio": 20.5
+  },
+  {
+    "category": "pet_shop",
+    "orders": 1679,
+    "revenue": 211637,
+    "avgFreight": 23.18,
+    "avgDeliveryDays": 11.4,
+    "lateRate": 6.3,
+    "freightRatio": 18.4
+  },
+  {
+    "category": "unknown",
+    "orders": 1336,
+    "revenue": 166796,
+    "avgFreight": 19.28,
+    "avgDeliveryDays": 12.8,
+    "lateRate": 9,
+    "freightRatio": 15.4
+  },
+  {
+    "category": "office_furniture",
+    "orders": 1244,
+    "revenue": 267215,
+    "avgFreight": 53.6,
+    "avgDeliveryDays": 20.7,
+    "lateRate": 9.2,
+    "freightRatio": 25
+  },
+  {
+    "category": "consoles_games",
+    "orders": 1016,
+    "revenue": 148405,
+    "avgFreight": 18.84,
+    "avgDeliveryDays": 13.8,
+    "lateRate": 8.2,
+    "freightRatio": 12.9
+  },
+  {
+    "category": "luggage_accessories",
+    "orders": 1011,
+    "revenue": 138303,
+    "avgFreight": 29.74,
+    "avgDeliveryDays": 10.9,
+    "lateRate": 5.4,
+    "freightRatio": 21.7
+  },
+  {
+    "category": "home_appliances",
+    "orders": 747,
+    "revenue": 78832,
+    "avgFreight": 19.37,
+    "avgDeliveryDays": 11.3,
+    "lateRate": 6.7,
+    "freightRatio": 18.4
+  },
+  {
+    "category": "construction_tools_construction",
+    "orders": 731,
+    "revenue": 143252,
+    "avgFreight": 28.08,
+    "avgDeliveryDays": 10.9,
+    "lateRate": 9.2,
+    "freightRatio": 14.3
+  },
+  {
+    "category": "musical_instruments",
+    "orders": 606,
+    "revenue": 184148,
+    "avgFreight": 29.5,
+    "avgDeliveryDays": 13.1,
+    "lateRate": 8.9,
+    "freightRatio": 9.7
+  },
+  {
+    "category": "small_appliances",
+    "orders": 604,
+    "revenue": 181434,
+    "avgFreight": 25.22,
+    "avgDeliveryDays": 11,
+    "lateRate": 6.3,
+    "freightRatio": 8.4
+  },
+  {
+    "category": "books_general_interest",
+    "orders": 494,
+    "revenue": 45339,
+    "avgFreight": 18.08,
+    "avgDeliveryDays": 11.5,
+    "lateRate": 6.9,
+    "freightRatio": 19.7
+  },
+  {
+    "category": "home_construction",
+    "orders": 460,
+    "revenue": 78919,
+    "avgFreight": 27.72,
+    "avgDeliveryDays": 13.6,
+    "lateRate": 8.3,
+    "freightRatio": 16.2
+  },
+  {
+    "category": "food",
+    "orders": 436,
+    "revenue": 28570,
+    "avgFreight": 16.11,
+    "avgDeliveryDays": 9.8,
+    "lateRate": 10.1,
+    "freightRatio": 24.6
+  },
+  {
+    "category": "furniture_living_room",
+    "orders": 403,
+    "revenue": 66439,
+    "avgFreight": 43.15,
+    "avgDeliveryDays": 14.1,
+    "lateRate": 8.7,
+    "freightRatio": 26.2
+  },
+  {
+    "category": "audio",
+    "orders": 348,
+    "revenue": 52158,
+    "avgFreight": 16.64,
+    "avgDeliveryDays": 13.5,
+    "lateRate": 12.9,
+    "freightRatio": 11.1
+  },
+  {
+    "category": "home_confort",
+    "orders": 346,
+    "revenue": 53403,
+    "avgFreight": 22.55,
+    "avgDeliveryDays": 13.8,
+    "lateRate": 11,
+    "freightRatio": 14.6
+  },
+  {
+    "category": "drinks",
+    "orders": 285,
+    "revenue": 22047,
+    "avgFreight": 19.36,
+    "avgDeliveryDays": 10.3,
+    "lateRate": 6.7,
+    "freightRatio": 25
+  },
+  {
+    "category": "market_place",
+    "orders": 264,
+    "revenue": 27179,
+    "avgFreight": 19.59,
+    "avgDeliveryDays": 12.5,
+    "lateRate": 4.9,
+    "freightRatio": 19
+  },
+  {
+    "category": "books_technical",
+    "orders": 256,
+    "revenue": 18870,
+    "avgFreight": 16.71,
+    "avgDeliveryDays": 10.6,
+    "lateRate": 10.9,
+    "freightRatio": 22.7
+  },
+  {
+    "category": "air_conditioning",
+    "orders": 246,
+    "revenue": 53507,
+    "avgFreight": 26.8,
+    "avgDeliveryDays": 11.9,
+    "lateRate": 4.1,
+    "freightRatio": 12.3
+  },
+  {
+    "category": "construction_tools_lights",
+    "orders": 237,
+    "revenue": 44125,
+    "avgFreight": 32.21,
+    "avgDeliveryDays": 9.8,
+    "lateRate": 9.3,
+    "freightRatio": 17.3
+  },
+  {
+    "category": "kitchen_dining_laundry_garden_furniture",
+    "orders": 236,
+    "revenue": 45326,
+    "avgFreight": 48.29,
+    "avgDeliveryDays": 12,
+    "lateRate": 4.7,
+    "freightRatio": 25.1
+  },
+  {
+    "category": "fashion_shoes",
+    "orders": 233,
+    "revenue": 22933,
+    "avgFreight": 20.53,
+    "avgDeliveryDays": 15.7,
+    "lateRate": 6.4,
+    "freightRatio": 20.9
+  },
+  {
+    "category": "industry_commerce_and_business",
+    "orders": 228,
+    "revenue": 37898,
+    "avgFreight": 32.98,
+    "avgDeliveryDays": 10.9,
+    "lateRate": 8.3,
+    "freightRatio": 19.8
+  },
+  {
+    "category": "home_appliances_2",
+    "orders": 226,
+    "revenue": 107805,
+    "avgFreight": 45.15,
+    "avgDeliveryDays": 13.9,
+    "lateRate": 7.1,
+    "freightRatio": 9.5
+  },
+  {
+    "category": "food_drink",
+    "orders": 220,
+    "revenue": 15083,
+    "avgFreight": 20.21,
+    "avgDeliveryDays": 10.9,
+    "lateRate": 6.4,
+    "freightRatio": 29.5
+  },
+  {
+    "category": "fixed_telephony",
+    "orders": 212,
+    "revenue": 55395,
+    "avgFreight": 21.34,
+    "avgDeliveryDays": 12.5,
+    "lateRate": 5.2,
+    "freightRatio": 8.2
+  },
+  {
+    "category": "art",
+    "orders": 194,
+    "revenue": 23759,
+    "avgFreight": 20.04,
+    "avgDeliveryDays": 11.3,
+    "lateRate": 7.7,
+    "freightRatio": 16.4
+  },
+  {
+    "category": "costruction_tools_garden",
+    "orders": 186,
+    "revenue": 23855,
+    "avgFreight": 27.41,
+    "avgDeliveryDays": 12,
+    "lateRate": 7,
+    "freightRatio": 21.4
+  },
+  {
+    "category": "agro_industry_and_commerce",
+    "orders": 177,
+    "revenue": 70566,
+    "avgFreight": 31.85,
+    "avgDeliveryDays": 11.4,
+    "lateRate": 5.1,
+    "freightRatio": 8
+  },
+  {
+    "category": "computers",
+    "orders": 176,
+    "revenue": 217294,
+    "avgFreight": 54.83,
+    "avgDeliveryDays": 13.9,
+    "lateRate": 6.8,
+    "freightRatio": 4.4
+  },
+  {
+    "category": "construction_tools_safety",
+    "orders": 155,
+    "revenue": 39201,
+    "avgFreight": 25.47,
+    "avgDeliveryDays": 11.7,
+    "lateRate": 4.5,
+    "freightRatio": 10.1
+  },
+  {
+    "category": "signaling_and_security",
+    "orders": 137,
+    "revenue": 21239,
+    "avgFreight": 47.13,
+    "avgDeliveryDays": 10.9,
+    "lateRate": 5.8,
+    "freightRatio": 30.4
+  },
+  {
+    "category": "christmas_supplies",
+    "orders": 125,
+    "revenue": 8754,
+    "avgFreight": 25.57,
+    "avgDeliveryDays": 15.4,
+    "lateRate": 9.6,
+    "freightRatio": 36.5
+  },
+  {
+    "category": "fashion_underwear_beach",
+    "orders": 117,
+    "revenue": 9306,
+    "avgFreight": 15.85,
+    "avgDeliveryDays": 14,
+    "lateRate": 12.8,
+    "freightRatio": 19.9
+  },
+  {
+    "category": "fashion_male_clothing",
+    "orders": 106,
+    "revenue": 10452,
+    "avgFreight": 19.46,
+    "avgDeliveryDays": 12.9,
+    "lateRate": 4.7,
+    "freightRatio": 19.7
+  },
+  {
+    "category": "costruction_tools_tools",
+    "orders": 97,
+    "revenue": 15904,
+    "avgFreight": 20.93,
+    "avgDeliveryDays": 12.2,
+    "lateRate": 6.2,
+    "freightRatio": 12.8
+  },
+  {
+    "category": "furniture_bedroom",
+    "orders": 88,
+    "revenue": 18741,
+    "avgFreight": 48.72,
+    "avgDeliveryDays": 13.8,
+    "lateRate": 8,
+    "freightRatio": 22.9
+  },
+  {
+    "category": "tablets_printing_image",
+    "orders": 76,
+    "revenue": 7276,
+    "avgFreight": 15.9,
+    "avgDeliveryDays": 13.1,
+    "lateRate": 6.6,
+    "freightRatio": 16.6
+  },
+  {
+    "category": "small_appliances_home_oven_and_coffee",
+    "orders": 72,
+    "revenue": 46590,
+    "avgFreight": 36.89,
+    "avgDeliveryDays": 9.9,
+    "lateRate": 6.9,
+    "freightRatio": 5.7
+  },
+  {
+    "category": "cine_photo",
+    "orders": 63,
+    "revenue": 6898,
+    "avgFreight": 19.98,
+    "avgDeliveryDays": 10.5,
+    "lateRate": 7.9,
+    "freightRatio": 18.2
+  },
+  {
+    "category": "dvds_blu_ray",
+    "orders": 55,
+    "revenue": 4558,
+    "avgFreight": 22.17,
+    "avgDeliveryDays": 13,
+    "lateRate": 7.3,
+    "freightRatio": 26.7
+  },
+  {
+    "category": "books_imported",
+    "orders": 50,
+    "revenue": 4431,
+    "avgFreight": 15.03,
+    "avgDeliveryDays": 8.2,
+    "lateRate": 4,
+    "freightRatio": 17
+  },
+  {
+    "category": "party_supplies",
+    "orders": 37,
+    "revenue": 4385,
+    "avgFreight": 21.81,
+    "avgDeliveryDays": 9.1,
+    "lateRate": 2.7,
+    "freightRatio": 18.4
+  },
+  {
+    "category": "furniture_mattress_and_upholstery",
+    "orders": 37,
+    "revenue": 4323,
+    "avgFreight": 42.74,
+    "avgDeliveryDays": 14.4,
+    "lateRate": 13.5,
+    "freightRatio": 36.6
+  },
+  {
+    "category": "music",
+    "orders": 37,
+    "revenue": 6139,
+    "avgFreight": 18.57,
+    "avgDeliveryDays": 11.6,
+    "lateRate": 8.1,
+    "freightRatio": 11.2
+  },
+  {
+    "category": "fashio_female_clothing",
+    "orders": 36,
+    "revenue": 2700,
+    "avgFreight": 16.74,
+    "avgDeliveryDays": 13,
+    "lateRate": 5.6,
+    "freightRatio": 22.3
+  },
+  {
+    "category": "flowers",
+    "orders": 27,
+    "revenue": 1023,
+    "avgFreight": 17.35,
+    "avgDeliveryDays": 11.8,
+    "lateRate": 3.7,
+    "freightRatio": 45.8
+  },
+  {
+    "category": "diapers_and_hygiene",
+    "orders": 25,
+    "revenue": 1501,
+    "avgFreight": 21.82,
+    "avgDeliveryDays": 10.5,
+    "lateRate": 4,
+    "freightRatio": 36.3
+  },
+  {
+    "category": "fashion_sport",
+    "orders": 24,
+    "revenue": 1970,
+    "avgFreight": 22.24,
+    "avgDeliveryDays": 10.3,
+    "lateRate": 8.3,
+    "freightRatio": 27.1
+  },
+  {
+    "category": "home_comfort_2",
+    "orders": 23,
+    "revenue": 829,
+    "avgFreight": 18.48,
+    "avgDeliveryDays": 14.6,
+    "lateRate": 17.4,
+    "freightRatio": 51.3
+  },
+  {
+    "category": "arts_and_craftmanship",
+    "orders": 23,
+    "revenue": 1847,
+    "avgFreight": 17.16,
+    "avgDeliveryDays": 5.8,
+    "lateRate": 8.7,
+    "freightRatio": 21.4
+  },
+  {
+    "category": "portateis_cozinha_e_preparadores_de_alimentos",
+    "orders": 13,
+    "revenue": 3934,
+    "avgFreight": 22.65,
+    "avgDeliveryDays": 8.4,
+    "lateRate": 7.7,
+    "freightRatio": 7.5
+  },
+  {
+    "category": "cds_dvds_musicals",
+    "orders": 12,
+    "revenue": 730,
+    "avgFreight": 18.75,
+    "avgDeliveryDays": 10.9,
+    "lateRate": 0,
+    "freightRatio": 30.8
+  },
+  {
+    "category": "la_cuisine",
+    "orders": 11,
+    "revenue": 1894,
+    "avgFreight": 29.33,
+    "avgDeliveryDays": 7.1,
+    "lateRate": 0,
+    "freightRatio": 17
+  },
+  {
+    "category": "pc_gamer",
+    "orders": 6,
+    "revenue": 1177,
+    "avgFreight": 17.18,
+    "avgDeliveryDays": 10.2,
+    "lateRate": 0,
+    "freightRatio": 8.8
+  },
+  {
+    "category": "fashion_childrens_clothes",
+    "orders": 5,
+    "revenue": 440,
+    "avgFreight": 12.43,
+    "avgDeliveryDays": 9.4,
+    "lateRate": 0,
+    "freightRatio": 14.1
+  },
+  {
+    "category": "security_and_services",
+    "orders": 2,
+    "revenue": 283,
+    "avgFreight": 20.61,
+    "avgDeliveryDays": 15.1,
+    "lateRate": 0,
+    "freightRatio": 14.6
+  }
+]

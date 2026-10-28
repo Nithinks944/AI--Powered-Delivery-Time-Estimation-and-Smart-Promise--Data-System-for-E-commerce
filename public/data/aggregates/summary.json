@@ -1,0 +1,23 @@
+{
+  "totalOrders": 96470,
+  "totalRevenue": 13220248.93,
+  "totalFreight": 2198145.9,
+  "avgOrderValue": 137.04,
+  "avgFreight": 22.79,
+  "freightRatio": 16.63,
+  "avgDeliveryDays": 12.6,
+  "avgEstimatedDays": 23.7,
+  "avgDelayGap": -11.2,
+  "onTimeRate": 91.9,
+  "lateRate": 8.1,
+  "sameStateShare": 36,
+  "dateRange": {
+    "start": "2016-09-15",
+    "end": "2018-08-29"
+  },
+  "p50DeliveryDays": 10.248518518518518,
+  "p90DeliveryDays": 23.118194444444445,
+  "p99DeliveryDays": 46.15116898148148,
+  "p99EstimatedDays": 49.46081018518519,
+  "p99TotalPrice": 999.9
+}
