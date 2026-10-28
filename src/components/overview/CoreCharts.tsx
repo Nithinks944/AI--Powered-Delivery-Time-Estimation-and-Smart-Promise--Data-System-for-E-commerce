@@ -48,6 +48,7 @@ export const CoreCharts: React.FC = () => {
 
   const [categoryMetric, setCategoryMetric] = useState<'orders' | 'revenue' | 'avgFreight' | 'lateRate'>('orders');
   const [selectedDayFilter, setSelectedDayFilter] = useState<number | 'all'>('all');
+  const [hoveredDonutSlice, setHoveredDonutSlice] = useState<{ name: string; value: number; color: string } | null>(null);
 
   const onTimeLateDonutData = summary
     ? [
@@ -347,11 +348,11 @@ export const CoreCharts: React.FC = () => {
         {/* Chart 4: On-time vs late donut */}
         <div className="p-5 rounded-2xl glass-card flex flex-col justify-between">
           <div>
-            <h3 className="font-semibold text-white text-sm flex items-center gap-2 mb-1">
+            <h3 className="font-semibold text-slate-900 dark:text-white text-sm flex items-center gap-2 mb-1">
               <PieIcon className="w-4 h-4 text-emerald-400" />
               SLA Compliance Ratio
             </h3>
-            <p className="text-xs text-slate-400">On-time delivery against estimated delivery dates</p>
+            <p className="text-xs text-slate-500 dark:text-slate-400">On-time delivery against estimated delivery dates</p>
           </div>
 
           <div className="h-48 w-full relative flex items-center justify-center">
@@ -361,59 +362,62 @@ export const CoreCharts: React.FC = () => {
                   data={onTimeLateDonutData}
                   cx="50%"
                   cy="50%"
-                  innerRadius={55}
-                  outerRadius={78}
+                  innerRadius={56}
+                  outerRadius={80}
                   paddingAngle={4}
                   dataKey="value"
+                  onMouseEnter={(_, index) => setHoveredDonutSlice(onTimeLateDonutData[index])}
+                  onMouseLeave={() => setHoveredDonutSlice(null)}
                 >
                   {onTimeLateDonutData.map((entry, index) => (
-                    <Cell key={`cell-${index}`} fill={entry.color} />
+                    <Cell
+                      key={`cell-${index}`}
+                      fill={entry.color}
+                      className="cursor-pointer transition-opacity duration-200 hover:opacity-80"
+                    />
                   ))}
                 </Pie>
-                <Tooltip
-                  content={({ active, payload }) => {
-                    if (!active || !payload || !payload.length) return null;
-                    const data = payload[0].payload;
-                    return (
-                      <div className="p-3 rounded-xl bg-white/95 dark:bg-slate-900/95 backdrop-blur-md border border-sky-300 dark:border-sky-500/40 shadow-xl text-xs space-y-1">
-                        <div className="flex items-center gap-1.5 font-bold text-slate-900 dark:text-white">
-                          <span className="w-2 h-2 rounded-full" style={{ backgroundColor: data.color }} />
-                          {data.name}
-                        </div>
-                        <div className="flex justify-between gap-4 text-slate-600 dark:text-slate-300">
-                          <span>Orders:</span>
-                          <span className="font-bold text-slate-900 dark:text-white">{formatNumber(data.value)}</span>
-                        </div>
-                      </div>
-                    );
-                  }}
-                />
               </PieChart>
             </ResponsiveContainer>
-            <div className="absolute inset-0 flex flex-col items-center justify-center pointer-events-none">
-              <span className="text-2xl font-bold text-white tracking-tight">
-                {summary?.onTimeRate.toFixed(1)}%
+            {/* Interactive Center Inspector - Replaces overlapping tooltip */}
+            <div className="absolute inset-0 flex flex-col items-center justify-center pointer-events-none transition-all duration-200">
+              <span className="text-2xl font-bold text-slate-900 dark:text-white tracking-tight">
+                {hoveredDonutSlice
+                  ? `${((hoveredDonutSlice.value / (summary?.totalOrders || 1)) * 100).toFixed(1)}%`
+                  : `${summary?.onTimeRate.toFixed(1)}%`}
               </span>
-              <span className="text-[10px] uppercase font-semibold text-emerald-400 tracking-wider">On-Time</span>
+              <span
+                className="text-[10px] uppercase font-bold tracking-wider mt-0.5 px-2 py-0.5 rounded-full"
+                style={{
+                  color: hoveredDonutSlice ? hoveredDonutSlice.color : '#10b981',
+                  backgroundColor: hoveredDonutSlice
+                    ? hoveredDonutSlice.name === 'On-Time' ? 'rgba(16, 185, 129, 0.12)' : 'rgba(244, 63, 94, 0.12)'
+                    : 'rgba(16, 185, 129, 0.12)',
+                }}
+              >
+                {hoveredDonutSlice ? `${hoveredDonutSlice.name} (${formatNumber(hoveredDonutSlice.value)})` : 'On-Time'}
+              </span>
             </div>
           </div>
 
-          <div className="space-y-2 pt-2 border-t border-white/[0.08]">
+          <div className="space-y-2 pt-2 border-t border-slate-200/60 dark:border-white/[0.08]">
             <div className="flex items-center justify-between text-xs">
-              <span className="flex items-center gap-1.5 text-slate-300">
+              <span className="flex items-center gap-1.5 text-slate-600 dark:text-slate-300">
                 <span className="w-2.5 h-2.5 rounded-full bg-emerald-500" />
                 Arrived On-Time / Early
               </span>
-              <span className="font-semibold text-white">
-                {summary?.onTimeRate}%
+              <span className="font-semibold text-slate-900 dark:text-white">
+                {summary?.onTimeRate}% <span className="text-slate-400 font-normal">({formatNumber(onTimeLateDonutData[0]?.value || 0)})</span>
               </span>
             </div>
             <div className="flex items-center justify-between text-xs">
-              <span className="flex items-center gap-1.5 text-slate-300">
+              <span className="flex items-center gap-1.5 text-slate-600 dark:text-slate-300">
                 <span className="w-2.5 h-2.5 rounded-full bg-rose-500" />
                 Exceeded SLA Date (Late)
               </span>
-              <span className="font-semibold text-rose-400">{summary?.lateRate}%</span>
+              <span className="font-semibold text-rose-500">
+                {summary?.lateRate}% <span className="text-slate-400 font-normal">({formatNumber(onTimeLateDonutData[1]?.value || 0)})</span>
+              </span>
             </div>
           </div>
         </div>
