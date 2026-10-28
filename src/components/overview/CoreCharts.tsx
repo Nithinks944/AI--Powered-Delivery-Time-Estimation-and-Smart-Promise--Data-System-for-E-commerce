@@ -166,17 +166,28 @@ export const CoreCharts: React.FC = () => {
                   tickFormatter={(v) => `R$${(v / 1000).toFixed(0)}k`}
                 />
                 <Tooltip
-                  contentStyle={{
-                    backgroundColor: '#0a0f1d',
-                    borderColor: 'rgba(255,255,255,0.1)',
-                    borderRadius: '12px',
-                    color: '#fff',
-                    fontSize: '12px',
-                    boxShadow: '0 10px 25px -5px rgba(0,0,0,0.6)',
+                  cursor={{ fill: 'rgba(14, 165, 233, 0.08)' }}
+                  content={({ active, payload, label }) => {
+                    if (!active || !payload || !payload.length) return null;
+                    return (
+                      <div className="p-3 rounded-xl bg-white/95 dark:bg-slate-900/95 backdrop-blur-md border border-sky-300 dark:border-sky-500/40 shadow-xl text-xs space-y-1.5 min-w-[190px]">
+                        <div className="font-bold text-sky-600 dark:text-sky-400 border-b border-sky-100 dark:border-white/10 pb-1">
+                          {label}
+                        </div>
+                        {payload.map((item: any) => (
+                          <div key={item.name} className="flex justify-between items-center text-slate-600 dark:text-slate-300">
+                            <span className="flex items-center gap-1.5">
+                              <span className="w-2 h-2 rounded-full" style={{ backgroundColor: item.color || item.fill || item.stroke }} />
+                              {item.name}:
+                            </span>
+                            <span className="font-bold text-slate-900 dark:text-white">
+                              {item.name === 'Revenue' ? formatCurrency(item.value) : formatNumber(item.value)}
+                            </span>
+                          </div>
+                        ))}
+                      </div>
+                    );
                   }}
-                  formatter={(val: any, name: any) =>
-                    name === 'Revenue' ? formatCurrency(val) : formatNumber(val)
-                  }
                 />
                 <Legend wrapperStyle={{ fontSize: '11px', paddingTop: '8px' }} />
                 <Bar yAxisId="left" dataKey="orders" fill="url(#orderBarGrad)" name="Orders" radius={[6, 6, 0, 0]} />
@@ -221,14 +232,28 @@ export const CoreCharts: React.FC = () => {
                 <XAxis dataKey="yearMonth" stroke="#64748b" fontSize={10} tickLine={false} />
                 <YAxis stroke="#64748b" fontSize={10} tickLine={false} unit="d" />
                 <Tooltip
-                  contentStyle={{
-                    backgroundColor: '#0a0f1d',
-                    borderColor: 'rgba(255,255,255,0.1)',
-                    borderRadius: '12px',
-                    color: '#fff',
-                    fontSize: '12px',
+                  cursor={{ strokeDasharray: '3 3' }}
+                  content={({ active, payload, label }) => {
+                    if (!active || !payload || !payload.length) return null;
+                    return (
+                      <div className="p-3 rounded-xl bg-white/95 dark:bg-slate-900/95 backdrop-blur-md border border-sky-300 dark:border-sky-500/40 shadow-xl text-xs space-y-1.5 min-w-[210px]">
+                        <div className="font-bold text-sky-600 dark:text-sky-400 border-b border-sky-100 dark:border-white/10 pb-1">
+                          {label}
+                        </div>
+                        {payload.map((item: any) => (
+                          <div key={item.name} className="flex justify-between items-center text-slate-600 dark:text-slate-300">
+                            <span className="flex items-center gap-1.5">
+                              <span className="w-2 h-2 rounded-full" style={{ backgroundColor: item.color || item.stroke }} />
+                              {item.name}:
+                            </span>
+                            <span className="font-bold text-slate-900 dark:text-white">
+                              {formatDays(item.value)}
+                            </span>
+                          </div>
+                        ))}
+                      </div>
+                    );
                   }}
-                  formatter={(val: any) => formatDays(val)}
                 />
                 <Legend wrapperStyle={{ fontSize: '11px', paddingTop: '8px' }} />
                 <Area
@@ -278,14 +303,22 @@ export const CoreCharts: React.FC = () => {
                 <XAxis dataKey="label" stroke="#64748b" fontSize={9} tickLine={false} interval={1} />
                 <YAxis stroke="#64748b" fontSize={10} tickLine={false} />
                 <Tooltip
-                  contentStyle={{
-                    backgroundColor: '#0a0f1d',
-                    borderColor: 'rgba(255,255,255,0.1)',
-                    borderRadius: '12px',
-                    color: '#fff',
-                    fontSize: '12px',
+                  cursor={{ fill: 'rgba(14, 165, 233, 0.08)' }}
+                  content={({ active, payload }) => {
+                    if (!active || !payload || !payload.length) return null;
+                    const data = payload[0].payload;
+                    return (
+                      <div className="p-3 rounded-xl bg-white/95 dark:bg-slate-900/95 backdrop-blur-md border border-sky-300 dark:border-sky-500/40 shadow-xl text-xs space-y-1">
+                        <div className="font-bold text-sky-600 dark:text-sky-400">
+                          {data.label} ({data.binStart} to {data.binEnd} days)
+                        </div>
+                        <div className="flex justify-between gap-4 text-slate-600 dark:text-slate-300">
+                          <span>Order Volume:</span>
+                          <span className="font-bold text-slate-900 dark:text-white">{formatNumber(data.count)} orders</span>
+                        </div>
+                      </div>
+                    );
                   }}
-                  formatter={(val: any) => [`${formatNumber(val)} orders`, 'Volume']}
                 />
                 <Bar dataKey="count" fill="#38bdf8" radius={[4, 4, 0, 0]}>
                   {deliveryHistogram.map((entry, index) => (
@@ -338,14 +371,22 @@ export const CoreCharts: React.FC = () => {
                   ))}
                 </Pie>
                 <Tooltip
-                  contentStyle={{
-                    backgroundColor: '#0a0f1d',
-                    borderColor: 'rgba(255,255,255,0.1)',
-                    borderRadius: '12px',
-                    color: '#fff',
-                    fontSize: '12px',
+                  content={({ active, payload }) => {
+                    if (!active || !payload || !payload.length) return null;
+                    const data = payload[0].payload;
+                    return (
+                      <div className="p-3 rounded-xl bg-white/95 dark:bg-slate-900/95 backdrop-blur-md border border-sky-300 dark:border-sky-500/40 shadow-xl text-xs space-y-1">
+                        <div className="flex items-center gap-1.5 font-bold text-slate-900 dark:text-white">
+                          <span className="w-2 h-2 rounded-full" style={{ backgroundColor: data.color }} />
+                          {data.name}
+                        </div>
+                        <div className="flex justify-between gap-4 text-slate-600 dark:text-slate-300">
+                          <span>Orders:</span>
+                          <span className="font-bold text-slate-900 dark:text-white">{formatNumber(data.value)}</span>
+                        </div>
+                      </div>
+                    );
                   }}
-                  formatter={(val: any) => formatNumber(val)}
                 />
               </PieChart>
             </ResponsiveContainer>
@@ -427,20 +468,36 @@ export const CoreCharts: React.FC = () => {
                   tickFormatter={(cat) => cat.replace(/_/g, ' ')}
                 />
                 <Tooltip
-                  contentStyle={{
-                    backgroundColor: '#0a0f1d',
-                    borderColor: 'rgba(255,255,255,0.1)',
-                    borderRadius: '12px',
-                    color: '#fff',
-                    fontSize: '12px',
+                  cursor={{ fill: 'rgba(14, 165, 233, 0.08)' }}
+                  content={({ active, payload }) => {
+                    if (!active || !payload || !payload.length) return null;
+                    const data = payload[0].payload;
+                    return (
+                      <div className="p-3.5 rounded-xl bg-white/95 dark:bg-slate-900/95 backdrop-blur-md border border-sky-300 dark:border-sky-500/40 shadow-xl text-xs space-y-1.5 min-w-[190px]">
+                        <div className="font-bold text-sky-600 dark:text-sky-400 capitalize border-b border-sky-100 dark:border-white/10 pb-1">
+                          {data.category.replace(/_/g, ' ')}
+                        </div>
+                        <div className="space-y-1 text-slate-600 dark:text-slate-300">
+                          <div className="flex justify-between">
+                            <span>Orders:</span>
+                            <span className="font-bold text-slate-900 dark:text-white">{formatNumber(data.orders)}</span>
+                          </div>
+                          <div className="flex justify-between">
+                            <span>Revenue:</span>
+                            <span className="font-bold text-slate-900 dark:text-white">{formatCurrency(data.revenue)}</span>
+                          </div>
+                          <div className="flex justify-between">
+                            <span>Avg Freight:</span>
+                            <span className="font-bold text-slate-900 dark:text-white">{formatCurrency(data.avgFreight)}</span>
+                          </div>
+                          <div className="flex justify-between">
+                            <span>Late Rate:</span>
+                            <span className="font-bold text-rose-500">{data.lateRate}%</span>
+                          </div>
+                        </div>
+                      </div>
+                    );
                   }}
-                  formatter={(val: any) =>
-                    categoryMetric === 'revenue' || categoryMetric === 'avgFreight'
-                      ? formatCurrency(val)
-                      : categoryMetric === 'lateRate'
-                      ? formatPercent(val)
-                      : formatNumber(val)
-                  }
                 />
                 <Bar
                   dataKey={categoryMetric}
@@ -652,32 +709,56 @@ export const CoreCharts: React.FC = () => {
                   type="number"
                   dataKey="deliveryDays"
                   name="Delivery Days"
-                  stroke="#64748b"
+                  stroke="#94a3b8"
                   fontSize={10}
                   tickLine={false}
-                  unit="d"
+                  tickFormatter={(v) => `${v}d`}
                 />
                 <YAxis
                   type="number"
                   dataKey="freight"
                   name="Freight Cost"
-                  stroke="#64748b"
+                  stroke="#94a3b8"
                   fontSize={10}
                   tickLine={false}
-                  unit="R$"
+                  tickFormatter={(v) => `R$${v}`}
                 />
                 <Tooltip
                   cursor={{ strokeDasharray: '3 3' }}
-                  contentStyle={{
-                    backgroundColor: '#0a0f1d',
-                    borderColor: 'rgba(255,255,255,0.1)',
-                    borderRadius: '12px',
-                    color: '#fff',
-                    fontSize: '12px',
+                  content={({ active, payload }) => {
+                    if (!active || !payload || !payload.length) return null;
+                    const data = payload[0].payload;
+                    const isSame = data.sameState === 1;
+                    return (
+                      <div className="p-3.5 rounded-xl bg-white/95 dark:bg-slate-900/95 backdrop-blur-md border border-sky-300 dark:border-sky-500/40 shadow-xl text-xs space-y-2 min-w-[210px]">
+                        <div className="flex items-center justify-between font-bold text-slate-900 dark:text-white border-b border-sky-100 dark:border-white/10 pb-1.5">
+                          <span className="flex items-center gap-1.5">
+                            <span className={`w-2 h-2 rounded-full ${isSame ? 'bg-emerald-500' : 'bg-sky-500'}`} />
+                            {isSame ? 'Intra-State Delivery' : 'Cross-State Delivery'}
+                          </span>
+                          <span className="font-mono text-[10px] text-sky-700 dark:text-sky-300 bg-sky-50 dark:bg-sky-950/60 px-1.5 py-0.5 rounded border border-sky-200 dark:border-sky-800/40 font-semibold">
+                            {data.state}
+                          </span>
+                        </div>
+                        <div className="space-y-1 text-slate-600 dark:text-slate-300 font-medium">
+                          <div className="flex justify-between items-center">
+                            <span>Delivery Time:</span>
+                            <span className="font-bold text-sky-600 dark:text-sky-300 bg-sky-50 dark:bg-sky-950/60 px-1.5 py-0.5 rounded text-[11px]">{data.deliveryDays} days</span>
+                          </div>
+                          <div className="flex justify-between items-center">
+                            <span>Freight Cost:</span>
+                            <span className="font-bold text-slate-900 dark:text-white">{formatCurrency(data.freight)}</span>
+                          </div>
+                          {data.category && (
+                            <div className="flex justify-between items-center text-[11px] text-slate-500 dark:text-slate-400 pt-0.5">
+                              <span>Category:</span>
+                              <span className="capitalize font-semibold text-slate-800 dark:text-slate-200">{data.category.replace(/_/g, ' ')}</span>
+                            </div>
+                          )}
+                        </div>
+                      </div>
+                    );
                   }}
-                  formatter={(val: any, name: any) =>
-                    name === 'Freight Cost' ? formatCurrency(val) : formatDays(val)
-                  }
                 />
                 <Scatter
                   name="Orders"
